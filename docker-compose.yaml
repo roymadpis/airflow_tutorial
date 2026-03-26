@@ -12,12 +12,16 @@ services:
     depends_on:
       - postgres
     environment:
+      - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
       - AIRFLOW__CORE__EXECUTOR=LocalExecutor
       - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
       - WANDB_API_KEY=${WANDB_API_KEY} # Load from our local .env file
       - AIRFLOW__WEBSERVER__SECRET_KEY=${AIRFLOW__WEBSERVER__SECRET_KEY} # Load from our local .env file
     volumes:
       - ./dags:/opt/airflow/dags
+      - ./config:/opt/airflow/config  
+      - ./scripts:/opt/airflow/dags/scripts  
+      - ./datasets:/opt/airflow/datasets 
     command: scheduler
 
   webserver:
