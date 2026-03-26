@@ -1,0 +1,7 @@
+experiment_id: "march_user_retention_sweep"
+target_dag_id: "pipeline_with_config"
+log_file_path: "datasets/experiment_history.csv"
+sweep_parameters:
+  min_spend_threshold: [100, 500, 1000]
+  target_min_seniority: [30, 90, 180]
+  target_item: ["Laptop", "Monitor"]

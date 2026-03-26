@@ -24,14 +24,6 @@ from scripts.create_customers_dataset import generate_customer_data
 from scripts.stats_on_customers_table import generate_stats_logic
 from scripts.predict_value import identify_marketing_targets
 
-# # 1. Load the configuration
-# import yaml
-# current_dir = os.path.dirname(__file__) # Get the directory of the current script (project_root/dags)
-# conf_path = os.path.join(current_dir, '..', 'config', 'config.yaml') # Go up one level and into the config folder
-# conf_path = os.path.abspath(conf_path) # Normalize the path (cleans up the '..' for a cleaner string)
-# with open(CONFIG_PATH, 'r') as f:
-#     config = yaml.safe_load(f)
-
 # 1. Setup Paths
 # __file__ is /opt/airflow/dags/dag_using_config.py
 # .parent.parent is /opt/airflow/
@@ -88,7 +80,7 @@ with DAG(
         }
     )
 
-    # You can add a second task here to 'process' the file created by the first
+    #
     customers_stats_task = PythonOperator(
         task_id='compute_stats',
         python_callable=generate_stats_logic,
@@ -99,35 +91,24 @@ with DAG(
         }
     )
 
-    # Convert the string "100, 200, 300..." into a Python list of integers
-    #spend_thresholds_list = [int(x.strip()) for x in ANALYSIS['spend_thresholds'].split(',')]
-    thresholds_str = config['analysis_params']['spend_thresholds']
-    spend_thresholds_list = [int(x.strip()) for x in thresholds_str.split(',')]
-    
-    # 2. Use the .expand() wrapper
-    # This tells Airflow: "Run this task 6 times, once for each value in spend_thresholds"
-    
-    predict_value_task = PythonOperator.partial(
-        task_id='predict_customer_value',
-        python_callable=identify_marketing_targets,
-    ).expand(
-        op_kwargs=[
-            {
-                'min_spend': val,
+
+    predict_value_task = PythonOperator(
+            task_id='predict_customer_value',
+            python_callable=identify_marketing_targets,
+            op_kwargs={
                 'input_file': "{{ ti.xcom_pull(task_ids='generate_customer_csv') }}",
                 'output_path': ANALYSIS['output_predictions_path'],
-                'target_item': ANALYSIS['target_item'],
-                'age_min': ANALYSIS['target_age_min'],
-                'age_max': ANALYSIS['target_age_max'],
-                'min_seniority': ANALYSIS['target_min_seniority'],
+                # JINJA TEMPLATES: Look for 'min_spend' in dag_run.conf, fallback to ANALYSIS
+                'target_item': "{{ dag_run.conf.get('target_item', '" + ANALYSIS['target_item'] + "') }}",
+                'min_spend': "{{ dag_run.conf.get('min_spend', " + ANALYSIS['min_spend_threshold'] + ") }}",
+                'age_min': "{{ dag_run.conf.get('age_min', " + ANALYSIS['target_age_min'] + ") }}",
+                'age_max': "{{ dag_run.conf.get('age_max', " + ANALYSIS['target_age_max'] + ") }}",
+                'min_seniority': "{{ dag_run.conf.get('target_min_seniority', " + ANALYSIS['target_min_seniority'] + ") }}",
+                'experiment_id': "{{ dag_run.conf.get('experiment_id', 'manual_run') }}",
                 'wandb_project': WANDB['wandb_project']
-            } 
-            for val in spend_thresholds_list
-        ]
-    )
-    
-    
-    
+            }
+        )
+
     # predict_value_task = PythonOperator(
     #     task_id='predict_customer_value',
     #     python_callable=identify_marketing_targets,
@@ -143,30 +124,3 @@ with DAG(
     #     }
     # )
 create_customers_table >>  customers_stats_task >> predict_value_task
-
-
-
-# def process_data_logic(input_p, output_p, batch):
-#     print(f"Reading from: {input_p}")
-#     print(f"Processing in batches of: {batch}")
-#     print(f"Writing to: {output_p}")
-
-# # 2. Use config values to define the DAG
-# with DAG(
-#     dag_id=config['dag_id'],
-#     schedule_interval=config['schedule_interval'],
-#     start_date=datetime(2024, 1, 1),
-#     catchup=False,
-#     tags=['example', 'config-driven']
-# ) as dag:
-
-#     # 3. Pass parameters into tasks
-#     process_task = PythonOperator(
-#         task_id='process_customer_data',
-#         python_callable=process_data_logic,
-#         op_kwargs={
-#             'input_p': config['params']['input_path'],
-#             'output_p': config['params']['output_path'],
-#             'batch': config['params']['batch_size']
-#         }
-#     )

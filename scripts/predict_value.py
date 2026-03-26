@@ -3,20 +3,22 @@ from datetime import datetime
 import wandb
 
 def identify_marketing_targets(input_file, output_path, target_item, min_spend, age_min, age_max, min_seniority,
-                               wandb_project = None):
+                               wandb_project = None, experiment_id="manual_run"):
     
     if wandb_project:
-        print(f"Using wandb for logging...")
+        print(f"Using wandb for logging... Experiment: {experiment_id}")
         # Initialize W&B Run
         run = wandb.init(
             project=wandb_project,
             job_type="prediction",
+            name=f"age_{age_min}_{age_max}_seniority_{min_seniority}_spend_{min_spend}_{datetime.now().strftime('%H%M%S')}",
             config={
                 "target_item": target_item,
-                "min_spend": min_spend,
-                "age_min": age_min,
-                "age_max": age_max,
-                "min_seniority": min_seniority
+                "min_spend": float(min_spend),
+                "age_min": float(age_min),
+                "age_max": float(age_max),
+                "min_seniority": float(min_seniority),
+                "experiment_id": experiment_id
             }
         )
     
@@ -62,12 +64,14 @@ def identify_marketing_targets(input_file, output_path, target_item, min_spend, 
     if wandb_project:
         wandb.log({
             "target_item": target_item,
-            "min_spend": min_spend,
-            "age_min": age_min,
-            "age_max": age_max,
-            "min_seniority": min_seniority,
+            "min_spend": float(min_spend),
+            "age_min": float(age_min),
+            "age_max": float(age_max),
+            "min_seniority": float(min_seniority),
             "target_count": num_targets,
             "conversion_rate": conversion_rate,
+            "experiment_id": experiment_id,
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "total_customers": len(df)
         }) 
         # Log the output file as an Artifact

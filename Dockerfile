@@ -11,4 +11,4 @@ RUN pip install --no-cache-dir --upgrade pip && \
     numpy \
     wandb \
     apache-airflow \
-    faker
+    faker 
