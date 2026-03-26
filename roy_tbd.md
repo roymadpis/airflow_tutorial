@@ -6,3 +6,13 @@ Goal: build a warpper that is able to run a given airlow process multiple times,
 we would like to save the outputs of predict_value with the variables values
 
 2. Add the "for loop" logic --> we would like to run multiple parametrs values and record for each run in airflow the outcomes.
+
+
+I want to test multiple parameters values, for example:
+
+min_spend_threshold = [100, 200, 300, 500, 1000]
+
+how can I do that?
+
+
+docker-compose restart scheduler

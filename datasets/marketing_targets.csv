@@ -14,7 +14,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 3307,Madison Smith,910.524.0154x5645,madison.smith@gmail.com,43,2022-06-20 15:50:21.135474,Laptop|Desk Lamp|Mouse,127.9,805.8,1374,0
 5663,Samantha Ramos,496-914-7884x532,samantha.ramos@hotmail.com,49,2023-03-13 20:24:33.792470,Desk Lamp|Mouse|Phone|Monitor,1025.83,5035.65,1108,0
 6493,Kelsey Scott,001-468-320-9591x670,kelsey.scott@hotmail.com,54,2025-09-11 14:07:21.482373,Keyboard|Phone|Monitor,1079.4,6996.56,195,0
-9226,Christina Wright,001-677-441-5586x615,christina.wright@hotmail.com,26,2026-01-18 13:04:37.892971,Desk Lamp|Phone,1732.89,11248.68,66,0
+9226,Christina Wright,001-677-441-5586x615,christina.wright@hotmail.com,26,2026-01-18 13:04:37.892971,Desk Lamp|Phone,1732.89,11248.68,67,0
 3756,Alyssa Pearson,8379705532,alyssa.pearson@hotmail.com,43,2022-05-17 01:16:30.983479,Laptop|Phone,1890.6,17398.96,1409,0
 3148,Charles Lawrence,9079233323,charles.lawrence@hotmail.com,65,2024-05-09 02:08:08.076387,Keyboard|Mouse|Desk Lamp,441.82,4215.4,686,0
 3755,Leslie Powell,9259963246,leslie.powell@yahoo.com,25,2021-05-04 03:43:36.312749,Laptop|Mouse,324.06,2426.42,1787,1
@@ -30,10 +30,10 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 7199,Linda Henry,(897)872-4330,linda.henry@yahoo.com,62,2023-05-29 14:18:13.132226,Keyboard,300.84,2133.88,1031,0
 5964,Sarah Collins,+1-746-388-5802x8085,sarah.collins@gmail.com,44,2024-02-09 14:28:34.387968,Laptop|Desk Lamp|Phone,950.97,5929.64,775,0
 7938,Samantha Salinas,+1-431-669-6915x6889,samantha.salinas@gmail.com,47,2024-06-29 01:13:10.367442,Phone|Keyboard|Laptop|Mouse,1452.1,9051.57,635,0
-8089,Malik Larsen,+1-433-457-6459x703,malik.larsen@gmail.com,58,2023-06-19 12:22:47.243920,Desk Lamp|Mouse,1220.58,11534.05,1010,0
+8089,Malik Larsen,+1-433-457-6459x703,malik.larsen@gmail.com,58,2023-06-19 12:22:47.243920,Desk Lamp|Mouse,1220.58,11534.05,1011,0
 7890,Julia Jones,378-429-2506x145,julia.jones@yahoo.com,57,2025-10-18 08:02:23.597419,Desk Lamp|Mouse|Keyboard,1102.85,9868.08,159,0
-6474,Robert Hensley,310.362.0224x758,robert.hensley@yahoo.com,42,2022-02-02 13:25:35.332783,Keyboard,1511.38,14390.1,1512,0
-9135,Sherri Russell,610-477-2643,sherri.russell@hotmail.com,60,2025-07-04 12:36:53.747286,Monitor|Desk Lamp|Mouse,1385.49,10224.67,264,0
+6474,Robert Hensley,310.362.0224x758,robert.hensley@yahoo.com,42,2022-02-02 13:25:35.332783,Keyboard,1511.38,14390.1,1513,0
+9135,Sherri Russell,610-477-2643,sherri.russell@hotmail.com,60,2025-07-04 12:36:53.747286,Monitor|Desk Lamp|Mouse,1385.49,10224.67,265,0
 3519,Jay Smith,586-751-6013,jay.smith@hotmail.com,65,2023-06-10 23:59:52.970401,Mouse|Desk Lamp|Phone|Laptop,1858.37,18134.79,1019,0
 9220,James Harris,+1-267-715-8111,james.harris@hotmail.com,47,2025-05-23 22:48:54.398482,Monitor|Desk Lamp|Mouse|Laptop,1150.84,10117.63,306,0
 8212,Heidi Brock,601-469-1836x93388,heidi.brock@gmail.com,24,2023-02-23 20:08:16.534153,Desk Lamp|Laptop|Mouse|Monitor,157.76,305.95,1126,0
@@ -52,10 +52,10 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 4076,Daniel Roach,001-347-876-7085x03539,daniel.roach@gmail.com,55,2024-02-17 07:43:21.585005,Desk Lamp,717.44,5231.99,768,0
 5518,Mark Scott,001-443-561-0484,mark.scott@yahoo.com,64,2023-07-14 01:01:51.020776,Desk Lamp|Mouse|Monitor,1812.51,15534.9,986,0
 9206,Eileen Martinez,001-397-628-1112x7081,eileen.martinez@hotmail.com,48,2023-05-14 06:25:50.774441,Desk Lamp|Mouse|Phone|Laptop,1506.24,12668.22,1047,0
-3378,Susan Garcia,(267)341-1432x2334,susan.garcia@hotmail.com,40,2025-07-24 17:19:35.419144,Laptop|Phone|Keyboard,166.92,408.39,244,0
+3378,Susan Garcia,(267)341-1432x2334,susan.garcia@hotmail.com,40,2025-07-24 17:19:35.419144,Laptop|Phone|Keyboard,166.92,408.39,244,1
 1239,Richard Deleon,5694622230,richard.deleon@gmail.com,38,2022-10-01 21:34:33.364185,Phone|Laptop|Keyboard,248.32,1295.06,1271,1
 8789,Joseph Roberts,(986)678-7297x524,joseph.roberts@yahoo.com,60,2025-04-21 23:40:05.735394,Monitor|Laptop|Phone|Keyboard,1704.66,4132.2,338,0
-2005,Christine Shaw,612-521-8130,christine.shaw@hotmail.com,39,2024-11-01 12:53:30.131431,Monitor|Phone,224.59,1850.15,509,0
+2005,Christine Shaw,612-521-8130,christine.shaw@hotmail.com,39,2024-11-01 12:53:30.131431,Monitor|Phone,224.59,1850.15,510,0
 3205,Heather Mcbride,(545)558-8610x0548,heather.mcbride@hotmail.com,27,2025-12-06 19:21:52.251513,Phone|Mouse|Keyboard,907.19,4969.76,109,0
 3913,Robert Lee,001-580-635-9459x730,robert.lee@gmail.com,22,2021-08-11 23:47:46.583480,Laptop|Monitor,612.62,975.61,1687,0
 8281,Bruce Bush,842-831-4326,bruce.bush@gmail.com,34,2023-11-26 19:54:32.693400,Mouse|Laptop|Phone,1888.56,9211.97,850,1
@@ -67,7 +67,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 7668,Jennifer Rose,660-509-2534,jennifer.rose@yahoo.com,35,2025-12-08 15:36:00.958226,Phone|Desk Lamp|Laptop|Monitor,1481.33,3886.15,107,1
 8324,David Dixon,001-643-761-4462x2159,david.dixon@gmail.com,53,2023-12-13 19:17:51.849888,Phone,630.19,1053.72,833,0
 8826,Richard Johnson,001-491-610-2386,richard.johnson@gmail.com,21,2022-05-05 04:07:37.139411,Desk Lamp|Phone|Mouse,561.89,2485.77,1421,0
-5603,Wendy Salinas,+1-307-461-0440x5951,wendy.salinas@gmail.com,28,2024-12-14 13:02:58.471246,Desk Lamp|Monitor,1408.32,9413.34,466,0
+5603,Wendy Salinas,+1-307-461-0440x5951,wendy.salinas@gmail.com,28,2024-12-14 13:02:58.471246,Desk Lamp|Monitor,1408.32,9413.34,467,0
 4490,Joy White,001-922-507-2677x47001,joy.white@gmail.com,38,2025-05-14 19:52:42.959058,Laptop|Phone|Keyboard,1875.82,10439.49,315,1
 6974,Kevin Gibson,001-580-796-8363x130,kevin.gibson@gmail.com,35,2023-10-10 09:17:14.690631,Mouse|Laptop|Desk Lamp,815.99,4268.17,898,1
 3235,Karen Walsh,350.793.1755x451,karen.walsh@yahoo.com,31,2024-09-04 18:09:29.687909,Mouse|Phone|Monitor,1487.43,3691.43,567,0
@@ -75,7 +75,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 4804,Lauren Reyes,+1-707-724-9969x160,lauren.reyes@yahoo.com,44,2025-04-05 02:29:03.434852,Mouse,1773.8,4725.78,355,0
 9406,Stephanie Hughes,+1-340-818-3519,stephanie.hughes@hotmail.com,18,2023-02-18 09:31:51.632621,Desk Lamp|Monitor|Laptop,145.3,1082.39,1132,0
 7002,Erika Parker,259-861-8420x9096,erika.parker@gmail.com,19,2024-02-03 08:34:41.884595,Mouse|Desk Lamp|Monitor,573.18,1880.69,782,0
-3237,Olivia Smith,774-267-9716x848,olivia.smith@yahoo.com,33,2023-01-10 12:43:57.329149,Keyboard|Laptop|Mouse|Desk Lamp,862.55,4296.27,1170,1
+3237,Olivia Smith,774-267-9716x848,olivia.smith@yahoo.com,33,2023-01-10 12:43:57.329149,Keyboard|Laptop|Mouse|Desk Lamp,862.55,4296.27,1171,1
 8637,Norman Walker,6154800058,norman.walker@gmail.com,60,2022-02-22 04:13:22.099370,Keyboard,1566.22,15499.28,1493,0
 6882,Kevin Anthony,(813)333-0371,kevin.anthony@yahoo.com,32,2022-10-01 08:06:38.066864,Desk Lamp|Keyboard|Monitor|Mouse,840.45,5441.7,1272,0
 6780,Tiffany Paul,513.497.5390,tiffany.paul@gmail.com,53,2022-08-23 16:56:22.383011,Mouse|Keyboard|Desk Lamp|Phone,1872.83,8533.64,1310,0
@@ -114,7 +114,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 5420,Ronald Lloyd,972.430.2847x54272,ronald.lloyd@gmail.com,20,2024-09-11 11:51:05.003507,Laptop|Mouse|Monitor,1800.54,8241.85,561,0
 7794,Brandi Lewis,5044218163,brandi.lewis@hotmail.com,31,2022-02-16 00:50:21.787189,Desk Lamp|Monitor|Mouse,616.78,1427.52,1499,0
 9288,Logan Miller,(844)474-4358x683,logan.miller@gmail.com,64,2025-02-08 14:55:26.412520,Keyboard|Monitor,1060.61,8373.67,410,0
-5154,Kevin Clark,+1-421-935-2646,kevin.clark@hotmail.com,39,2025-04-13 12:07:17.103720,Phone|Mouse,266.66,1029.8,346,0
+5154,Kevin Clark,+1-421-935-2646,kevin.clark@hotmail.com,39,2025-04-13 12:07:17.103720,Phone|Mouse,266.66,1029.8,347,0
 7743,Abigail Thomas,406.461.4692x14880,abigail.thomas@gmail.com,40,2024-08-29 03:40:15.666177,Phone|Keyboard,747.15,6905.43,574,0
 4343,Bianca Gomez,5027635067,bianca.gomez@gmail.com,28,2024-11-21 00:02:06.395564,Phone|Laptop,1621.94,9416.71,490,1
 8193,Robert Payne,001-979-581-8926x11888,robert.payne@hotmail.com,58,2024-02-23 02:31:18.801902,Monitor|Phone|Keyboard,732.98,3055.68,762,0
@@ -132,22 +132,22 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 6227,Alicia Thomas,+1-651-253-1600x0777,alicia.thomas@yahoo.com,53,2024-02-18 22:56:34.492434,Mouse|Phone|Desk Lamp|Monitor,1998.88,17632.17,766,0
 2515,Ryan Edwards,(724)418-3815,ryan.edwards@hotmail.com,38,2023-10-21 01:50:18.344245,Keyboard|Mouse|Monitor,283.39,747.02,887,0
 3722,Savannah Frank,001-216-622-2487x343,savannah.frank@hotmail.com,47,2023-06-21 22:23:21.062535,Phone|Monitor,1323.13,9991.27,1008,0
-8709,Adam Ruiz,3638363204,adam.ruiz@gmail.com,40,2021-09-30 12:23:47.901111,Mouse|Desk Lamp|Monitor|Laptop,200.2,1821.08,1637,1
+8709,Adam Ruiz,3638363204,adam.ruiz@gmail.com,40,2021-09-30 12:23:47.901111,Mouse|Desk Lamp|Monitor|Laptop,200.2,1821.08,1638,1
 1494,Brian Patel,607-409-4835,brian.patel@hotmail.com,56,2022-10-31 18:34:47.389627,Monitor|Desk Lamp,30.53,294.61,1241,0
-4031,Chase Cain,335.611.4129,chase.cain@hotmail.com,48,2022-04-18 12:01:57.323461,Mouse|Phone,330.7,1429.55,1437,0
+4031,Chase Cain,335.611.4129,chase.cain@hotmail.com,48,2022-04-18 12:01:57.323461,Mouse|Phone,330.7,1429.55,1438,0
 3919,Matthew Duncan,2634640317,matthew.duncan@yahoo.com,50,2021-07-27 00:34:33.932312,Laptop|Desk Lamp|Phone|Monitor,352.24,2993.95,1703,0
 1975,Meagan Simmons,(625)287-0355,meagan.simmons@yahoo.com,25,2023-08-02 15:13:03.670950,Monitor|Laptop,309.2,2405.81,966,1
 8801,Kevin Gibson,+1-327-899-9830x5527,kevin.gibson@yahoo.com,21,2023-08-17 20:26:10.367295,Mouse|Keyboard,1638.1,2753.2,951,0
 8615,Amy Robertson,(225)709-2747,amy.robertson@gmail.com,36,2022-03-07 14:02:22.833518,Mouse|Phone|Monitor,1902.39,17426.97,1479,0
 7933,Wyatt Burnett,(473)439-0825x54774,wyatt.burnett@yahoo.com,56,2024-08-08 15:15:42.964723,Keyboard|Desk Lamp|Mouse,1887.83,12931.72,594,0
 8656,Ronald Cannon,508.763.0638x8303,ronald.cannon@gmail.com,18,2022-07-08 10:48:30.131886,Mouse|Desk Lamp|Phone|Monitor,1127.44,2321.13,1357,0
-2309,Joseph Garcia,954-392-7390x7840,joseph.garcia@yahoo.com,35,2025-11-19 13:16:12.597183,Desk Lamp|Mouse|Keyboard,985.56,2403.54,126,0
+2309,Joseph Garcia,954-392-7390x7840,joseph.garcia@yahoo.com,35,2025-11-19 13:16:12.597183,Desk Lamp|Mouse|Keyboard,985.56,2403.54,127,0
 9150,James Campos,+1-482-463-2279,james.campos@gmail.com,63,2024-12-27 19:17:15.985762,Desk Lamp|Phone|Mouse|Laptop,1916.93,10304.04,453,0
 7684,Stephanie Moore,557-673-4194,stephanie.moore@gmail.com,65,2023-10-27 00:20:30.082768,Laptop,793.32,4084.37,881,0
 6479,Rebecca Clark,586-638-6404x33375,rebecca.clark@hotmail.com,26,2025-03-09 19:33:14.789679,Desk Lamp|Laptop,1144.0,5543.85,381,1
 9343,Antonio Johnson,807-550-4701x723,antonio.johnson@gmail.com,59,2021-11-16 02:32:10.383425,Mouse|Keyboard|Laptop|Desk Lamp,1342.73,11782.37,1591,0
-9748,Stephanie West,599-469-0493x84116,stephanie.west@yahoo.com,36,2025-02-20 04:44:56.965486,Mouse|Keyboard|Laptop|Phone,274.65,492.15,399,0
-8589,Jason Robinson,+1-615-836-1926x4418,jason.robinson@yahoo.com,30,2024-02-12 12:44:39.033146,Monitor|Laptop|Phone|Desk Lamp,1495.83,6286.73,772,1
+9748,Stephanie West,599-469-0493x84116,stephanie.west@yahoo.com,36,2025-02-20 04:44:56.965486,Mouse|Keyboard|Laptop|Phone,274.65,492.15,399,1
+8589,Jason Robinson,+1-615-836-1926x4418,jason.robinson@yahoo.com,30,2024-02-12 12:44:39.033146,Monitor|Laptop|Phone|Desk Lamp,1495.83,6286.73,773,1
 2023,April Hudson,001-291-698-7237,april.hudson@yahoo.com,48,2024-04-16 01:17:06.686021,Keyboard,1076.01,9285.09,709,0
 4110,Jennifer Porter,885.632.6707x8374,jennifer.porter@yahoo.com,21,2024-09-18 07:05:58.990290,Laptop|Desk Lamp,1709.84,14392.27,554,0
 4155,Thomas Villegas,001-821-478-9192x196,thomas.villegas@gmail.com,62,2025-10-08 04:22:34.778035,Laptop,1529.74,5868.17,169,0
@@ -159,7 +159,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 5034,Cory Mann,001-630-964-0199,cory.mann@yahoo.com,37,2022-09-22 20:11:11.133305,Laptop|Desk Lamp,1746.93,5414.63,1280,1
 4606,Amanda Smith,287-998-3952x3694,amanda.smith@hotmail.com,51,2021-07-03 15:22:10.943367,Mouse|Phone|Desk Lamp|Keyboard,279.66,1643.81,1726,0
 9087,Christian Perry,001-805-898-7396,christian.perry@yahoo.com,53,2024-09-14 22:03:30.275061,Mouse,1506.86,11489.08,557,0
-1415,Michelle Gonzales,669-226-7074x4748,michelle.gonzales@hotmail.com,20,2023-05-06 12:23:10.287282,Mouse|Desk Lamp,1936.19,4674.97,1054,0
+1415,Michelle Gonzales,669-226-7074x4748,michelle.gonzales@hotmail.com,20,2023-05-06 12:23:10.287282,Mouse|Desk Lamp,1936.19,4674.97,1055,0
 6715,James Lopez,001-426-570-6167x905,james.lopez@gmail.com,46,2023-12-06 15:54:44.924055,Keyboard|Phone|Laptop,1656.47,6330.3,840,0
 6335,Brenda Carroll,505-578-9850x2998,brenda.carroll@yahoo.com,44,2025-06-21 15:57:18.312656,Phone|Keyboard|Desk Lamp,1507.15,14045.85,277,0
 4240,Wesley Leon,770-654-3693x9299,wesley.leon@gmail.com,36,2025-04-12 02:21:31.997740,Phone,1571.87,13643.17,348,0
@@ -169,7 +169,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 7126,Amanda Saunders,001-495-645-6427x47315,amanda.saunders@gmail.com,37,2026-02-09 17:40:43.255893,Mouse,546.8,2456.85,44,0
 5295,Justin Smith,391.369.2050x3515,justin.smith@gmail.com,58,2022-08-30 07:11:28.718056,Laptop,1809.17,9294.45,1304,0
 8433,Joann Cooke,+1-480-556-3025,joann.cooke@hotmail.com,56,2023-09-14 09:47:20.522656,Mouse|Monitor|Keyboard|Phone,1225.49,10220.28,924,0
-7320,Erin Vega,390.526.5672,erin.vega@yahoo.com,42,2023-03-07 12:45:10.441263,Keyboard|Mouse|Desk Lamp,1498.07,14129.02,1114,0
+7320,Erin Vega,390.526.5672,erin.vega@yahoo.com,42,2023-03-07 12:45:10.441263,Keyboard|Mouse|Desk Lamp,1498.07,14129.02,1115,0
 4797,James Green,001-840-967-9736x279,james.green@yahoo.com,21,2024-06-01 00:39:45.520757,Monitor,1421.02,2768.79,663,0
 2083,Kimberly Stark,631-461-0442x85323,kimberly.stark@gmail.com,63,2023-12-28 21:48:40.986033,Phone|Monitor|Mouse,1538.62,7758.79,818,0
 2925,Charles Robles,001-748-216-2755x1265,charles.robles@gmail.com,40,2025-05-31 15:02:07.248270,Mouse|Phone,1601.73,9420.75,298,0
@@ -179,7 +179,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 2087,Madeline Jackson,001-271-315-3323x405,madeline.jackson@gmail.com,47,2024-07-15 02:29:45.956637,Keyboard,1326.7,9731.74,619,0
 9616,Jessica Nunez,001-225-933-8126x99192,jessica.nunez@gmail.com,62,2021-07-21 04:40:50.056080,Desk Lamp|Laptop,1618.32,4916.84,1709,0
 7094,John Butler,984-650-8183x581,john.butler@yahoo.com,61,2025-05-21 15:04:01.499590,Keyboard|Laptop|Phone,1521.53,11339.66,308,0
-8681,Elizabeth Cox,001-633-548-3004x7238,elizabeth.cox@gmail.com,24,2021-04-26 12:35:54.295684,Laptop,1454.19,7910.75,1794,0
+8681,Elizabeth Cox,001-633-548-3004x7238,elizabeth.cox@gmail.com,24,2021-04-26 12:35:54.295684,Laptop,1454.19,7910.75,1795,0
 3448,Tamara Ayala,+1-524-665-9366x254,tamara.ayala@yahoo.com,23,2023-05-28 14:50:07.083470,Phone|Laptop,254.05,2460.6,1032,0
 8490,Sarah Juarez,872.627.3289,sarah.juarez@gmail.com,40,2025-07-09 03:06:01.035502,Laptop|Mouse|Desk Lamp|Phone,1016.59,1714.52,260,1
 5978,Adam Nguyen,(382)494-6357,adam.nguyen@hotmail.com,60,2025-09-27 09:12:54.608796,Laptop|Monitor|Mouse|Phone,920.69,2696.08,180,0
@@ -188,16 +188,16 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 2170,Gary Perez,790-360-0471x576,gary.perez@gmail.com,29,2022-01-19 08:29:34.829550,Mouse|Desk Lamp,1097.64,6139.22,1527,0
 3844,Bryan Flores,340.943.7177,bryan.flores@hotmail.com,28,2022-06-12 11:22:29.254427,Monitor|Mouse|Laptop,1930.01,18445.57,1383,1
 2010,Michelle Martinez,255.887.3501x67396,michelle.martinez@hotmail.com,23,2023-01-16 21:13:56.805440,Phone|Keyboard|Mouse|Desk Lamp,1690.87,14310.87,1164,0
-7788,Samuel Walker,264-561-4134,samuel.walker@hotmail.com,25,2021-08-03 12:35:25.729751,Keyboard,1480.74,10736.99,1695,0
+7788,Samuel Walker,264-561-4134,samuel.walker@hotmail.com,25,2021-08-03 12:35:25.729751,Keyboard,1480.74,10736.99,1696,0
 9858,Matthew Anderson,412.354.2396x0244,matthew.anderson@hotmail.com,26,2023-06-21 00:15:44.068147,Desk Lamp|Phone|Laptop,1376.46,2626.83,1009,1
-1682,Emily Barrera,(261)851-3987x2162,emily.barrera@yahoo.com,22,2024-01-16 13:23:47.616405,Desk Lamp|Monitor|Mouse,643.04,2164.87,799,0
+1682,Emily Barrera,(261)851-3987x2162,emily.barrera@yahoo.com,22,2024-01-16 13:23:47.616405,Desk Lamp|Monitor|Mouse,643.04,2164.87,800,0
 6812,Barry Kerr,774-541-7741x278,barry.kerr@gmail.com,37,2022-01-26 21:49:58.306081,Monitor|Laptop,743.53,6436.88,1519,1
 6652,Eric Taylor,(523)356-4139,eric.taylor@yahoo.com,37,2025-03-16 11:10:26.095285,Keyboard|Phone|Desk Lamp|Laptop,1730.93,10412.28,375,1
 1813,Monica Boyd,373.884.0136,monica.boyd@yahoo.com,44,2025-02-09 23:58:57.676848,Laptop|Monitor|Mouse|Keyboard,60.13,475.4,409,0
 9479,Jade Shaw,001-302-401-2448x9918,jade.shaw@hotmail.com,21,2022-11-04 10:09:14.301931,Keyboard|Mouse|Laptop,1624.92,14621.22,1238,0
 2683,Sue Nelson,771.775.7427x824,sue.nelson@gmail.com,29,2023-10-29 17:28:18.290596,Monitor|Desk Lamp|Laptop,105.01,872.65,878,1
 4500,Jack Brown,699.984.1512x3079,jack.brown@gmail.com,65,2025-05-22 15:00:43.882853,Mouse|Laptop|Phone|Monitor,553.66,3488.97,307,0
-4594,Eric King,+1-492-543-4894x0679,eric.king@yahoo.com,20,2024-10-28 12:21:46.796183,Keyboard,397.93,3955.44,513,0
+4594,Eric King,+1-492-543-4894x0679,eric.king@yahoo.com,20,2024-10-28 12:21:46.796183,Keyboard,397.93,3955.44,514,0
 2342,David Harvey,7156341424,david.harvey@gmail.com,43,2025-11-29 05:22:26.533552,Desk Lamp|Phone|Keyboard,1300.06,8694.56,117,0
 7408,Thomas Clark,(848)892-0177x68624,thomas.clark@yahoo.com,41,2021-12-25 10:02:18.151100,Desk Lamp|Mouse|Monitor|Phone,833.31,7061.34,1552,0
 2726,James Frank,001-261-255-3454x95464,james.frank@yahoo.com,58,2024-08-11 23:55:49.020560,Phone|Laptop,646.43,4258.5,591,0
@@ -210,9 +210,9 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 4401,Douglas Romero,754-749-7805x3945,douglas.romero@yahoo.com,30,2023-02-19 20:56:58.362519,Mouse|Phone,243.18,2160.14,1130,0
 8931,Christina Ruiz,001-955-225-7564x36173,christina.ruiz@hotmail.com,65,2023-11-27 21:27:48.343889,Mouse|Monitor|Desk Lamp,1814.54,11448.71,849,0
 2785,Cheryl Salinas,907.815.3466x6165,cheryl.salinas@hotmail.com,22,2025-09-03 14:45:53.190876,Monitor|Phone,941.6,5075.25,203,0
-5316,Emily Crawford,813.307.6703x33297,emily.crawford@gmail.com,39,2022-11-06 13:37:27.539675,Mouse|Laptop|Phone,1274.52,4992.8,1235,1
+5316,Emily Crawford,813.307.6703x33297,emily.crawford@gmail.com,39,2022-11-06 13:37:27.539675,Mouse|Laptop|Phone,1274.52,4992.8,1236,1
 1141,Joel Davis,9407653986,joel.davis@hotmail.com,31,2025-05-04 15:16:59.784400,Monitor,1818.47,8841.45,325,0
-6578,Victor Cantu,001-518-271-2900x044,victor.cantu@hotmail.com,24,2024-05-03 13:06:53.518352,Laptop|Mouse|Keyboard|Desk Lamp,75.51,677.83,691,0
+6578,Victor Cantu,001-518-271-2900x044,victor.cantu@hotmail.com,24,2024-05-03 13:06:53.518352,Laptop|Mouse|Keyboard|Desk Lamp,75.51,677.83,692,0
 8033,Manuel Fields,420-477-3124x03748,manuel.fields@hotmail.com,63,2023-06-26 17:22:24.816252,Monitor,233.88,2318.86,1003,0
 2138,James Nixon,001-699-840-8095x2372,james.nixon@gmail.com,38,2025-11-18 08:49:25.565748,Laptop,1383.36,5590.34,128,1
 6484,Kathleen Perez,3002654920,kathleen.perez@yahoo.com,49,2023-01-22 08:36:12.535290,Keyboard|Phone|Desk Lamp,1091.14,9905.67,1159,0
@@ -231,7 +231,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 7577,Christopher Taylor,(599)760-7512x15072,christopher.taylor@yahoo.com,44,2026-02-03 15:12:54.360021,Mouse|Desk Lamp|Phone,418.01,3722.9,50,0
 5909,Amber Irwin,618.309.9006,amber.irwin@hotmail.com,37,2025-02-06 17:34:21.278129,Desk Lamp,954.97,2508.97,412,0
 4171,Melissa Harris,818-887-9674x58407,melissa.harris@hotmail.com,29,2026-02-20 16:45:11.576697,Desk Lamp|Monitor|Keyboard,544.83,4760.45,33,0
-2127,Michael Howard,458.892.1084x6948,michael.howard@yahoo.com,28,2026-02-05 12:22:14.333632,Desk Lamp|Phone,927.54,1682.41,48,0
+2127,Michael Howard,458.892.1084x6948,michael.howard@yahoo.com,28,2026-02-05 12:22:14.333632,Desk Lamp|Phone,927.54,1682.41,49,0
 5685,Zachary Moore,439-334-9107x10093,zachary.moore@gmail.com,22,2022-07-17 10:44:29.893759,Monitor|Mouse|Laptop|Keyboard,1438.43,3407.84,1348,0
 4665,Tracey Harrington,+1-389-500-9672x144,tracey.harrington@yahoo.com,50,2022-10-18 07:36:06.084230,Laptop|Mouse|Desk Lamp|Keyboard,548.95,4136.19,1255,0
 1739,Samantha Allen,598-356-4594,samantha.allen@yahoo.com,29,2025-04-18 18:40:22.336108,Keyboard|Phone|Monitor,1761.35,15668.45,341,0
@@ -282,7 +282,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 6602,Stephen Fitzgerald,442-489-6926x678,stephen.fitzgerald@gmail.com,40,2025-06-09 22:05:20.076339,Desk Lamp|Phone,1397.63,8252.81,289,0
 8718,Juan Holmes,230-284-3212,juan.holmes@hotmail.com,43,2024-04-15 10:43:04.033090,Mouse,269.94,947.81,710,0
 4985,Raymond Williams,540-981-0942,raymond.williams@gmail.com,62,2022-01-24 00:31:00.225832,Monitor,1297.67,11279.17,1522,0
-5360,Jerry Christensen,(992)370-4895x9355,jerry.christensen@gmail.com,57,2023-07-23 13:53:37.166718,Monitor|Keyboard|Phone|Laptop,1267.58,5991.71,976,0
+5360,Jerry Christensen,(992)370-4895x9355,jerry.christensen@gmail.com,57,2023-07-23 13:53:37.166718,Monitor|Keyboard|Phone|Laptop,1267.58,5991.71,977,0
 3186,Jamie Stewart,263.627.9039,jamie.stewart@gmail.com,57,2023-09-08 21:14:37.518853,Mouse|Monitor,754.82,4348.05,929,0
 2014,Rose Ramos,(225)881-8838x6913,rose.ramos@hotmail.com,59,2024-07-10 07:58:14.933453,Monitor,984.31,7644.55,624,0
 2205,April Williams,+1-960-972-9921,april.williams@hotmail.com,35,2022-08-31 15:15:18.686375,Mouse|Laptop,794.59,3237.45,1302,1
@@ -324,7 +324,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 5267,Alexandra Reed,001-824-399-8229x2512,alexandra.reed@gmail.com,34,2025-02-24 00:04:35.452694,Desk Lamp|Laptop,1340.32,8793.33,395,1
 9256,Steven Livingston,431.312.4030,steven.livingston@gmail.com,51,2023-11-21 10:26:31.064001,Laptop|Phone|Desk Lamp|Mouse,1012.92,4510.02,856,0
 3645,Anthony Jones,(557)913-7416,anthony.jones@hotmail.com,44,2025-11-16 09:06:13.605237,Mouse|Desk Lamp,1234.73,8388.61,130,0
-3944,Joshua Crawford,001-538-994-6683x264,joshua.crawford@hotmail.com,51,2024-09-15 11:55:36.624135,Monitor|Desk Lamp,1499.94,3491.52,556,0
+3944,Joshua Crawford,001-538-994-6683x264,joshua.crawford@hotmail.com,51,2024-09-15 11:55:36.624135,Monitor|Desk Lamp,1499.94,3491.52,557,0
 4643,Rebecca Leonard,+1-236-528-6732x22612,rebecca.leonard@hotmail.com,47,2025-10-24 00:04:11.453614,Phone,525.02,2127.36,153,0
 3484,Dawn Chen,645.374.2057,dawn.chen@hotmail.com,29,2024-09-06 00:18:45.830063,Mouse|Desk Lamp,53.3,93.39,566,0
 4944,Emily Gonzalez,(989)373-6805x9685,emily.gonzalez@hotmail.com,29,2025-11-02 04:44:14.482810,Monitor|Keyboard|Mouse,568.43,1417.28,144,0
@@ -337,7 +337,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 3669,James Le,(725)864-9279x2332,james.le@gmail.com,62,2024-01-30 01:54:19.333546,Phone|Mouse,860.27,4302.81,786,0
 6276,Eric Reyes,+1-386-621-0237,eric.reyes@hotmail.com,53,2022-11-05 19:58:00.369288,Phone|Monitor|Laptop,383.43,1490.23,1236,0
 7790,Mark Terrell,001-704-222-7713x2349,mark.terrell@hotmail.com,44,2024-08-01 17:01:16.838487,Monitor|Mouse|Desk Lamp,1326.7,5299.71,601,0
-7054,Rachel Moore,397-407-3221x9048,rachel.moore@yahoo.com,23,2021-08-16 13:58:15.593811,Desk Lamp|Phone|Monitor|Laptop,1558.04,8193.81,1682,0
+7054,Rachel Moore,397-407-3221x9048,rachel.moore@yahoo.com,23,2021-08-16 13:58:15.593811,Desk Lamp|Phone|Monitor|Laptop,1558.04,8193.81,1683,0
 9642,Yvonne Roberts,779.328.1374,yvonne.roberts@hotmail.com,58,2023-05-21 04:59:15.840641,Monitor,1008.06,6204.27,1040,0
 1465,John Stanley,321-759-8671x1571,john.stanley@hotmail.com,18,2025-12-03 22:56:31.507934,Laptop,1723.6,12110.69,112,0
 9036,Heather Rodgers,395-805-9412x6101,heather.rodgers@gmail.com,63,2025-01-04 03:24:47.056466,Monitor|Mouse|Phone|Laptop,1788.31,16691.2,446,0
@@ -345,24 +345,24 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 9137,Ryan Cruz,001-833-499-6180x095,ryan.cruz@gmail.com,49,2024-09-27 17:19:39.606612,Phone,971.86,9238.8,544,0
 7058,Victoria Best,705-645-7771x30362,victoria.best@yahoo.com,36,2022-06-08 05:14:56.175588,Keyboard|Phone|Monitor,1111.18,3256.55,1387,0
 9297,Ann Leonard,+1-282-742-0078x045,ann.leonard@yahoo.com,27,2023-07-07 06:56:30.833233,Keyboard|Laptop|Desk Lamp,1610.44,4502.25,993,1
-6938,Kenneth Roberts,(558)797-1870,kenneth.roberts@hotmail.com,57,2022-01-05 13:01:34.017477,Laptop|Monitor,1141.26,9640.55,1540,0
-2359,Lucas Brady,(844)980-0675x212,lucas.brady@yahoo.com,24,2022-09-16 13:22:26.426095,Mouse,1424.57,7889.18,1286,0
-7209,Dawn Villa,253-953-9548,dawn.villa@hotmail.com,30,2022-09-14 13:13:07.950760,Desk Lamp,670.42,3912.86,1288,0
+6938,Kenneth Roberts,(558)797-1870,kenneth.roberts@hotmail.com,57,2022-01-05 13:01:34.017477,Laptop|Monitor,1141.26,9640.55,1541,0
+2359,Lucas Brady,(844)980-0675x212,lucas.brady@yahoo.com,24,2022-09-16 13:22:26.426095,Mouse,1424.57,7889.18,1287,0
+7209,Dawn Villa,253-953-9548,dawn.villa@hotmail.com,30,2022-09-14 13:13:07.950760,Desk Lamp,670.42,3912.86,1289,0
 4869,Rachel Richardson,001-884-954-8829x5334,rachel.richardson@yahoo.com,27,2021-10-11 06:55:55.958570,Keyboard,1648.6,8556.41,1627,0
 2471,Tammy Ruiz,+1-479-344-9890x541,tammy.ruiz@yahoo.com,55,2024-03-24 14:28:25.517464,Laptop,932.1,6920.56,731,0
 2396,Julia Stewart,+1-688-304-4651x9568,julia.stewart@hotmail.com,59,2023-10-01 22:09:02.346582,Laptop|Desk Lamp|Monitor,1877.13,16701.41,906,0
 2491,Travis House,001-398-920-1749x85192,travis.house@gmail.com,35,2024-12-30 08:30:44.574363,Laptop|Desk Lamp|Monitor,370.01,1124.6,451,1
 2871,Charles Jenkins,+1-362-940-4936x85648,charles.jenkins@gmail.com,30,2022-09-10 10:33:54.355272,Mouse|Desk Lamp,1000.03,3709.33,1293,0
-8260,Todd Johnson,789.223.0506x6675,todd.johnson@yahoo.com,43,2024-02-23 12:55:32.561304,Keyboard,299.18,497.5,761,0
+8260,Todd Johnson,789.223.0506x6675,todd.johnson@yahoo.com,43,2024-02-23 12:55:32.561304,Keyboard,299.18,497.5,762,0
 5203,David Powell,001-338-628-8376x4430,david.powell@hotmail.com,18,2023-06-20 22:06:34.078495,Mouse|Laptop,512.62,1918.34,1009,0
 6286,Jessica Hernandez,001-538-726-0308,jessica.hernandez@hotmail.com,57,2023-03-31 04:32:42.881598,Monitor|Mouse,399.95,2475.09,1091,0
 3941,Claudia Malone,(225)212-3401,claudia.malone@hotmail.com,65,2024-02-07 16:02:35.512400,Phone|Mouse|Keyboard,1970.55,19052.44,777,0
 4382,Caleb Baker,001-552-580-1039x73727,caleb.baker@gmail.com,47,2021-04-21 11:12:50.316362,Monitor|Laptop|Phone,1050.02,2728.87,1800,0
 1146,Jodi Lopez,716-929-7673,jodi.lopez@yahoo.com,51,2023-11-15 07:02:12.513921,Keyboard|Phone|Monitor|Laptop,1294.56,12308.93,862,0
-2812,Gabriel Flowers,365.244.2394x440,gabriel.flowers@yahoo.com,62,2023-03-15 13:55:31.287677,Phone|Monitor|Laptop,1184.36,8847.71,1106,0
+2812,Gabriel Flowers,365.244.2394x440,gabriel.flowers@yahoo.com,62,2023-03-15 13:55:31.287677,Phone|Monitor|Laptop,1184.36,8847.71,1107,0
 3539,Jill Freeman,001-523-515-3710,jill.freeman@yahoo.com,64,2023-08-09 07:46:39.454103,Monitor|Desk Lamp,88.36,826.88,960,0
 2253,Rachel Craig,(938)605-9222,rachel.craig@gmail.com,26,2024-09-20 18:54:39.839911,Phone|Desk Lamp|Keyboard|Mouse,1097.92,6034.27,551,0
-6769,Timothy Dunn,(352)679-1388,timothy.dunn@gmail.com,60,2024-04-04 13:19:16.030464,Desk Lamp|Laptop,1679.98,3310.22,720,0
+6769,Timothy Dunn,(352)679-1388,timothy.dunn@gmail.com,60,2024-04-04 13:19:16.030464,Desk Lamp|Laptop,1679.98,3310.22,721,0
 1588,Henry Jones,001-308-495-3104x39155,henry.jones@hotmail.com,35,2022-02-24 00:53:55.125678,Monitor|Keyboard|Laptop,1932.16,10664.38,1491,1
 7843,Thomas Rosales,(467)908-4056x33454,thomas.rosales@hotmail.com,51,2022-06-26 17:52:29.418451,Laptop|Phone,1221.85,6811.59,1368,0
 8927,Jared Harris,651.213.2903x15730,jared.harris@yahoo.com,61,2022-12-23 19:42:22.952488,Mouse|Monitor|Phone,316.91,2614.71,1188,0
@@ -370,8 +370,8 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 1340,Steven Cortez,(863)430-1134,steven.cortez@yahoo.com,22,2023-10-10 14:58:46.812050,Monitor|Mouse|Desk Lamp|Phone,789.22,4893.78,897,0
 2482,Donald Carter,001-740-615-7044x9792,donald.carter@yahoo.com,63,2021-12-21 17:28:24.305215,Phone|Laptop|Mouse|Desk Lamp,162.66,246.29,1555,0
 2753,Dean Turner,001-254-525-5858,dean.turner@hotmail.com,39,2024-10-30 10:36:17.188477,Keyboard|Desk Lamp,246.36,1254.61,512,0
-2210,Jason Wallace,882.601.6595,jason.wallace@gmail.com,53,2022-05-12 13:31:14.324562,Laptop|Phone,630.57,1741.44,1413,0
-2762,Joshua Craig,(327)238-3846x67200,joshua.craig@gmail.com,27,2025-09-01 13:15:21.565362,Laptop|Mouse|Phone,1413.93,4945.17,205,1
+2210,Jason Wallace,882.601.6595,jason.wallace@gmail.com,53,2022-05-12 13:31:14.324562,Laptop|Phone,630.57,1741.44,1414,0
+2762,Joshua Craig,(327)238-3846x67200,joshua.craig@gmail.com,27,2025-09-01 13:15:21.565362,Laptop|Mouse|Phone,1413.93,4945.17,206,1
 8061,Lindsey Miller,001-353-788-5080x71315,lindsey.miller@hotmail.com,20,2021-07-29 09:42:19.259712,Monitor|Desk Lamp|Laptop|Keyboard,855.73,4758.53,1701,0
 3900,Harry Swanson,774.950.7339,harry.swanson@gmail.com,32,2023-05-02 04:40:01.475324,Phone|Keyboard,74.42,176.5,1059,0
 6246,David James,759-290-7918,david.james@hotmail.com,52,2024-10-01 23:31:22.299887,Phone|Desk Lamp,1269.28,3627.07,540,0
@@ -380,12 +380,12 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 5761,Kimberly Cox,(562)922-8311x76213,kimberly.cox@hotmail.com,34,2025-07-28 05:55:19.112861,Monitor|Laptop|Mouse,1638.58,10474.83,241,1
 5309,Thomas Lewis,001-544-755-6439,thomas.lewis@yahoo.com,45,2024-09-21 02:23:45.090843,Desk Lamp|Laptop,717.48,4468.56,551,0
 2618,Katelyn Weber,(903)809-3363x493,katelyn.weber@yahoo.com,20,2021-07-08 18:00:43.143559,Laptop|Phone|Mouse,796.18,6773.73,1721,0
-3297,Cathy Robinson,403-371-0362,cathy.robinson@gmail.com,55,2022-08-09 12:19:51.413533,Laptop|Monitor|Phone,1706.38,14622.2,1324,0
+3297,Cathy Robinson,403-371-0362,cathy.robinson@gmail.com,55,2022-08-09 12:19:51.413533,Laptop|Monitor|Phone,1706.38,14622.2,1325,0
 9447,Derrick Nelson,(646)667-4507x2248,derrick.nelson@hotmail.com,63,2024-11-20 07:35:37.146333,Phone|Monitor|Mouse|Laptop,1470.06,14175.99,491,0
 8495,Allison Mueller,842-515-0023x5338,allison.mueller@yahoo.com,23,2023-07-16 03:07:30.511212,Phone|Monitor|Desk Lamp,713.83,4296.53,984,0
-1987,Henry Spencer,+1-853-835-8952x80420,henry.spencer@yahoo.com,33,2023-12-18 13:40:10.233087,Mouse|Laptop|Monitor,555.4,1720.95,828,1
+1987,Henry Spencer,+1-853-835-8952x80420,henry.spencer@yahoo.com,33,2023-12-18 13:40:10.233087,Mouse|Laptop|Monitor,555.4,1720.95,829,1
 1731,Robert Duran,493-602-4402,robert.duran@hotmail.com,54,2026-03-25 01:32:40.805345,Phone|Keyboard|Laptop,1790.71,4223.21,1,0
-7003,Dustin Reyes,910-210-7796,dustin.reyes@yahoo.com,50,2025-04-13 13:35:12.145051,Laptop|Monitor|Mouse,793.19,4966.37,346,0
+7003,Dustin Reyes,910-210-7796,dustin.reyes@yahoo.com,50,2025-04-13 13:35:12.145051,Laptop|Monitor|Mouse,793.19,4966.37,347,0
 9907,Jacob Pitts,922.799.6754x28596,jacob.pitts@hotmail.com,31,2023-03-09 17:06:21.057005,Desk Lamp,156.83,1404.43,1112,0
 1332,Lisa Sanders,333-531-6554x515,lisa.sanders@gmail.com,43,2023-03-22 05:17:44.826100,Mouse|Monitor,201.37,1842.6,1100,0
 7501,Renee Higgins,001-575-834-7530x17787,renee.higgins@hotmail.com,39,2025-10-27 08:19:36.514416,Keyboard|Desk Lamp|Monitor,1178.8,3122.87,150,0
@@ -394,7 +394,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 6190,Jerry Shannon,8708745504,jerry.shannon@gmail.com,32,2022-02-04 00:41:31.555001,Phone|Mouse|Laptop|Desk Lamp,1565.04,12704.43,1511,1
 6026,Lauren Garcia,3596934521,lauren.garcia@yahoo.com,59,2021-07-09 00:40:06.515495,Keyboard|Desk Lamp|Mouse,1769.78,3190.18,1721,0
 9672,Kimberly Gonzales,(349)437-5177x54982,kimberly.gonzales@gmail.com,30,2022-10-04 06:34:18.776327,Keyboard|Phone|Monitor,1227.85,8593.23,1269,0
-1292,Justin Perez,001-402-899-3892x458,justin.perez@gmail.com,30,2023-01-02 13:59:43.949741,Laptop|Keyboard|Desk Lamp,1585.31,7565.64,1178,1
+1292,Justin Perez,001-402-899-3892x458,justin.perez@gmail.com,30,2023-01-02 13:59:43.949741,Laptop|Keyboard|Desk Lamp,1585.31,7565.64,1179,1
 4458,Brendan Solis,+1-762-963-1822x295,brendan.solis@gmail.com,21,2024-10-29 04:45:13.323526,Desk Lamp,189.21,698.51,513,0
 6141,Jacob Marshall,+1-376-463-8516,jacob.marshall@hotmail.com,40,2022-10-27 14:53:38.365192,Mouse|Keyboard|Monitor|Laptop,1429.88,6982.06,1245,1
 1086,Edward Cline,2502254873,edward.cline@yahoo.com,18,2024-07-29 07:34:24.229485,Laptop|Desk Lamp,1447.92,8557.12,605,0
@@ -411,7 +411,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 6799,Mark Walker,695-439-0568x71108,mark.walker@gmail.com,40,2025-04-17 07:31:55.467837,Laptop,1000.46,2140.04,343,1
 1181,Kimberly Werner,(242)628-5172x82429,kimberly.werner@hotmail.com,48,2025-06-03 14:28:32.850736,Laptop|Mouse|Monitor|Keyboard,1454.83,2288.45,295,0
 4761,Michael Martin,+1-267-541-9507x01660,michael.martin@gmail.com,46,2021-04-15 09:57:01.375205,Laptop|Keyboard|Mouse,552.13,1132.56,1806,0
-6100,Matthew Hernandez,824.726.2554x94636,matthew.hernandez@hotmail.com,37,2025-05-25 13:20:42.162513,Phone,1402.17,5395.12,304,0
+6100,Matthew Hernandez,824.726.2554x94636,matthew.hernandez@hotmail.com,37,2025-05-25 13:20:42.162513,Phone,1402.17,5395.12,305,0
 5615,Dakota Craig,001-630-849-1218x65108,dakota.craig@hotmail.com,43,2025-05-30 17:05:19.799948,Mouse|Laptop|Keyboard,581.65,1540.16,299,0
 3457,Tracy Mays,8244336664,tracy.mays@gmail.com,56,2022-08-09 21:52:01.785471,Laptop|Keyboard|Phone,1047.17,9152.16,1324,0
 3092,Vanessa Potter,337.471.1031x60027,vanessa.potter@hotmail.com,25,2023-08-02 11:37:24.637855,Mouse,379.09,2685.04,967,0
@@ -428,12 +428,12 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 1521,Amber Murphy,+1-696-784-0551,amber.murphy@hotmail.com,33,2025-09-08 02:43:02.625723,Laptop|Keyboard|Mouse,287.67,2860.5,199,1
 7792,Gary Price,459-510-9649x7505,gary.price@gmail.com,30,2025-06-18 07:57:02.014489,Desk Lamp,1663.88,14768.31,281,0
 7602,Jose Rose,001-892-474-9427x137,jose.rose@yahoo.com,62,2025-09-25 19:37:04.575355,Mouse,1679.61,9741.61,181,0
-2863,Joseph Lowe,(671)602-0739x94525,joseph.lowe@hotmail.com,46,2021-11-13 12:16:25.575832,Laptop|Desk Lamp|Mouse|Monitor,1901.77,6794.28,1593,0
+2863,Joseph Lowe,(671)602-0739x94525,joseph.lowe@hotmail.com,46,2021-11-13 12:16:25.575832,Laptop|Desk Lamp|Mouse|Monitor,1901.77,6794.28,1594,0
 7065,Karen Smith,+1-430-974-2295,karen.smith@hotmail.com,49,2022-12-17 20:39:36.625428,Laptop|Phone|Desk Lamp,952.68,6472.44,1194,0
 9166,Robert Guerrero,(956)252-3594x2553,robert.guerrero@yahoo.com,61,2021-11-27 02:56:37.692230,Laptop|Phone,706.78,2139.96,1580,0
 8769,Shannon Cox,4752864770,shannon.cox@gmail.com,30,2025-04-20 02:25:09.697758,Desk Lamp|Phone,908.1,7594.1,340,0
 8859,Robert Johnson,+1-444-239-1112,robert.johnson@gmail.com,51,2025-09-28 20:28:38.183360,Monitor,1492.76,6854.76,178,0
-4784,Alexandra Smith,(982)995-1670,alexandra.smith@hotmail.com,20,2025-12-10 13:10:24.292437,Laptop,699.39,2401.67,105,0
+4784,Alexandra Smith,(982)995-1670,alexandra.smith@hotmail.com,20,2025-12-10 13:10:24.292437,Laptop,699.39,2401.67,106,0
 3265,Spencer Young,+1-331-428-8367x7431,spencer.young@gmail.com,63,2022-02-06 08:58:53.156081,Desk Lamp|Phone,1567.66,11466.07,1509,0
 6421,Rachel Nichols,667.789.4675,rachel.nichols@hotmail.com,26,2024-05-25 17:20:41.700582,Desk Lamp|Laptop|Monitor|Phone,516.14,3476.83,669,1
 2199,Heather Long,447-396-7795,heather.long@hotmail.com,20,2023-11-25 09:00:48.461340,Monitor,444.69,1579.05,852,0
@@ -459,7 +459,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 3271,Michael Murray,001-422-812-3523,michael.murray@gmail.com,22,2025-09-11 04:55:49.534992,Mouse,1249.36,3747.25,196,0
 6306,Jeremy Santos,001-716-585-6462,jeremy.santos@hotmail.com,47,2021-09-29 07:09:39.130437,Phone|Keyboard|Desk Lamp,858.17,2592.86,1639,0
 1711,Michael Vega,001-922-235-5693,michael.vega@yahoo.com,39,2025-05-05 16:52:04.436233,Keyboard|Desk Lamp|Monitor,132.91,283.09,324,0
-4760,Joseph Olsen,(387)922-8630,joseph.olsen@gmail.com,53,2025-11-30 13:55:18.163373,Mouse|Monitor|Phone,1894.33,7597.58,115,0
+4760,Joseph Olsen,(387)922-8630,joseph.olsen@gmail.com,53,2025-11-30 13:55:18.163373,Mouse|Monitor|Phone,1894.33,7597.58,116,0
 5991,Lisa Butler,(885)899-5504,lisa.butler@gmail.com,58,2022-10-16 09:50:33.928025,Desk Lamp|Phone|Keyboard,599.51,4777.77,1257,0
 7412,Scott Randall,(776)335-0049x9198,scott.randall@hotmail.com,31,2026-02-21 08:16:56.243659,Phone|Keyboard|Desk Lamp|Monitor,1992.24,17342.23,33,0
 6469,Joshua Clark,300-705-1478x519,joshua.clark@yahoo.com,41,2023-06-03 10:15:52.845590,Keyboard|Phone|Desk Lamp,1317.59,7051.02,1027,0
@@ -479,7 +479,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 8451,Bobby Alexander,+1-447-811-5355,bobby.alexander@yahoo.com,25,2024-11-12 23:17:51.865960,Phone|Keyboard|Monitor|Desk Lamp,1410.9,11100.97,498,0
 3857,Alicia Perez,628-489-4110,alicia.perez@yahoo.com,24,2024-06-19 22:51:09.827744,Keyboard|Mouse|Desk Lamp,169.37,400.91,644,0
 6807,Dennis Blake,(873)697-3246x913,dennis.blake@hotmail.com,43,2024-08-12 21:39:07.826206,Laptop,1374.71,5352.18,590,0
-2556,Nicole Jones,3883034388,nicole.jones@hotmail.com,54,2023-05-03 13:20:55.446097,Keyboard|Laptop|Mouse|Desk Lamp,898.84,8696.7,1057,0
+2556,Nicole Jones,3883034388,nicole.jones@hotmail.com,54,2023-05-03 13:20:55.446097,Keyboard|Laptop|Mouse|Desk Lamp,898.84,8696.7,1058,0
 1349,Danielle King,001-852-866-6486x466,danielle.king@hotmail.com,31,2022-11-11 10:46:47.008255,Monitor|Keyboard|Phone,927.7,1842.8,1231,0
 6687,Jonathan Long,960-890-9687x1515,jonathan.long@hotmail.com,41,2025-03-29 07:10:11.364847,Laptop,1191.29,6111.79,362,0
 7202,Ruben Bowers,001-392-898-7499x92309,ruben.bowers@gmail.com,54,2023-02-11 16:39:29.201300,Keyboard|Phone,1396.47,3715.86,1138,0
@@ -508,15 +508,15 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 7196,Shari Daugherty,409-510-6661x2913,shari.daugherty@hotmail.com,48,2025-11-30 00:56:36.838056,Keyboard|Laptop|Monitor,1031.51,8777.99,116,0
 2032,Cheryl Acevedo,+1-824-464-9626x08653,cheryl.acevedo@hotmail.com,65,2024-11-05 01:17:21.210013,Monitor|Mouse|Keyboard|Phone,261.77,1632.56,506,0
 8704,Angela Moore,001-225-969-4721,angela.moore@hotmail.com,27,2021-12-15 04:30:24.481839,Phone|Monitor|Keyboard|Mouse,1116.38,8967.12,1562,0
-3296,Jenna Vargas,917.979.2711,jenna.vargas@yahoo.com,50,2023-04-23 12:22:19.300092,Laptop|Keyboard|Monitor|Phone,866.11,8056.24,1067,0
+3296,Jenna Vargas,917.979.2711,jenna.vargas@yahoo.com,50,2023-04-23 12:22:19.300092,Laptop|Keyboard|Monitor|Phone,866.11,8056.24,1068,0
 9967,Scott Rodriguez,405-231-7137x952,scott.rodriguez@hotmail.com,54,2024-05-18 21:03:14.989026,Laptop,1533.4,14746.15,676,0
 1316,Walter Gonzales,(785)624-9726x447,walter.gonzales@hotmail.com,18,2022-10-25 22:43:33.736198,Mouse|Phone|Laptop,486.15,4374.32,1247,0
 5107,Janet Hensley,(615)945-6309x773,janet.hensley@yahoo.com,57,2026-01-26 17:26:17.258399,Monitor|Keyboard,331.13,930.14,58,0
 7068,Gregg Smith,429-726-3620x1513,gregg.smith@yahoo.com,41,2024-05-03 02:57:36.813999,Monitor|Keyboard|Desk Lamp|Phone,1850.79,12845.52,692,0
-6321,Kevin Hopkins,795.413.0297x65035,kevin.hopkins@hotmail.com,34,2024-05-24 12:49:40.205951,Laptop,518.24,2267.21,670,1
+6321,Kevin Hopkins,795.413.0297x65035,kevin.hopkins@hotmail.com,34,2024-05-24 12:49:40.205951,Laptop,518.24,2267.21,671,1
 3685,Michelle Payne,+1-920-987-0881x478,michelle.payne@gmail.com,61,2023-11-11 02:16:29.651374,Keyboard|Desk Lamp|Mouse|Monitor,1470.11,8226.14,866,0
 1544,Angela Huang,447-755-0271,angela.huang@yahoo.com,60,2022-11-19 20:42:48.019401,Laptop,323.27,1869.39,1222,0
-1797,Stephanie Stone,368-273-8131,stephanie.stone@yahoo.com,46,2025-07-03 13:27:48.618785,Desk Lamp,1434.94,10116.97,265,0
+1797,Stephanie Stone,368-273-8131,stephanie.stone@yahoo.com,46,2025-07-03 13:27:48.618785,Desk Lamp,1434.94,10116.97,266,0
 9653,Robert Stark,+1-914-393-4968x4174,robert.stark@hotmail.com,18,2025-10-13 05:06:39.492013,Keyboard|Desk Lamp|Mouse,702.88,1605.95,164,0
 1496,Curtis Cortez,482-640-3538,curtis.cortez@gmail.com,36,2023-02-25 18:55:52.069620,Phone|Monitor|Keyboard|Laptop,884.87,4984.96,1124,1
 4989,Thomas Cervantes,(629)756-5321x70939,thomas.cervantes@hotmail.com,24,2024-07-11 22:31:07.803601,Phone|Monitor,440.81,3709.69,622,0
@@ -527,9 +527,9 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 2431,Sara Thompson,(734)899-2685x4301,sara.thompson@yahoo.com,31,2024-11-09 02:36:38.543432,Laptop|Desk Lamp,1729.76,16882.39,502,1
 5827,Chad Rivera,001-553-860-3382x7082,chad.rivera@yahoo.com,61,2024-05-29 16:09:17.017605,Keyboard,688.96,5338.78,665,0
 6581,Sean Gibson,(753)217-3065x02040,sean.gibson@gmail.com,61,2023-10-01 23:38:26.355380,Phone|Keyboard,1080.83,5018.65,906,0
-9277,Jonathan Soto,+1-991-846-7994x355,jonathan.soto@gmail.com,53,2023-01-07 13:14:45.147887,Desk Lamp|Keyboard|Laptop,1531.17,9420.19,1173,0
+9277,Jonathan Soto,+1-991-846-7994x355,jonathan.soto@gmail.com,53,2023-01-07 13:14:45.147887,Desk Lamp|Keyboard|Laptop,1531.17,9420.19,1174,0
 4013,Joel Ryan,(685)432-7719,joel.ryan@hotmail.com,33,2021-08-02 03:26:47.401879,Mouse|Monitor|Desk Lamp,198.72,648.91,1697,0
-5192,Gary Vargas,+1-822-968-9422x6997,gary.vargas@gmail.com,24,2022-11-11 13:21:46.291173,Phone|Desk Lamp|Keyboard,1755.04,7053.15,1230,0
+5192,Gary Vargas,+1-822-968-9422x6997,gary.vargas@gmail.com,24,2022-11-11 13:21:46.291173,Phone|Desk Lamp|Keyboard,1755.04,7053.15,1231,0
 7746,Tiffany Little,462.950.2706,tiffany.little@gmail.com,40,2022-05-26 14:16:54.201390,Laptop|Keyboard|Mouse|Monitor,1122.02,4266.16,1399,1
 5751,Cheryl Brown,2126509968,cheryl.brown@gmail.com,20,2021-11-20 16:58:24.867783,Mouse|Monitor|Phone|Desk Lamp,1588.94,6444.51,1586,0
 7805,James Weaver,+1-691-972-7815x07878,james.weaver@hotmail.com,37,2022-06-15 02:33:31.191653,Monitor|Desk Lamp,1252.31,10317.48,1380,0
@@ -543,7 +543,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 9184,Elizabeth Brown,396-894-3569x1861,elizabeth.brown@yahoo.com,51,2021-12-17 22:50:11.445683,Mouse,306.56,2108.96,1559,0
 8341,Morgan Love,+1-707-381-4720,morgan.love@yahoo.com,28,2024-12-20 22:47:52.534204,Desk Lamp,1263.44,11173.84,460,0
 9408,Melissa Smith,+1-503-755-9192x272,melissa.smith@yahoo.com,44,2024-02-17 22:03:38.462749,Keyboard,74.85,449.78,767,0
-4752,Candace Thompson,637.337.5537x04000,candace.thompson@gmail.com,54,2026-01-23 12:42:14.200269,Monitor,1359.7,7644.42,61,0
+4752,Candace Thompson,637.337.5537x04000,candace.thompson@gmail.com,54,2026-01-23 12:42:14.200269,Monitor,1359.7,7644.42,62,0
 3049,Matthew Ward,3352363161,matthew.ward@yahoo.com,28,2022-01-27 06:35:46.985497,Keyboard,945.61,2280.5,1519,0
 2426,Joseph Thomas,802.763.7034x778,joseph.thomas@yahoo.com,58,2022-09-30 18:50:37.273373,Monitor|Desk Lamp|Keyboard,365.15,3137.62,1272,0
 3626,Brenda Dickerson,694.278.7182x5184,brenda.dickerson@yahoo.com,61,2025-01-16 19:26:26.319336,Desk Lamp|Mouse|Keyboard|Monitor,1930.36,6243.55,433,0
@@ -560,7 +560,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 3736,Ernest Edwards,(360)809-6122x3777,ernest.edwards@yahoo.com,29,2024-06-18 09:42:15.891304,Desk Lamp|Laptop|Keyboard|Mouse,956.52,7479.99,646,1
 4597,Lauren Black,+1-244-306-6316x9967,lauren.black@yahoo.com,27,2024-12-14 18:40:54.582728,Monitor|Keyboard|Mouse,1342.24,9762.58,466,0
 1339,James Guerra,(776)839-7904x5873,james.guerra@yahoo.com,55,2022-08-27 05:19:11.288974,Desk Lamp,1736.25,5209.04,1307,0
-8590,Mary Smith,001-601-936-0428,mary.smith@yahoo.com,62,2023-06-27 13:32:35.221752,Desk Lamp,1587.87,4079.47,1002,0
+8590,Mary Smith,001-601-936-0428,mary.smith@yahoo.com,62,2023-06-27 13:32:35.221752,Desk Lamp,1587.87,4079.47,1003,0
 3895,Steven Higgins,978.429.6762x2470,steven.higgins@gmail.com,57,2022-10-31 07:30:49.990707,Keyboard,1787.57,12356.77,1242,0
 2525,Jeremy Johnson,+1-305-354-1700x58113,jeremy.johnson@hotmail.com,51,2023-12-02 03:52:25.487453,Keyboard|Desk Lamp|Mouse,70.56,519.55,845,0
 4456,Gary Robinson,2109234334,gary.robinson@yahoo.com,34,2022-11-05 04:48:16.030057,Laptop|Mouse,1634.47,8210.89,1237,1
@@ -582,7 +582,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 1681,Jeremy Cummings,001-539-435-2747,jeremy.cummings@yahoo.com,61,2022-08-01 09:12:28.279405,Laptop,1045.44,5172.1,1333,0
 8662,Lauren Randolph,671-893-6812x367,lauren.randolph@yahoo.com,39,2024-08-25 17:36:47.896196,Laptop|Desk Lamp|Keyboard,1682.11,4620.13,577,1
 6834,Andrew Ferguson,550-316-1008x719,andrew.ferguson@gmail.com,47,2024-04-04 02:31:58.843414,Phone|Monitor|Keyboard|Laptop,1904.91,10094.5,721,0
-2269,Brenda Smith,(887)675-9246x1350,brenda.smith@hotmail.com,37,2024-12-17 12:29:50.819110,Monitor|Desk Lamp|Keyboard|Laptop,258.03,953.66,463,1
+2269,Brenda Smith,(887)675-9246x1350,brenda.smith@hotmail.com,37,2024-12-17 12:29:50.819110,Monitor|Desk Lamp|Keyboard|Laptop,258.03,953.66,464,1
 4579,Corey Hood,(375)657-1917x5228,corey.hood@gmail.com,32,2025-03-26 02:14:07.893638,Monitor|Laptop,11.74,67.84,365,0
 4647,Kenneth Larson,+1-552-784-4282x4571,kenneth.larson@yahoo.com,27,2023-08-18 18:07:12.103288,Monitor,1925.1,9264.26,950,0
 9792,Taylor Dawson,(607)587-8647,taylor.dawson@gmail.com,36,2022-12-16 05:39:58.462075,Mouse|Desk Lamp|Keyboard|Monitor,1285.09,5086.0,1196,0
@@ -593,7 +593,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 4649,Christopher Coleman,+1-851-280-8135,christopher.coleman@hotmail.com,49,2021-06-15 03:49:59.870719,Monitor,1800.21,9293.3,1745,0
 6946,Vincent Cole,+1-695-246-7538,vincent.cole@yahoo.com,20,2025-03-29 19:02:21.667715,Laptop,318.63,957.44,361,0
 4422,Amanda Sandoval,341-563-8152x50742,amanda.sandoval@gmail.com,54,2023-10-16 03:02:16.088764,Phone|Laptop|Keyboard|Monitor,119.55,467.07,892,0
-1171,John Jackson,239.924.6024x9307,john.jackson@gmail.com,43,2022-08-15 13:54:36.818200,Monitor|Phone,517.63,949.8,1318,0
+1171,John Jackson,239.924.6024x9307,john.jackson@gmail.com,43,2022-08-15 13:54:36.818200,Monitor|Phone,517.63,949.8,1319,0
 3635,Jennifer Anderson,2993260988,jennifer.anderson@gmail.com,31,2025-11-16 20:45:33.906976,Keyboard|Mouse|Laptop|Phone,1953.72,12968.15,129,1
 8568,Daniel Brown,(331)335-0030,daniel.brown@hotmail.com,22,2022-04-26 10:39:45.154680,Mouse|Desk Lamp|Monitor|Keyboard,1149.29,8636.47,1430,0
 4885,Amanda Kirk,(513)890-1259,amanda.kirk@gmail.com,30,2026-03-15 06:18:05.893874,Monitor,664.65,5829.49,11,0
@@ -601,10 +601,10 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 9507,Jennifer King,(597)592-4087,jennifer.king@gmail.com,54,2022-03-23 02:43:05.310061,Desk Lamp,1715.6,9306.44,1464,0
 4086,Paul Sanders,001-657-460-8564x5901,paul.sanders@yahoo.com,29,2021-10-05 23:13:02.499698,Phone|Monitor|Desk Lamp|Mouse,733.52,6509.04,1632,0
 2094,Marie Holmes,+1-304-378-5405,marie.holmes@gmail.com,61,2022-07-02 09:45:40.354119,Monitor|Laptop|Mouse|Desk Lamp,350.46,1004.45,1363,0
-4372,Brandon Mercado,660-735-3415x1285,brandon.mercado@hotmail.com,50,2022-12-24 12:30:11.413944,Mouse,531.29,849.89,1187,0
+4372,Brandon Mercado,660-735-3415x1285,brandon.mercado@hotmail.com,50,2022-12-24 12:30:11.413944,Mouse,531.29,849.89,1188,0
 3837,Daniel Ingram,(568)625-4249,daniel.ingram@gmail.com,19,2026-01-15 17:04:40.106709,Monitor|Desk Lamp|Phone,94.48,639.48,69,0
 8004,Nathan Martinez,660.260.3526x055,nathan.martinez@gmail.com,51,2021-10-09 08:23:16.411505,Desk Lamp|Keyboard|Phone,1010.48,1980.35,1629,0
-8766,Terrence Davis,+1-495-213-4060,terrence.davis@yahoo.com,37,2022-11-18 13:14:50.914387,Phone,935.41,1489.65,1223,0
+8766,Terrence Davis,+1-495-213-4060,terrence.davis@yahoo.com,37,2022-11-18 13:14:50.914387,Phone,935.41,1489.65,1224,0
 4868,Paul Stephenson,001-516-206-1797,paul.stephenson@gmail.com,25,2021-10-30 21:25:45.946609,Desk Lamp|Laptop|Phone|Monitor,370.83,3344.6,1607,1
 3858,Cynthia Young,+1-672-834-1790x9131,cynthia.young@gmail.com,22,2023-03-30 02:58:10.982505,Phone|Monitor|Mouse|Keyboard,1432.76,10918.49,1092,0
 9176,Monica Patel,742.456.7612,monica.patel@hotmail.com,52,2025-09-29 15:46:30.706681,Laptop,913.55,4131.45,177,0
@@ -622,7 +622,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 1821,Deborah Rowland,001-913-223-4963,deborah.rowland@yahoo.com,40,2021-12-22 08:09:31.219526,Monitor|Laptop|Phone,509.42,2019.42,1555,1
 5139,Michael Cobb,731-560-3922x6169,michael.cobb@gmail.com,60,2023-05-19 23:59:37.458693,Keyboard|Phone,339.73,2786.15,1041,0
 5167,Stacy Martin,(828)936-6123x17587,stacy.martin@yahoo.com,34,2025-06-29 03:47:52.850035,Monitor|Keyboard|Desk Lamp|Phone,1405.79,9320.47,270,0
-8364,Allen Clark,946.401.7690,allen.clark@yahoo.com,45,2024-07-11 12:08:39.979497,Laptop,475.34,1220.93,622,0
+8364,Allen Clark,946.401.7690,allen.clark@yahoo.com,45,2024-07-11 12:08:39.979497,Laptop,475.34,1220.93,623,0
 7920,Joshua Davis,(744)707-2310x938,joshua.davis@hotmail.com,30,2022-05-18 10:01:16.304718,Keyboard|Monitor|Phone,555.28,3825.17,1408,0
 4286,Rachel Taylor,+1-851-721-8806x98121,rachel.taylor@yahoo.com,30,2021-10-18 20:20:59.632694,Keyboard|Monitor|Mouse|Desk Lamp,548.72,1827.2,1619,0
 8579,Cynthia Montgomery,(980)946-1793x035,cynthia.montgomery@gmail.com,42,2023-12-18 06:20:24.029985,Desk Lamp|Phone|Monitor,1518.62,9640.8,829,0
@@ -634,12 +634,12 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 7201,Jenna Conner,+1-592-422-2836,jenna.conner@gmail.com,39,2024-05-16 03:11:02.833669,Keyboard,437.23,1179.75,679,0
 4192,Adam Ford,(331)847-7080,adam.ford@gmail.com,57,2021-05-27 18:10:17.667278,Phone|Monitor|Laptop|Mouse,273.96,661.94,1763,0
 9761,Cody Thompson,+1-794-949-7385x824,cody.thompson@hotmail.com,33,2021-10-08 22:58:16.767619,Phone|Mouse|Laptop,1647.31,7524.07,1629,1
-5662,Nicole Garcia,001-338-711-5100x0362,nicole.garcia@yahoo.com,48,2024-01-02 12:25:02.117826,Monitor,748.59,2544.48,813,0
+5662,Nicole Garcia,001-338-711-5100x0362,nicole.garcia@yahoo.com,48,2024-01-02 12:25:02.117826,Monitor,748.59,2544.48,814,0
 7031,Teresa Sanders,(290)861-4673x0326,teresa.sanders@hotmail.com,52,2024-08-18 11:15:14.970899,Mouse,879.41,5977.97,585,0
 1452,Patricia Hall,001-364-298-4341,patricia.hall@yahoo.com,39,2024-06-08 10:51:16.803290,Keyboard|Phone|Desk Lamp|Monitor,1456.58,7839.1,656,0
 6886,Kathy Rubio,+1-780-846-7485x31934,kathy.rubio@yahoo.com,30,2025-06-21 20:09:37.490987,Desk Lamp,505.58,3786.71,277,0
 5923,Michael Garza,703.756.0549x3138,michael.garza@hotmail.com,53,2022-04-19 06:15:57.741706,Monitor|Mouse|Desk Lamp,415.24,3633.48,1437,0
-7681,Patrick Carr,(253)838-1511x4092,patrick.carr@gmail.com,20,2023-06-11 12:50:26.037927,Keyboard|Desk Lamp,1449.01,14471.21,1018,0
+7681,Patrick Carr,(253)838-1511x4092,patrick.carr@gmail.com,20,2023-06-11 12:50:26.037927,Keyboard|Desk Lamp,1449.01,14471.21,1019,0
 9765,Robert Williams,001-245-675-1810,robert.williams@gmail.com,57,2022-09-05 18:30:39.306910,Laptop|Mouse,639.13,1700.14,1297,0
 3319,Michael Nelson,4606605852,michael.nelson@yahoo.com,36,2021-10-26 05:55:02.912462,Monitor|Phone,639.01,3297.78,1612,0
 6907,Anthony Hansen,736.882.7550,anthony.hansen@yahoo.com,52,2022-10-07 10:17:10.830662,Laptop|Keyboard|Phone|Mouse,334.34,2811.37,1266,0
@@ -650,7 +650,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 5887,Thomas Frederick,+1-617-215-5167x186,thomas.frederick@gmail.com,47,2022-05-01 06:07:40.797250,Monitor|Keyboard|Desk Lamp,524.82,1921.36,1425,0
 3603,Michael Waters,(281)713-9363x798,michael.waters@gmail.com,25,2021-04-14 01:05:27.809287,Mouse|Laptop|Monitor|Phone,616.86,1355.24,1807,1
 4917,Christina Green,(654)278-2997x0949,christina.green@yahoo.com,55,2022-11-19 07:09:29.057612,Desk Lamp|Keyboard|Laptop|Mouse,1332.11,7686.44,1223,0
-6782,James Smith,283-430-8355x8072,james.smith@yahoo.com,47,2023-06-24 13:52:32.367756,Mouse,575.54,2145.72,1005,0
+6782,James Smith,283-430-8355x8072,james.smith@yahoo.com,47,2023-06-24 13:52:32.367756,Mouse,575.54,2145.72,1006,0
 2586,Frederick Cox,001-221-273-0369x4364,frederick.cox@yahoo.com,26,2021-07-05 16:01:53.188593,Desk Lamp|Keyboard,519.18,2528.64,1724,0
 6274,Jesus Manning,001-573-929-4888x2556,jesus.manning@hotmail.com,42,2023-06-27 02:45:15.049314,Phone|Mouse,643.53,1741.49,1003,0
 9064,Amanda Miles,2817638375,amanda.miles@yahoo.com,42,2022-05-05 03:17:28.914217,Mouse|Desk Lamp|Keyboard|Monitor,1437.58,12663.81,1421,0
@@ -683,12 +683,12 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 6972,Yolanda Lopez,+1-818-353-9509,yolanda.lopez@gmail.com,49,2023-07-12 14:31:02.156991,Laptop|Monitor|Desk Lamp|Mouse,257.28,1417.79,987,0
 7966,Rodney Holt,(743)394-8002,rodney.holt@yahoo.com,23,2023-05-01 20:52:22.673069,Laptop|Monitor|Keyboard|Mouse,1229.65,11540.17,1059,0
 3759,Jessica Stevens,+1-390-712-6130,jessica.stevens@hotmail.com,35,2025-12-11 02:55:12.730730,Laptop|Phone|Mouse|Monitor,653.71,6104.2,105,1
-5855,Timothy Walker,4208110514,timothy.walker@gmail.com,41,2022-05-03 13:15:54.827362,Phone|Monitor|Desk Lamp,806.82,1635.69,1422,0
+5855,Timothy Walker,4208110514,timothy.walker@gmail.com,41,2022-05-03 13:15:54.827362,Phone|Monitor|Desk Lamp,806.82,1635.69,1423,0
 2254,Kyle Duarte,(675)993-6245x0164,kyle.duarte@gmail.com,49,2023-10-05 20:37:55.733102,Mouse,1965.52,8556.13,902,0
 1023,Monica Schwartz,+1-834-275-8099x63220,monica.schwartz@gmail.com,25,2025-01-11 01:38:12.264964,Laptop|Monitor|Desk Lamp,1216.21,11845.27,439,1
 4424,Stacy Butler,202.833.9159x17226,stacy.butler@gmail.com,40,2022-11-08 20:50:14.199637,Phone|Keyboard|Monitor|Desk Lamp,1610.8,14150.61,1233,0
 4271,Jonathan Barnes,001-781-794-6378x5694,jonathan.barnes@gmail.com,21,2023-08-28 21:07:39.778145,Phone|Keyboard|Desk Lamp,1562.4,2576.25,940,0
-6718,Victoria Martinez,767.993.1099x9934,victoria.martinez@yahoo.com,21,2021-07-26 13:59:44.799421,Mouse|Laptop|Keyboard|Desk Lamp,708.93,3158.09,1703,0
+6718,Victoria Martinez,767.993.1099x9934,victoria.martinez@yahoo.com,21,2021-07-26 13:59:44.799421,Mouse|Laptop|Keyboard|Desk Lamp,708.93,3158.09,1704,0
 2107,Joshua Navarro,(963)943-9481x888,joshua.navarro@gmail.com,54,2025-04-08 19:34:55.551900,Keyboard,1185.69,8386.39,351,0
 9129,Sherry Krause,548-505-9709,sherry.krause@gmail.com,23,2021-09-11 06:48:35.772392,Keyboard|Phone|Laptop|Mouse,582.63,4828.59,1657,0
 1244,Kristy Hancock,480-306-0885x8225,kristy.hancock@gmail.com,43,2022-01-25 19:06:02.618825,Laptop|Phone,1008.32,4708.8,1520,0
@@ -696,8 +696,8 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 8821,James Smith,(796)230-4084x623,james.smith@gmail.com,65,2021-08-03 22:19:47.420756,Mouse|Phone|Monitor|Keyboard,1529.65,8429.09,1695,0
 1675,Brittany Lane,+1-809-801-1245x2633,brittany.lane@hotmail.com,63,2026-03-18 19:48:04.959232,Mouse,126.48,1131.21,7,0
 1986,Mitchell Hudson,(215)937-0738x80553,mitchell.hudson@yahoo.com,20,2024-09-19 01:52:36.409901,Monitor,374.49,1432.41,553,0
-7380,Karen Phillips,576.314.4715,karen.phillips@gmail.com,52,2022-02-09 13:51:12.850527,Keyboard|Laptop|Phone|Monitor,1329.74,12179.01,1505,0
-2082,Eric Valdez,918-358-6211,eric.valdez@hotmail.com,56,2024-03-27 12:45:22.196197,Keyboard|Mouse|Desk Lamp|Phone,738.82,3391.02,728,0
+7380,Karen Phillips,576.314.4715,karen.phillips@gmail.com,52,2022-02-09 13:51:12.850527,Keyboard|Laptop|Phone|Monitor,1329.74,12179.01,1506,0
+2082,Eric Valdez,918-358-6211,eric.valdez@hotmail.com,56,2024-03-27 12:45:22.196197,Keyboard|Mouse|Desk Lamp|Phone,738.82,3391.02,729,0
 8169,John Craig,692.296.9864x297,john.craig@hotmail.com,43,2024-04-06 11:12:39.611968,Laptop,569.66,1276.25,719,0
 5654,Justin Davis,+1-735-268-8518x1991,justin.davis@yahoo.com,24,2023-04-27 09:49:19.849620,Phone|Keyboard|Desk Lamp|Mouse,320.83,2701.05,1064,0
 7718,Eric Hoover,001-336-300-6485x990,eric.hoover@yahoo.com,33,2021-06-09 10:48:05.204051,Laptop|Desk Lamp|Mouse,1063.17,6379.96,1751,1
@@ -725,7 +725,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 7073,Nancy Jones,001-808-413-7571x9986,nancy.jones@yahoo.com,60,2024-10-23 20:35:40.147264,Keyboard|Mouse|Monitor|Laptop,371.81,2470.07,518,0
 7543,Christopher Hart,878-543-8529,christopher.hart@gmail.com,56,2024-06-09 11:25:14.580323,Mouse,1850.83,6968.59,655,0
 1879,Tracey Barber,001-848-664-1396,tracey.barber@yahoo.com,62,2024-03-14 21:28:26.348968,Mouse|Desk Lamp|Phone|Laptop,36.41,322.6,741,0
-2072,Sean Jackson,902.269.7423,sean.jackson@hotmail.com,41,2025-09-15 12:34:06.207141,Phone|Monitor,1353.2,11573.58,191,0
+2072,Sean Jackson,902.269.7423,sean.jackson@hotmail.com,41,2025-09-15 12:34:06.207141,Phone|Monitor,1353.2,11573.58,192,0
 8394,Laura Hanson,372.865.9196x12166,laura.hanson@yahoo.com,25,2021-05-31 15:00:08.707752,Desk Lamp|Laptop|Phone|Keyboard,1006.63,3374.72,1759,1
 5664,David Odonnell,001-945-416-7172x8321,david.odonnell@hotmail.com,45,2026-01-14 08:05:24.477158,Desk Lamp|Phone|Keyboard|Mouse,421.56,2606.48,71,0
 9468,Charles Peterson,(697)927-8536,charles.peterson@hotmail.com,51,2023-05-29 03:00:27.064147,Laptop,1357.44,12775.92,1032,0
@@ -742,7 +742,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 8181,Cynthia Simmons,979-283-0147,cynthia.simmons@yahoo.com,63,2024-12-24 06:24:49.354568,Mouse|Desk Lamp|Monitor|Laptop,1542.37,3059.66,457,0
 3159,Jerry Donovan,723.240.5554x7738,jerry.donovan@gmail.com,35,2025-09-09 16:35:22.254648,Keyboard|Monitor,942.92,3802.79,197,0
 2752,Jeffrey Noble,771-393-3273x43436,jeffrey.noble@hotmail.com,18,2024-12-03 22:12:47.331081,Monitor|Mouse,898.2,1984.55,477,0
-3969,Charles Johnson,206-564-9628,charles.johnson@hotmail.com,63,2025-01-29 12:06:36.926906,Keyboard,120.49,304.86,420,0
+3969,Charles Johnson,206-564-9628,charles.johnson@hotmail.com,63,2025-01-29 12:06:36.926906,Keyboard,120.49,304.86,421,0
 3965,Kenneth Hall,001-357-942-1641x765,kenneth.hall@yahoo.com,59,2021-09-26 03:24:36.614634,Laptop|Monitor,940.48,3522.12,1642,0
 2702,David Houston,(998)737-6717,david.houston@yahoo.com,50,2026-03-04 14:58:20.537358,Monitor,1429.33,4727.78,21,0
 2155,Kenneth Hernandez,275.837.3379,kenneth.hernandez@hotmail.com,31,2021-05-03 08:50:10.474319,Desk Lamp|Phone|Keyboard,214.91,1499.19,1788,0
@@ -780,11 +780,11 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 4922,Cynthia Cooper,(421)629-1505x56529,cynthia.cooper@yahoo.com,33,2023-04-09 18:57:11.179579,Mouse|Monitor,1000.11,8774.94,1081,0
 1356,Derek Jones,+1-688-790-5199x1840,derek.jones@gmail.com,53,2025-05-23 14:43:00.377466,Monitor|Laptop,803.54,2148.88,306,0
 8076,Kristen Ellis,405-747-0123x4110,kristen.ellis@hotmail.com,22,2021-07-12 11:50:19.088385,Phone,778.53,6074.4,1718,0
-1912,Jessica Booth,+1-438-672-0512x924,jessica.booth@gmail.com,37,2021-06-16 12:43:37.744246,Mouse,1748.16,13371.88,1743,0
+1912,Jessica Booth,+1-438-672-0512x924,jessica.booth@gmail.com,37,2021-06-16 12:43:37.744246,Mouse,1748.16,13371.88,1744,0
 7530,Brian Hamilton,414.438.4498,brian.hamilton@hotmail.com,39,2022-04-18 21:25:23.034178,Desk Lamp|Mouse|Monitor|Keyboard,1618.26,9075.13,1437,0
 7842,Kyle Blackwell,767.323.1148x94077,kyle.blackwell@hotmail.com,58,2021-12-22 23:01:29.554950,Laptop,193.38,1193.49,1554,0
 9513,Stephanie Townsend,001-685-347-9010x383,stephanie.townsend@hotmail.com,54,2023-08-04 16:24:56.781649,Keyboard|Laptop,887.74,6254.92,964,0
-1364,Dana Richards,001-396-595-7214x89727,dana.richards@yahoo.com,24,2024-10-06 13:51:50.737336,Monitor|Phone,943.8,4093.23,535,0
+1364,Dana Richards,001-396-595-7214x89727,dana.richards@yahoo.com,24,2024-10-06 13:51:50.737336,Monitor|Phone,943.8,4093.23,536,0
 2279,Angela Higgins,(340)615-6289x4516,angela.higgins@gmail.com,57,2023-06-27 21:04:37.918063,Monitor,1622.34,5898.29,1002,0
 1530,Amy Wallace,737-201-9222x919,amy.wallace@yahoo.com,63,2022-11-01 01:23:18.026134,Desk Lamp|Mouse,959.29,8078.47,1241,0
 4392,Maria Simpson,(263)780-4330x3888,maria.simpson@hotmail.com,23,2024-11-14 16:46:39.239151,Mouse|Desk Lamp|Keyboard,967.03,2142.66,496,0
@@ -792,9 +792,9 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 4023,Sarah Ortiz,726.611.5711x797,sarah.ortiz@hotmail.com,24,2023-04-22 15:16:00.701110,Monitor|Desk Lamp|Phone|Laptop,786.66,7517.74,1068,0
 6290,Sharon Smith,210.553.5931,sharon.smith@hotmail.com,30,2024-05-12 05:30:50.448193,Mouse,678.21,6466.24,683,0
 4168,Briana Nelson,(421)490-2705x436,briana.nelson@gmail.com,50,2021-10-28 17:11:09.885192,Mouse|Desk Lamp|Phone,570.78,3678.23,1609,0
-4433,Roy Jordan,293.557.8808,roy.jordan@yahoo.com,19,2024-04-21 13:54:26.376339,Laptop|Keyboard|Mouse|Phone,1409.01,2225.9,703,0
+4433,Roy Jordan,293.557.8808,roy.jordan@yahoo.com,19,2024-04-21 13:54:26.376339,Laptop|Keyboard|Mouse|Phone,1409.01,2225.9,704,0
 9944,Brittany Long,328-257-1857,brittany.long@gmail.com,23,2021-09-21 04:52:24.040881,Phone|Mouse|Monitor,126.7,792.0,1647,0
-3600,Christina Nelson,980-391-1199x5345,christina.nelson@yahoo.com,57,2025-06-21 12:40:38.412351,Desk Lamp|Mouse,132.39,843.85,277,0
+3600,Christina Nelson,980-391-1199x5345,christina.nelson@yahoo.com,57,2025-06-21 12:40:38.412351,Desk Lamp|Mouse,132.39,843.85,278,0
 7350,Haley Hansen,689.918.8179x9866,haley.hansen@yahoo.com,32,2026-02-23 21:44:40.003341,Phone,120.21,297.2,30,0
 5405,Benjamin Martin,2445838922,benjamin.martin@yahoo.com,60,2021-07-03 07:20:25.128985,Desk Lamp|Keyboard|Laptop,864.61,3150.67,1727,0
 5217,David Nichols,369.553.7376,david.nichols@yahoo.com,54,2023-05-08 09:58:53.233209,Laptop|Mouse|Desk Lamp|Keyboard,1866.36,14024.32,1053,0
@@ -821,7 +821,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 8936,Theresa Blanchard,001-547-288-7006x88494,theresa.blanchard@hotmail.com,60,2024-11-08 05:53:10.115506,Laptop|Keyboard,1396.65,7937.64,503,0
 5593,Nicole Russell,(383)774-2203x06362,nicole.russell@yahoo.com,30,2022-01-20 10:33:10.159593,Keyboard,1366.78,6053.24,1526,0
 6490,Desiree Cook,+1-652-307-4512x03132,desiree.cook@gmail.com,34,2025-06-29 22:12:46.840416,Laptop|Phone|Keyboard|Mouse,1750.41,4151.76,269,1
-8034,Jamie Moore,517-634-7683x058,jamie.moore@yahoo.com,54,2022-06-26 13:52:13.756357,Laptop|Mouse,566.08,4705.36,1368,0
+8034,Jamie Moore,517-634-7683x058,jamie.moore@yahoo.com,54,2022-06-26 13:52:13.756357,Laptop|Mouse,566.08,4705.36,1369,0
 7958,Lisa Calderon,8884259905,lisa.calderon@hotmail.com,40,2023-04-13 11:09:12.665984,Laptop|Mouse,863.17,5061.85,1078,1
 5932,Pamela Young,001-404-311-0426x8460,pamela.young@hotmail.com,56,2024-08-18 14:24:07.933838,Laptop|Desk Lamp|Mouse|Phone,821.34,8141.66,584,0
 5453,Kevin Williams,001-950-359-0968x53204,kevin.williams@gmail.com,43,2023-09-08 02:25:50.820605,Desk Lamp|Keyboard|Laptop,903.37,2461.39,930,0
@@ -838,7 +838,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 1145,Bruce Harris,442.607.2519x953,bruce.harris@hotmail.com,27,2025-03-04 23:59:40.438663,Laptop|Monitor|Keyboard,240.24,1514.87,386,1
 8650,William Small,001-870-715-7370x783,william.small@hotmail.com,29,2024-11-15 18:06:35.645042,Desk Lamp|Laptop|Keyboard,890.21,7246.87,495,1
 1784,Anna Thompson,657.749.9981,anna.thompson@hotmail.com,59,2022-01-16 15:32:04.836430,Laptop|Keyboard,1521.77,9122.15,1529,0
-9029,Jeffrey Parrish,401.621.5150,jeffrey.parrish@gmail.com,59,2023-02-21 13:05:24.289831,Monitor|Mouse,903.8,4299.94,1128,0
+9029,Jeffrey Parrish,401.621.5150,jeffrey.parrish@gmail.com,59,2023-02-21 13:05:24.289831,Monitor|Mouse,903.8,4299.94,1129,0
 6452,Angela Duran,+1-605-641-3079x0972,angela.duran@yahoo.com,61,2025-06-29 18:27:23.630488,Laptop,347.36,3396.21,269,0
 1992,Kenneth Miller,786-635-9901,kenneth.miller@hotmail.com,25,2026-02-14 09:10:09.048473,Mouse|Monitor|Desk Lamp|Laptop,258.07,1660.49,40,1
 2397,Joseph Austin,(576)379-9951x37387,joseph.austin@gmail.com,43,2022-12-08 11:33:41.295318,Desk Lamp|Mouse|Laptop|Keyboard,378.66,2701.12,1204,0
@@ -858,7 +858,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 2929,Michael Neal,722.258.6798x05427,michael.neal@gmail.com,47,2022-05-09 09:40:22.631673,Keyboard|Monitor|Mouse|Desk Lamp,594.85,3607.72,1417,0
 1033,Katie Hartman,+1-706-241-0595,katie.hartman@gmail.com,54,2024-03-14 10:03:29.109561,Keyboard|Laptop,1863.18,7402.66,742,0
 8280,Yesenia Brock,(908)978-3518x377,yesenia.brock@gmail.com,54,2025-01-27 22:21:36.092162,Keyboard|Phone,1385.82,9581.91,422,0
-2386,Nathan Yang,648.566.2290x7814,nathan.yang@gmail.com,44,2022-03-03 13:42:08.486091,Laptop|Monitor|Keyboard,1980.54,11639.54,1483,0
+2386,Nathan Yang,648.566.2290x7814,nathan.yang@gmail.com,44,2022-03-03 13:42:08.486091,Laptop|Monitor|Keyboard,1980.54,11639.54,1484,0
 5730,Angela Porter,+1-866-852-9680,angela.porter@hotmail.com,25,2025-05-14 14:10:04.452421,Monitor|Keyboard,1524.82,14337.44,315,0
 5687,Charles Watkins,972.687.5627,charles.watkins@yahoo.com,62,2024-04-24 08:49:58.879376,Laptop|Keyboard|Desk Lamp|Mouse,1672.52,12790.58,701,0
 3908,Olivia Butler,951.298.4510,olivia.butler@hotmail.com,51,2021-04-16 05:46:45.315842,Phone|Keyboard|Laptop|Desk Lamp,1365.25,13003.18,1805,0
@@ -871,7 +871,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 5448,Robert Hill,+1-299-745-4723x60151,robert.hill@gmail.com,51,2023-02-14 19:36:18.077865,Laptop|Mouse|Monitor|Phone,377.85,3555.5,1135,0
 4529,Richard Mccullough,+1-740-769-0487,richard.mccullough@hotmail.com,22,2024-10-01 04:12:04.729710,Keyboard,1667.85,16323.68,541,0
 1959,Katherine Horne,922-443-0465,katherine.horne@gmail.com,45,2022-09-27 01:01:37.762886,Keyboard,1699.75,4428.43,1276,0
-7767,Donna Murray,313.231.9484x746,donna.murray@gmail.com,26,2024-12-16 12:22:17.256822,Monitor,1710.14,6129.59,464,0
+7767,Donna Murray,313.231.9484x746,donna.murray@gmail.com,26,2024-12-16 12:22:17.256822,Monitor,1710.14,6129.59,465,0
 3928,John Hughes,+1-553-758-1129x74605,john.hughes@yahoo.com,24,2023-09-24 05:47:57.551121,Phone|Keyboard|Desk Lamp,1193.44,7927.4,914,0
 7986,Jennifer Taylor,5118281846,jennifer.taylor@yahoo.com,43,2021-11-02 19:07:21.010832,Keyboard|Monitor|Laptop,1410.68,7064.99,1604,0
 5173,John Mccoy,(366)478-7205x42400,john.mccoy@yahoo.com,61,2025-10-10 16:49:55.210751,Phone|Keyboard|Monitor,1223.35,11211.02,166,0
@@ -896,13 +896,13 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 8806,Elizabeth Gentry,+1-426-676-3063,elizabeth.gentry@gmail.com,26,2023-11-18 22:14:43.783847,Desk Lamp,202.92,402.98,858,0
 2609,Lindsey Fisher,+1-887-215-5128x99778,lindsey.fisher@yahoo.com,24,2023-07-05 14:33:07.279485,Keyboard|Laptop|Desk Lamp,1373.58,4864.21,994,0
 9674,Barbara Wood,(508)719-7488,barbara.wood@hotmail.com,34,2023-06-20 20:42:36.186655,Mouse|Desk Lamp|Phone|Monitor,76.58,742.28,1009,0
-6636,Katelyn Mccoy,664-979-4771x03267,katelyn.mccoy@gmail.com,22,2021-10-17 13:14:22.088922,Keyboard,1043.42,3988.36,1620,0
+6636,Katelyn Mccoy,664-979-4771x03267,katelyn.mccoy@gmail.com,22,2021-10-17 13:14:22.088922,Keyboard,1043.42,3988.36,1621,0
 7555,Jacob Smith,+1-789-787-1519x38513,jacob.smith@gmail.com,33,2025-06-05 01:41:22.346082,Monitor,392.82,1252.26,294,0
 1982,Ashley Harris,(456)729-0167x000,ashley.harris@gmail.com,39,2021-11-12 18:16:20.734579,Desk Lamp|Laptop,362.71,2943.05,1594,1
-9702,Jennifer Sanchez,438-232-7787,jennifer.sanchez@hotmail.com,23,2026-03-06 13:51:01.908422,Laptop|Phone|Monitor|Desk Lamp,740.85,5083.21,19,0
+9702,Jennifer Sanchez,438-232-7787,jennifer.sanchez@hotmail.com,23,2026-03-06 13:51:01.908422,Laptop|Phone|Monitor|Desk Lamp,740.85,5083.21,20,0
 2304,Patrick Chavez,617-239-4188x24529,patrick.chavez@hotmail.com,54,2024-09-23 04:47:32.204301,Desk Lamp|Mouse|Laptop|Monitor,591.29,3590.87,549,0
-4442,Shawn Park,001-419-626-3978x22852,shawn.park@yahoo.com,32,2022-10-23 12:53:47.434923,Desk Lamp|Monitor|Mouse,175.3,1018.85,1249,0
-6365,Richard Tucker,+1-496-983-1485x42377,richard.tucker@gmail.com,40,2022-09-08 12:16:56.455923,Laptop|Keyboard,1259.54,7671.59,1294,1
+4442,Shawn Park,001-419-626-3978x22852,shawn.park@yahoo.com,32,2022-10-23 12:53:47.434923,Desk Lamp|Monitor|Mouse,175.3,1018.85,1250,0
+6365,Richard Tucker,+1-496-983-1485x42377,richard.tucker@gmail.com,40,2022-09-08 12:16:56.455923,Laptop|Keyboard,1259.54,7671.59,1295,1
 1559,Pamela Wagner,(750)278-1799,pamela.wagner@gmail.com,20,2022-07-20 18:26:53.624460,Desk Lamp|Mouse|Phone,105.97,748.76,1344,0
 6746,Devin Olson,238.293.2642,devin.olson@hotmail.com,62,2025-06-13 16:08:28.894329,Desk Lamp,1758.98,11938.5,285,0
 1052,Christy Simmons,(347)492-6792,christy.simmons@gmail.com,29,2025-05-05 09:45:46.442606,Monitor|Keyboard,1502.21,4290.04,325,0
@@ -918,7 +918,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 4708,Jacob Clark,+1-700-353-1549x88284,jacob.clark@gmail.com,28,2022-12-30 23:06:10.368869,Laptop,1669.64,8510.64,1181,1
 2528,Jack Montes,001-209-528-5096x50888,jack.montes@yahoo.com,48,2024-12-20 00:34:23.408581,Keyboard|Monitor|Desk Lamp|Laptop,279.22,1639.31,461,0
 6589,Joseph Christensen,557.729.8026x7346,joseph.christensen@yahoo.com,31,2021-07-21 03:02:46.461822,Phone|Keyboard|Laptop,1723.34,7471.26,1709,1
-8706,Jay Mcintyre,001-333-317-8965,jay.mcintyre@yahoo.com,27,2022-04-21 04:43:47.251991,Mouse|Keyboard|Laptop|Desk Lamp,52.36,413.74,1435,0
+8706,Jay Mcintyre,001-333-317-8965,jay.mcintyre@yahoo.com,27,2022-04-21 04:43:47.251991,Mouse|Keyboard|Laptop|Desk Lamp,52.36,413.74,1435,1
 7229,David Curtis,+1-659-261-7083x874,david.curtis@yahoo.com,34,2022-04-21 23:22:45.126312,Desk Lamp|Keyboard,1731.42,16048.29,1434,0
 6124,Zachary Hernandez,4697190756,zachary.hernandez@yahoo.com,64,2021-08-04 15:04:22.779981,Desk Lamp|Keyboard,610.28,1963.99,1694,0
 4283,Anthony Williams,+1-906-888-4730x8137,anthony.williams@gmail.com,51,2025-01-06 16:03:48.905660,Phone|Desk Lamp,1587.25,6812.95,443,0
@@ -930,7 +930,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 3324,Christine Martinez,632-323-6569x322,christine.martinez@yahoo.com,56,2023-01-01 00:21:27.097634,Monitor|Laptop|Keyboard,829.78,1721.66,1180,0
 2202,Jennifer Christensen,(785)865-0822,jennifer.christensen@yahoo.com,31,2024-07-31 22:16:05.249245,Monitor|Laptop,1392.6,10380.22,602,1
 2186,Linda Koch,350-547-5351,linda.koch@yahoo.com,50,2021-09-06 07:03:37.101730,Monitor|Keyboard|Laptop|Mouse,949.85,2990.62,1662,0
-7544,Kelly Evans,(411)444-7946,kelly.evans@gmail.com,34,2021-09-11 13:11:18.382973,Mouse,303.74,2587.0,1656,0
+7544,Kelly Evans,(411)444-7946,kelly.evans@gmail.com,34,2021-09-11 13:11:18.382973,Mouse,303.74,2587.0,1657,0
 6998,Laurie Davis,+1-256-555-0724x61093,laurie.davis@gmail.com,63,2022-01-10 21:53:18.070422,Monitor|Mouse|Keyboard|Phone,1107.64,9364.49,1535,0
 8674,Jessica Weaver,001-362-975-4891x20299,jessica.weaver@hotmail.com,26,2023-06-16 00:19:57.101474,Phone|Mouse|Laptop|Monitor,1129.64,3183.04,1014,1
 8747,Jeffrey Smith,779-537-0654x59881,jeffrey.smith@yahoo.com,48,2022-08-15 08:58:22.218552,Laptop|Phone|Monitor,439.02,2846.6,1319,0
@@ -939,7 +939,7 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 2009,Tammy Waters,+1-885-280-2182x0879,tammy.waters@hotmail.com,50,2022-01-15 23:15:11.986144,Mouse,1136.59,8483.78,1530,0
 2008,Jeffery Tran,(591)579-9453,jeffery.tran@hotmail.com,38,2021-09-26 11:54:42.980032,Laptop,1368.18,11456.04,1642,1
 6435,Frederick Mason,504.862.0739x389,frederick.mason@hotmail.com,32,2021-11-15 17:09:45.634279,Phone,1316.33,12825.97,1591,0
-4622,Mario Carroll,520-997-9446,mario.carroll@gmail.com,52,2024-04-15 12:34:43.107176,Monitor|Mouse|Laptop,290.5,1017.83,709,0
+4622,Mario Carroll,520-997-9446,mario.carroll@gmail.com,52,2024-04-15 12:34:43.107176,Monitor|Mouse|Laptop,290.5,1017.83,710,0
 9106,John Cohen,(581)798-2882x6690,john.cohen@yahoo.com,30,2025-06-24 11:50:07.428629,Phone,1335.06,10530.58,275,0
 7979,Kristen Richardson,353-970-9723,kristen.richardson@gmail.com,19,2024-06-01 01:20:36.261270,Laptop|Phone|Monitor|Mouse,116.76,676.12,663,0
 2106,Scott King,(298)402-7472x1593,scott.king@yahoo.com,38,2022-05-08 00:32:39.219418,Laptop|Monitor|Phone,586.19,4924.92,1418,1
@@ -956,9 +956,9 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 9520,Toni Patel,(348)712-3151x29248,toni.patel@yahoo.com,62,2025-05-29 06:01:30.143511,Phone|Desk Lamp|Mouse|Monitor,352.54,551.72,301,0
 3210,Kaitlyn White,218.246.0471x9306,kaitlyn.white@hotmail.com,50,2023-06-04 20:29:39.324733,Desk Lamp,1331.14,8288.57,1025,0
 1174,Frank Cole,397-458-9115x334,frank.cole@gmail.com,21,2022-12-28 16:00:13.793369,Laptop|Mouse,1003.92,3081.36,1183,0
-2993,Keith Clark,(572)378-6963x493,keith.clark@gmail.com,34,2022-02-19 12:47:55.299267,Phone|Keyboard|Laptop|Desk Lamp,1679.73,12184.23,1495,1
+2993,Keith Clark,(572)378-6963x493,keith.clark@gmail.com,34,2022-02-19 12:47:55.299267,Phone|Keyboard|Laptop|Desk Lamp,1679.73,12184.23,1496,1
 7722,Scott Monroe,+1-354-649-2981x8587,scott.monroe@gmail.com,60,2026-02-15 15:47:08.047060,Desk Lamp|Phone|Keyboard,1411.0,6004.06,38,0
-3440,Paul Kirby,001-275-754-2102,paul.kirby@gmail.com,43,2025-05-17 12:51:14.098253,Monitor|Laptop,241.17,1031.83,312,0
+3440,Paul Kirby,001-275-754-2102,paul.kirby@gmail.com,43,2025-05-17 12:51:14.098253,Monitor|Laptop,241.17,1031.83,313,0
 7034,Michele Mckee,(338)850-8884,michele.mckee@hotmail.com,62,2025-12-17 18:52:45.549223,Desk Lamp|Phone,1861.3,10415.05,98,0
 2209,Richard Lawrence,(525)801-7960x464,richard.lawrence@yahoo.com,31,2023-01-26 11:02:35.304857,Mouse|Laptop|Monitor,110.76,770.94,1155,1
 6401,Amy Mcintosh,419-739-8786x832,amy.mcintosh@gmail.com,21,2023-09-13 21:48:27.269668,Keyboard|Mouse|Desk Lamp,1022.3,9830.01,924,0
@@ -987,15 +987,15 @@ customer_id,customer_full_name,customer_phone_number,customer_email,customer_age
 8222,James James,(790)594-7383x59339,james.james@hotmail.com,40,2022-06-03 21:25:05.919916,Laptop|Keyboard,387.48,1758.53,1391,1
 5981,Danielle Davis,+1-838-492-3129x4079,danielle.davis@gmail.com,20,2023-09-25 02:33:10.608719,Mouse|Desk Lamp|Keyboard,212.1,559.86,913,0
 4104,Sharon Jackson,616.569.9598x03412,sharon.jackson@gmail.com,60,2023-03-25 18:51:10.064559,Phone,1446.12,9702.47,1096,0
-5458,Dustin Manning,776.498.9892x2685,dustin.manning@gmail.com,23,2021-05-11 12:54:56.058949,Keyboard|Laptop|Monitor,162.46,1253.85,1779,0
+5458,Dustin Manning,776.498.9892x2685,dustin.manning@gmail.com,23,2021-05-11 12:54:56.058949,Keyboard|Laptop|Monitor,162.46,1253.85,1780,0
 5656,Melanie Ferguson,+1-695-633-7997,melanie.ferguson@yahoo.com,42,2021-10-05 01:08:57.631703,Laptop|Desk Lamp|Mouse,1269.38,2600.59,1633,0
 8544,Brooke Daniel,+1-305-917-4253x237,brooke.daniel@hotmail.com,36,2023-08-22 21:25:32.573620,Laptop|Desk Lamp|Mouse|Phone,1703.08,12559.79,946,1
 5731,Daniel Martinez,640-929-6039,daniel.martinez@yahoo.com,36,2022-06-23 04:42:26.581778,Mouse,939.53,5454.95,1372,0
 1939,Emily Vasquez,555.420.2656,emily.vasquez@gmail.com,49,2024-07-29 18:54:33.448761,Mouse|Keyboard|Monitor,341.93,1577.39,604,0
-4025,James Sanchez,755.929.2838,james.sanchez@hotmail.com,38,2024-08-07 13:42:35.210731,Mouse,702.14,6434.4,595,0
+4025,James Sanchez,755.929.2838,james.sanchez@hotmail.com,38,2024-08-07 13:42:35.210731,Mouse,702.14,6434.4,596,0
 9573,Tiffany Chung,+1-255-593-1372x193,tiffany.chung@hotmail.com,56,2024-10-03 18:27:49.540454,Keyboard,462.34,1038.89,538,0
 1419,Angela Jackson,816-563-4478,angela.jackson@yahoo.com,50,2023-05-19 01:43:19.468884,Laptop|Phone|Monitor|Desk Lamp,1356.23,5665.42,1042,0
 5507,Lisa West,354.884.7565x549,lisa.west@gmail.com,29,2022-03-27 19:40:37.902410,Laptop|Phone|Mouse,1711.91,7215.32,1459,1
 7686,Gary Davis,493.707.3294x2312,gary.davis@yahoo.com,61,2025-10-02 14:40:21.868467,Mouse|Monitor|Phone,621.36,4825.36,174,0
-2603,Marcus Hunt,299-220-3434x958,marcus.hunt@hotmail.com,25,2023-10-29 01:12:50.680059,Mouse|Laptop,42.92,337.2,879,0
+2603,Marcus Hunt,299-220-3434x958,marcus.hunt@hotmail.com,25,2023-10-29 01:12:50.680059,Mouse|Laptop,42.92,337.2,879,1
 7217,Derrick Obrien,694-353-1495,derrick.obrien@gmail.com,23,2022-10-16 18:44:51.921363,Keyboard|Laptop|Phone|Monitor,1178.79,6733.04,1256,0

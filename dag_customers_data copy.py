@@ -99,49 +99,20 @@ with DAG(
         }
     )
 
-    # Convert the string "100, 200, 300..." into a Python list of integers
-    #spend_thresholds_list = [int(x.strip()) for x in ANALYSIS['spend_thresholds'].split(',')]
-    thresholds_str = config['analysis_params']['spend_thresholds']
-    spend_thresholds_list = [int(x.strip()) for x in thresholds_str.split(',')]
-    
-    # 2. Use the .expand() wrapper
-    # This tells Airflow: "Run this task 6 times, once for each value in spend_thresholds"
-    
-    predict_value_task = PythonOperator.partial(
+    predict_value_task = PythonOperator(
         task_id='predict_customer_value',
         python_callable=identify_marketing_targets,
-    ).expand(
-        op_kwargs=[
-            {
-                'min_spend': val,
-                'input_file': "{{ ti.xcom_pull(task_ids='generate_customer_csv') }}",
-                'output_path': ANALYSIS['output_predictions_path'],
-                'target_item': ANALYSIS['target_item'],
-                'age_min': ANALYSIS['target_age_min'],
-                'age_max': ANALYSIS['target_age_max'],
-                'min_seniority': ANALYSIS['target_min_seniority'],
-                'wandb_project': WANDB['wandb_project']
-            } 
-            for val in spend_thresholds_list
-        ]
+        op_kwargs={
+            'input_file': "{{ ti.xcom_pull(task_ids='generate_customer_csv') }}",
+            'output_path': ANALYSIS['output_predictions_path'],
+            'target_item': ANALYSIS['target_item'],
+            'min_spend': ANALYSIS['min_spend_threshold'],
+            'age_min': ANALYSIS['target_age_min'],
+            'age_max': ANALYSIS['target_age_max'],
+            'min_seniority': ANALYSIS['target_min_seniority'],
+            'wandb_project': WANDB['wandb_project']
+        }
     )
-    
-    
-    
-    # predict_value_task = PythonOperator(
-    #     task_id='predict_customer_value',
-    #     python_callable=identify_marketing_targets,
-    #     op_kwargs={
-    #         'input_file': "{{ ti.xcom_pull(task_ids='generate_customer_csv') }}",
-    #         'output_path': ANALYSIS['output_predictions_path'],
-    #         'target_item': ANALYSIS['target_item'],
-    #         'min_spend': ANALYSIS['min_spend_threshold'],
-    #         'age_min': ANALYSIS['target_age_min'],
-    #         'age_max': ANALYSIS['target_age_max'],
-    #         'min_seniority': ANALYSIS['target_min_seniority'],
-    #         'wandb_project': WANDB['wandb_project']
-    #     }
-    # )
 create_customers_table >>  customers_stats_task >> predict_value_task
 
 
