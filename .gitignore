@@ -1,0 +1,26 @@
+# --- Dependencies ---
+node_modules/
+bin/
+obj/
+vendor/
+
+# --- Environment / Secrets ---
+.env
+.env.local
+*.pem
+*.key
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Logs and Databases ---
+*.log
+*.sqlite
