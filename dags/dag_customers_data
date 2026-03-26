@@ -39,7 +39,7 @@ DAG_ID = config['dag_settings']['dag_id']
 SCHEDULE = config['dag_settings']['schedule_interval']
 
 CUST_SEC = config['customers_params']
-n_customers = int(CUST_SEC['n_customers'])
+n_customers = int(CUST_SEC['number_of_customers'])
 dataset_dir = CUST_SEC['datasets_dir']
 file_name = CUST_SEC['customer_filename']
 age_range = (int(CUST_SEC['age_range_min']), int(CUST_SEC['age_range_max']))
@@ -51,8 +51,8 @@ stats_file_name = CUST_SEC['stats_file_name']
 
 
 with DAG(
-    dag_id=config['dag_id'],
-    schedule_interval=config['schedule_interval'],
+    dag_id=DAG_ID,
+    schedule_interval=SCHEDULE,
     start_date=datetime(2024, 1, 1),
     catchup=False,
     tags=['production', 'generator', 'config-driven']
