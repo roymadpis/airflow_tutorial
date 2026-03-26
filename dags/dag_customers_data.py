@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-import os
+import os, sys
 
 
 import pandas as pd
@@ -11,9 +11,18 @@ import numpy as np
 import random
 from faker import Faker
 
+# This tells Python to look in /opt/airflow/dags for the 'scripts' package
+dag_dir = os.path.dirname(os.path.abspath(__file__))
+if dag_dir not in sys.path:
+    sys.path.append(dag_dir)
+    
+        
+sys.path.append(os.path.dirname(__file__))
+
+    
 from scripts.create_customers_dataset import generate_customer_data
 from scripts.stats_on_customers_table import generate_stats_logic
-
+from scripts.predict_value import identify_marketing_targets
 
 # # 1. Load the configuration
 # import yaml
@@ -39,9 +48,13 @@ DAG_ID = config['dag_settings']['dag_id']
 SCHEDULE = config['dag_settings']['schedule_interval']
 
 CUST_SEC = config['customers_params']
+ANALYSIS = config['analysis_params']
+
+force_recreate = CUST_SEC['force_recreate']
 n_customers = int(CUST_SEC['number_of_customers'])
 dataset_dir = CUST_SEC['datasets_dir']
 file_name = CUST_SEC['customer_filename']
+
 age_range = (int(CUST_SEC['age_range_min']), int(CUST_SEC['age_range_max']))
 
 items_list = [i.strip() for i in CUST_SEC['items_list'].split(',')]
@@ -65,10 +78,12 @@ with DAG(
             'n': n_customers,
             'dir_name': dataset_dir,
             'file_name': file_name,
+            'force_recreate': force_recreate,
             'age_range': age_range,
             'purchase_value_range': purchase_range,
             'items_list': items_list,
-            'total_value_mult_range': mult_range
+            'total_value_mult_range': mult_range,
+            'verbose': True
         }
     )
 
@@ -83,8 +98,20 @@ with DAG(
         }
     )
 
-
-create_customers_table >>  customers_stats_task
+    predict_value_task = PythonOperator(
+        task_id='predict_customer_value',
+        python_callable=identify_marketing_targets,
+        op_kwargs={
+            'input_file': "{{ ti.xcom_pull(task_ids='generate_customer_csv') }}",
+            'output_path': ANALYSIS['output_predictions_path'],
+            'target_item': ANALYSIS['target_item'],
+            'min_spend': ANALYSIS['min_spend_threshold'],
+            'age_min': ANALYSIS['target_age_min'],
+            'age_max': ANALYSIS['target_age_max'],
+            'min_seniority': ANALYSIS['target_min_seniority']
+        }
+    )
+create_customers_table >>  customers_stats_task >> predict_value_task
 
 
 

@@ -1,0 +1,1001 @@
+customer_id,customer_full_name,customer_phone_number,customer_email,customer_age,customer_created_ts,last_purchase_items,last_purchase_value,total_value
+6459,Bethany Williamson,682.897.6288,bethany.williamson@gmail.com,63,2025-04-26 20:08:47.660249,Phone|Monitor|Keyboard,22.15,153.98
+3823,Joanne Savage,001-215-321-0933x580,joanne.savage@hotmail.com,25,2022-03-18 17:35:45.992726,Monitor|Phone|Mouse|Laptop,1629.47,6005.25
+7894,Sarah Brooks,9999199679,sarah.brooks@yahoo.com,32,2025-02-26 11:41:43.008488,Keyboard|Mouse,99.65,220.44
+6653,Mary Burch,3687359765,mary.burch@yahoo.com,21,2021-07-26 01:40:42.460286,Laptop|Keyboard|Phone|Mouse,887.64,1472.26
+8583,Wesley Silva,709.640.3206x8775,wesley.silva@yahoo.com,58,2024-07-06 10:31:27.228736,Phone|Laptop,1979.36,18883.06
+3754,Amanda Snyder,547-476-7927x3132,amanda.snyder@gmail.com,62,2022-10-17 08:18:18.632877,Keyboard|Monitor,318.54,1513.92
+8242,Jeffery Morton,217-902-7342x5040,jeffery.morton@yahoo.com,57,2024-06-09 18:40:41.406985,Monitor|Keyboard|Laptop,1565.78,6504.47
+9104,Nancy Goodwin,+1-472-291-9000,nancy.goodwin@gmail.com,42,2022-09-12 21:55:18.604269,Keyboard,1125.18,3217.35
+9637,Michael Goodman,665-860-4032,michael.goodman@gmail.com,41,2022-03-14 22:10:53.191653,Mouse|Phone|Monitor|Laptop,832.21,8260.14
+6672,Dave Rodriguez,8604264668,dave.rodriguez@gmail.com,24,2023-01-18 20:47:05.908788,Mouse,1014.96,3345.43
+4607,Christopher Byrd,(985)503-2572x4788,christopher.byrd@yahoo.com,33,2026-01-02 15:35:11.834623,Monitor|Desk Lamp,269.86,2498.14
+7858,Jessica Martinez,001-341-464-0080x745,jessica.martinez@hotmail.com,34,2023-04-01 20:06:12.159901,Keyboard,898.21,6942.73
+3307,Madison Smith,910.524.0154x5645,madison.smith@gmail.com,43,2022-06-20 15:50:21.135474,Laptop|Desk Lamp|Mouse,127.9,805.8
+5663,Samantha Ramos,496-914-7884x532,samantha.ramos@hotmail.com,49,2023-03-13 20:24:33.792470,Desk Lamp|Mouse|Phone|Monitor,1025.83,5035.65
+6493,Kelsey Scott,001-468-320-9591x670,kelsey.scott@hotmail.com,54,2025-09-11 14:07:21.482373,Keyboard|Phone|Monitor,1079.4,6996.56
+9226,Christina Wright,001-677-441-5586x615,christina.wright@hotmail.com,26,2026-01-18 13:04:37.892971,Desk Lamp|Phone,1732.89,11248.68
+3756,Alyssa Pearson,8379705532,alyssa.pearson@hotmail.com,43,2022-05-17 01:16:30.983479,Laptop|Phone,1890.6,17398.96
+3148,Charles Lawrence,9079233323,charles.lawrence@hotmail.com,65,2024-05-09 02:08:08.076387,Keyboard|Mouse|Desk Lamp,441.82,4215.4
+3755,Leslie Powell,9259963246,leslie.powell@yahoo.com,25,2021-05-04 03:43:36.312749,Laptop|Mouse,324.06,2426.42
+7893,Justin Logan,001-757-503-2300,justin.logan@yahoo.com,32,2024-08-07 10:19:03.205635,Mouse,1868.01,5932.44
+5515,Cody Cox,655.722.3664x832,cody.cox@hotmail.com,52,2023-04-26 06:46:43.678061,Monitor|Mouse|Keyboard,1348.86,9223.59
+2891,Sherry Estrada,458-246-2736,sherry.estrada@yahoo.com,22,2023-10-03 18:15:44.548385,Monitor|Laptop|Mouse,1080.27,7140.44
+6903,Allison Gaines,001-731-794-5864x0032,allison.gaines@yahoo.com,57,2022-12-16 00:08:48.752026,Mouse|Keyboard,1021.87,7315.28
+4897,Alicia Martin,870-712-9448x01015,alicia.martin@hotmail.com,20,2024-11-29 15:34:49.235705,Keyboard|Desk Lamp|Monitor,1315.24,5428.39
+8527,Benjamin Morris,+1-270-377-4466x7061,benjamin.morris@gmail.com,65,2021-05-08 18:18:10.187887,Mouse|Phone,1189.66,3355.53
+5472,Kimberly Anderson,879-887-4404,kimberly.anderson@gmail.com,41,2023-07-15 03:44:34.653743,Mouse|Phone|Laptop|Keyboard,1590.9,5252.72
+8262,Julie Butler,461-462-7808x62990,julie.butler@gmail.com,50,2021-08-18 22:27:33.262671,Mouse,404.24,3570.26
+3291,Elizabeth Ortiz,(397)577-8737x917,elizabeth.ortiz@gmail.com,41,2024-12-05 08:43:56.943138,Mouse,67.76,560.46
+7199,Linda Henry,(897)872-4330,linda.henry@yahoo.com,62,2023-05-29 14:18:13.132226,Keyboard,300.84,2133.88
+5964,Sarah Collins,+1-746-388-5802x8085,sarah.collins@gmail.com,44,2024-02-09 14:28:34.387968,Laptop|Desk Lamp|Phone,950.97,5929.64
+7938,Samantha Salinas,+1-431-669-6915x6889,samantha.salinas@gmail.com,47,2024-06-29 01:13:10.367442,Phone|Keyboard|Laptop|Mouse,1452.1,9051.57
+8089,Malik Larsen,+1-433-457-6459x703,malik.larsen@gmail.com,58,2023-06-19 12:22:47.243920,Desk Lamp|Mouse,1220.58,11534.05
+7890,Julia Jones,378-429-2506x145,julia.jones@yahoo.com,57,2025-10-18 08:02:23.597419,Desk Lamp|Mouse|Keyboard,1102.85,9868.08
+6474,Robert Hensley,310.362.0224x758,robert.hensley@yahoo.com,42,2022-02-02 13:25:35.332783,Keyboard,1511.38,14390.1
+9135,Sherri Russell,610-477-2643,sherri.russell@hotmail.com,60,2025-07-04 12:36:53.747286,Monitor|Desk Lamp|Mouse,1385.49,10224.67
+3519,Jay Smith,586-751-6013,jay.smith@hotmail.com,65,2023-06-10 23:59:52.970401,Mouse|Desk Lamp|Phone|Laptop,1858.37,18134.79
+9220,James Harris,+1-267-715-8111,james.harris@hotmail.com,47,2025-05-23 22:48:54.398482,Monitor|Desk Lamp|Mouse|Laptop,1150.84,10117.63
+8212,Heidi Brock,601-469-1836x93388,heidi.brock@gmail.com,24,2023-02-23 20:08:16.534153,Desk Lamp|Laptop|Mouse|Monitor,157.76,305.95
+8231,Erin Garcia,+1-983-923-3823x95136,erin.garcia@yahoo.com,19,2023-08-04 20:17:05.790594,Mouse,911.9,6086.37
+5461,Edward Fisher,291.967.5505,edward.fisher@gmail.com,39,2023-04-10 03:00:13.968057,Keyboard|Laptop|Desk Lamp|Mouse,936.2,5622.14
+6630,Kelly Smith,642-874-8953x79784,kelly.smith@gmail.com,33,2021-12-10 07:03:09.411561,Phone|Mouse,43.28,225.48
+4791,Robert Hill,+1-904-769-6007x671,robert.hill@yahoo.com,36,2022-12-19 11:30:17.981565,Keyboard|Mouse,1587.29,11977.52
+3899,Emily Wilson,(392)740-3716,emily.wilson@yahoo.com,34,2023-01-27 03:41:05.005596,Mouse|Keyboard|Laptop|Desk Lamp,1228.13,11126.6
+5351,James Mason,879.646.0769,james.mason@hotmail.com,34,2024-05-07 23:52:46.613849,Keyboard|Laptop,397.72,1848.26
+2763,Kelly Dunlap,717.747.9703,kelly.dunlap@hotmail.com,31,2023-07-08 00:56:39.022289,Laptop,1482.42,13622.26
+2743,Andre Klein,393.925.6227,andre.klein@yahoo.com,37,2023-10-08 04:43:26.842386,Phone|Laptop|Mouse,1192.37,9711.58
+1142,Lauren Thornton,(213)304-7616x83309,lauren.thornton@gmail.com,55,2022-05-29 19:03:09.656161,Phone,1174.39,3924.12
+6077,Sheri Barnes,(628)938-3604x5304,sheri.barnes@gmail.com,52,2022-03-03 04:11:11.247857,Laptop|Desk Lamp|Keyboard|Monitor,878.9,6669.69
+5474,Lee Barnett,(635)331-5703,lee.barnett@hotmail.com,47,2021-10-03 09:23:24.350195,Mouse|Desk Lamp|Keyboard|Phone,1996.92,6278.57
+2998,Angela Lewis,001-436-770-3701x5797,angela.lewis@hotmail.com,33,2023-05-29 23:55:37.599232,Mouse|Laptop|Keyboard,1864.86,7974.82
+4076,Daniel Roach,001-347-876-7085x03539,daniel.roach@gmail.com,55,2024-02-17 07:43:21.585005,Desk Lamp,717.44,5231.99
+5518,Mark Scott,001-443-561-0484,mark.scott@yahoo.com,64,2023-07-14 01:01:51.020776,Desk Lamp|Mouse|Monitor,1812.51,15534.9
+9206,Eileen Martinez,001-397-628-1112x7081,eileen.martinez@hotmail.com,48,2023-05-14 06:25:50.774441,Desk Lamp|Mouse|Phone|Laptop,1506.24,12668.22
+3378,Susan Garcia,(267)341-1432x2334,susan.garcia@hotmail.com,40,2025-07-24 17:19:35.419144,Laptop|Phone|Keyboard,166.92,408.39
+1239,Richard Deleon,5694622230,richard.deleon@gmail.com,38,2022-10-01 21:34:33.364185,Phone|Laptop|Keyboard,248.32,1295.06
+8789,Joseph Roberts,(986)678-7297x524,joseph.roberts@yahoo.com,60,2025-04-21 23:40:05.735394,Monitor|Laptop|Phone|Keyboard,1704.66,4132.2
+2005,Christine Shaw,612-521-8130,christine.shaw@hotmail.com,39,2024-11-01 12:53:30.131431,Monitor|Phone,224.59,1850.15
+3205,Heather Mcbride,(545)558-8610x0548,heather.mcbride@hotmail.com,27,2025-12-06 19:21:52.251513,Phone|Mouse|Keyboard,907.19,4969.76
+3913,Robert Lee,001-580-635-9459x730,robert.lee@gmail.com,22,2021-08-11 23:47:46.583480,Laptop|Monitor,612.62,975.61
+8281,Bruce Bush,842-831-4326,bruce.bush@gmail.com,34,2023-11-26 19:54:32.693400,Mouse|Laptop|Phone,1888.56,9211.97
+8686,Wendy Grant,(901)414-9439,wendy.grant@yahoo.com,56,2023-10-08 20:54:35.021040,Monitor|Mouse|Desk Lamp|Keyboard,912.47,3086.62
+7393,Andrew Freeman,413.488.4938x6219,andrew.freeman@hotmail.com,54,2023-09-03 08:31:19.306420,Keyboard|Phone|Mouse|Desk Lamp,1173.16,8357.79
+6477,Ryan Rodgers,706.765.6468,ryan.rodgers@hotmail.com,40,2025-01-20 19:21:13.684656,Desk Lamp|Monitor,1258.85,7188.15
+7603,Trevor Ford,333.590.4351,trevor.ford@yahoo.com,39,2025-12-18 14:58:38.900335,Keyboard|Desk Lamp|Mouse|Monitor,982.48,7283.23
+2501,Lucas Estes,284.544.1671x00203,lucas.estes@yahoo.com,21,2022-06-19 07:50:59.516443,Mouse|Phone|Monitor,1621.33,12897.86
+7668,Jennifer Rose,660-509-2534,jennifer.rose@yahoo.com,35,2025-12-08 15:36:00.958226,Phone|Desk Lamp|Laptop|Monitor,1481.33,3886.15
+8324,David Dixon,001-643-761-4462x2159,david.dixon@gmail.com,53,2023-12-13 19:17:51.849888,Phone,630.19,1053.72
+8826,Richard Johnson,001-491-610-2386,richard.johnson@gmail.com,21,2022-05-05 04:07:37.139411,Desk Lamp|Phone|Mouse,561.89,2485.77
+5603,Wendy Salinas,+1-307-461-0440x5951,wendy.salinas@gmail.com,28,2024-12-14 13:02:58.471246,Desk Lamp|Monitor,1408.32,9413.34
+4490,Joy White,001-922-507-2677x47001,joy.white@gmail.com,38,2025-05-14 19:52:42.959058,Laptop|Phone|Keyboard,1875.82,10439.49
+6974,Kevin Gibson,001-580-796-8363x130,kevin.gibson@gmail.com,35,2023-10-10 09:17:14.690631,Mouse|Laptop|Desk Lamp,815.99,4268.17
+3235,Karen Walsh,350.793.1755x451,karen.walsh@yahoo.com,31,2024-09-04 18:09:29.687909,Mouse|Phone|Monitor,1487.43,3691.43
+2610,Darrell Robbins,898.268.9960x09345,darrell.robbins@gmail.com,44,2022-05-07 14:25:39.864896,Desk Lamp|Laptop|Phone,952.87,3753.76
+4804,Lauren Reyes,+1-707-724-9969x160,lauren.reyes@yahoo.com,44,2025-04-05 02:29:03.434852,Mouse,1773.8,4725.78
+9406,Stephanie Hughes,+1-340-818-3519,stephanie.hughes@hotmail.com,18,2023-02-18 09:31:51.632621,Desk Lamp|Monitor|Laptop,145.3,1082.39
+7002,Erika Parker,259-861-8420x9096,erika.parker@gmail.com,19,2024-02-03 08:34:41.884595,Mouse|Desk Lamp|Monitor,573.18,1880.69
+3237,Olivia Smith,774-267-9716x848,olivia.smith@yahoo.com,33,2023-01-10 12:43:57.329149,Keyboard|Laptop|Mouse|Desk Lamp,862.55,4296.27
+8637,Norman Walker,6154800058,norman.walker@gmail.com,60,2022-02-22 04:13:22.099370,Keyboard,1566.22,15499.28
+6882,Kevin Anthony,(813)333-0371,kevin.anthony@yahoo.com,32,2022-10-01 08:06:38.066864,Desk Lamp|Keyboard|Monitor|Mouse,840.45,5441.7
+6780,Tiffany Paul,513.497.5390,tiffany.paul@gmail.com,53,2022-08-23 16:56:22.383011,Mouse|Keyboard|Desk Lamp|Phone,1872.83,8533.64
+7930,Erin Neal,(244)661-1800,erin.neal@hotmail.com,35,2025-05-13 22:20:31.068990,Laptop|Keyboard|Desk Lamp,1705.98,11168.31
+3174,Laura Arias,+1-598-404-3786x8295,laura.arias@yahoo.com,61,2024-10-05 22:29:03.995856,Phone|Mouse|Laptop|Desk Lamp,380.26,3107.04
+4430,Miranda Jones,(926)788-0684x6721,miranda.jones@yahoo.com,46,2025-06-20 03:51:38.944719,Desk Lamp|Monitor|Mouse|Laptop,532.32,2474.25
+5927,Justin Scott,001-809-971-3297,justin.scott@hotmail.com,54,2022-04-25 07:25:47.009318,Mouse|Laptop|Phone|Desk Lamp,370.73,1103.46
+4428,Manuel Wright,+1-252-805-5158x872,manuel.wright@gmail.com,44,2023-12-15 04:20:24.679163,Phone|Keyboard|Mouse,842.57,6433.14
+6476,John Dudley,8838362629,john.dudley@gmail.com,21,2023-07-11 06:47:30.955427,Keyboard|Laptop|Mouse|Monitor,163.51,1368.8
+7463,Jamie Smith,271-955-2769,jamie.smith@gmail.com,19,2024-09-18 15:48:42.452007,Phone|Monitor,1636.55,13154.74
+5319,Valerie Smith,(935)946-8325,valerie.smith@gmail.com,21,2023-01-24 01:51:34.059802,Laptop|Keyboard,441.63,2746.45
+2446,Samantha Harding,918-784-3301,samantha.harding@hotmail.com,41,2024-04-26 16:10:20.632094,Desk Lamp|Monitor|Mouse|Laptop,1034.87,4501.12
+5913,Mary Mcdowell,+1-200-243-5254x76481,mary.mcdowell@yahoo.com,46,2026-03-01 00:34:58.090433,Mouse|Keyboard|Laptop,797.46,4368.91
+9601,Kimberly Navarro,914-427-0446x812,kimberly.navarro@yahoo.com,43,2025-08-27 21:14:01.788418,Keyboard|Mouse,301.74,1627.56
+4375,Michelle Frazier,(451)688-0103x14470,michelle.frazier@hotmail.com,26,2023-04-10 19:14:38.072786,Monitor|Keyboard,706.97,6059.89
+8951,Jared Hughes,001-808-687-7632x154,jared.hughes@hotmail.com,52,2022-08-09 05:14:18.864117,Desk Lamp,556.05,3907.94
+1708,Roberto Harmon,001-775-208-8726,roberto.harmon@gmail.com,37,2026-03-03 03:29:27.603918,Laptop,1150.59,4175.18
+2383,Stephanie Everett,222-244-1558,stephanie.everett@hotmail.com,33,2025-11-22 16:35:40.469487,Desk Lamp|Monitor|Phone|Keyboard,1572.27,4189.78
+2281,Craig Cooke,(445)904-0659x20822,craig.cooke@gmail.com,29,2023-11-13 15:59:45.828722,Laptop|Mouse|Keyboard|Desk Lamp,668.07,5912.31
+1836,Christina Davis,(410)541-8614x71244,christina.davis@gmail.com,24,2021-05-17 19:17:54.607633,Monitor|Desk Lamp|Phone,847.46,1778.21
+1444,Brenda Watson,896.683.0839,brenda.watson@gmail.com,30,2021-06-17 18:27:54.895189,Phone|Monitor,1962.92,13229.54
+2982,James Jenkins,001-578-831-7540x50586,james.jenkins@yahoo.com,55,2022-12-24 19:21:43.541034,Keyboard|Laptop,1454.08,12347.87
+9287,Alexander Gonzalez,760.399.2507x8020,alexander.gonzalez@gmail.com,30,2025-03-26 17:15:33.027193,Laptop|Mouse|Phone,432.61,2692.64
+3943,Jackson Diaz,770.298.3003x47445,jackson.diaz@hotmail.com,45,2025-02-12 21:51:12.917479,Mouse|Laptop,1644.99,3220.74
+7453,Monica Adams,825-227-4547x708,monica.adams@yahoo.com,52,2025-10-03 20:09:06.096751,Mouse,149.55,1061.32
+8475,Sarah Henderson,703-610-0859x33991,sarah.henderson@hotmail.com,48,2023-08-26 17:44:18.474694,Mouse|Laptop|Monitor,912.98,8878.96
+5924,Jason Jones,001-389-760-2898,jason.jones@gmail.com,34,2025-07-08 20:15:47.824973,Mouse|Monitor,533.63,4291.31
+9293,Nicole Rivas,630.986.4319x65906,nicole.rivas@gmail.com,26,2023-08-07 23:49:04.219287,Mouse|Desk Lamp|Keyboard|Laptop,1727.27,17062.97
+6024,Stephanie Schultz,001-914-278-3226x8501,stephanie.schultz@gmail.com,36,2023-06-02 11:13:18.496019,Mouse|Phone|Keyboard|Monitor,1304.01,5025.51
+3753,Allen Simmons,001-466-224-9720x2376,allen.simmons@hotmail.com,32,2024-02-03 07:44:04.960201,Keyboard|Desk Lamp|Laptop,1923.95,4882.39
+6677,Brian Williams,001-431-817-9269x9367,brian.williams@hotmail.com,54,2021-08-14 03:19:06.021026,Mouse|Phone|Keyboard|Laptop,148.2,475.01
+9202,Thomas Nichols,+1-647-579-8892,thomas.nichols@gmail.com,42,2022-03-19 09:38:36.398911,Laptop,829.24,6553.65
+2366,Lori Garner,515-295-9253,lori.garner@hotmail.com,47,2023-12-29 18:16:53.268359,Phone|Monitor|Desk Lamp,387.41,3676.05
+2414,David Hamilton,636.741.5952x4871,david.hamilton@yahoo.com,23,2021-08-02 23:36:58.630542,Keyboard|Monitor|Laptop|Mouse,285.07,828.88
+8515,Brandon Baker,471.870.6036x98478,brandon.baker@yahoo.com,41,2025-11-02 19:35:24.681006,Mouse|Desk Lamp|Phone|Laptop,611.71,2139.68
+5420,Ronald Lloyd,972.430.2847x54272,ronald.lloyd@gmail.com,20,2024-09-11 11:51:05.003507,Laptop|Mouse|Monitor,1800.54,8241.85
+7794,Brandi Lewis,5044218163,brandi.lewis@hotmail.com,31,2022-02-16 00:50:21.787189,Desk Lamp|Monitor|Mouse,616.78,1427.52
+9288,Logan Miller,(844)474-4358x683,logan.miller@gmail.com,64,2025-02-08 14:55:26.412520,Keyboard|Monitor,1060.61,8373.67
+5154,Kevin Clark,+1-421-935-2646,kevin.clark@hotmail.com,39,2025-04-13 12:07:17.103720,Phone|Mouse,266.66,1029.8
+7743,Abigail Thomas,406.461.4692x14880,abigail.thomas@gmail.com,40,2024-08-29 03:40:15.666177,Phone|Keyboard,747.15,6905.43
+4343,Bianca Gomez,5027635067,bianca.gomez@gmail.com,28,2024-11-21 00:02:06.395564,Phone|Laptop,1621.94,9416.71
+8193,Robert Payne,001-979-581-8926x11888,robert.payne@hotmail.com,58,2024-02-23 02:31:18.801902,Monitor|Phone|Keyboard,732.98,3055.68
+8701,Mark Ramirez,001-941-411-9229x576,mark.ramirez@hotmail.com,37,2025-07-27 10:11:54.680207,Monitor|Phone|Laptop,1486.21,6104.16
+6412,Benjamin Cordova,001-529-676-6548x5672,benjamin.cordova@yahoo.com,55,2024-08-24 05:27:14.970657,Desk Lamp|Laptop,493.06,4471.23
+9078,David Johnson,9065530668,david.johnson@hotmail.com,64,2021-06-19 08:12:33.912322,Phone|Monitor,710.64,5788.05
+2584,Richard Marshall,3605138751,richard.marshall@yahoo.com,24,2025-11-06 16:14:44.871903,Monitor,1190.09,5822.7
+4671,Teresa Williams,281.406.8185x1198,teresa.williams@gmail.com,62,2022-01-14 09:43:11.611891,Mouse,771.23,3463.21
+2157,Kimberly Peterson,001-239-324-7296,kimberly.peterson@yahoo.com,53,2024-09-15 06:31:17.800796,Desk Lamp|Phone,838.8,4304.81
+9017,Adrian Kelley,+1-919-950-0989,adrian.kelley@gmail.com,44,2023-07-17 17:40:57.152068,Desk Lamp|Phone|Keyboard,716.92,1365.14
+7248,Tara Crawford,+1-856-294-5692,tara.crawford@gmail.com,42,2023-04-14 16:46:12.654447,Mouse,674.95,4518.4
+4301,Carol Arias,4927625667,carol.arias@yahoo.com,25,2023-01-08 17:46:01.397968,Phone|Laptop|Desk Lamp|Monitor,789.29,3236.33
+2707,Joseph Schmitt,8959242500,joseph.schmitt@gmail.com,19,2025-11-28 05:09:30.349359,Phone|Desk Lamp|Monitor|Laptop,813.49,2270.37
+7887,Paul Rasmussen,(289)904-1304x47582,paul.rasmussen@hotmail.com,18,2022-08-04 02:01:55.812037,Desk Lamp|Laptop|Mouse|Phone,1216.68,8173.53
+6227,Alicia Thomas,+1-651-253-1600x0777,alicia.thomas@yahoo.com,53,2024-02-18 22:56:34.492434,Mouse|Phone|Desk Lamp|Monitor,1998.88,17632.17
+2515,Ryan Edwards,(724)418-3815,ryan.edwards@hotmail.com,38,2023-10-21 01:50:18.344245,Keyboard|Mouse|Monitor,283.39,747.02
+3722,Savannah Frank,001-216-622-2487x343,savannah.frank@hotmail.com,47,2023-06-21 22:23:21.062535,Phone|Monitor,1323.13,9991.27
+8709,Adam Ruiz,3638363204,adam.ruiz@gmail.com,40,2021-09-30 12:23:47.901111,Mouse|Desk Lamp|Monitor|Laptop,200.2,1821.08
+1494,Brian Patel,607-409-4835,brian.patel@hotmail.com,56,2022-10-31 18:34:47.389627,Monitor|Desk Lamp,30.53,294.61
+4031,Chase Cain,335.611.4129,chase.cain@hotmail.com,48,2022-04-18 12:01:57.323461,Mouse|Phone,330.7,1429.55
+3919,Matthew Duncan,2634640317,matthew.duncan@yahoo.com,50,2021-07-27 00:34:33.932312,Laptop|Desk Lamp|Phone|Monitor,352.24,2993.95
+1975,Meagan Simmons,(625)287-0355,meagan.simmons@yahoo.com,25,2023-08-02 15:13:03.670950,Monitor|Laptop,309.2,2405.81
+8801,Kevin Gibson,+1-327-899-9830x5527,kevin.gibson@yahoo.com,21,2023-08-17 20:26:10.367295,Mouse|Keyboard,1638.1,2753.2
+8615,Amy Robertson,(225)709-2747,amy.robertson@gmail.com,36,2022-03-07 14:02:22.833518,Mouse|Phone|Monitor,1902.39,17426.97
+7933,Wyatt Burnett,(473)439-0825x54774,wyatt.burnett@yahoo.com,56,2024-08-08 15:15:42.964723,Keyboard|Desk Lamp|Mouse,1887.83,12931.72
+8656,Ronald Cannon,508.763.0638x8303,ronald.cannon@gmail.com,18,2022-07-08 10:48:30.131886,Mouse|Desk Lamp|Phone|Monitor,1127.44,2321.13
+2309,Joseph Garcia,954-392-7390x7840,joseph.garcia@yahoo.com,35,2025-11-19 13:16:12.597183,Desk Lamp|Mouse|Keyboard,985.56,2403.54
+9150,James Campos,+1-482-463-2279,james.campos@gmail.com,63,2024-12-27 19:17:15.985762,Desk Lamp|Phone|Mouse|Laptop,1916.93,10304.04
+7684,Stephanie Moore,557-673-4194,stephanie.moore@gmail.com,65,2023-10-27 00:20:30.082768,Laptop,793.32,4084.37
+6479,Rebecca Clark,586-638-6404x33375,rebecca.clark@hotmail.com,26,2025-03-09 19:33:14.789679,Desk Lamp|Laptop,1144.0,5543.85
+9343,Antonio Johnson,807-550-4701x723,antonio.johnson@gmail.com,59,2021-11-16 02:32:10.383425,Mouse|Keyboard|Laptop|Desk Lamp,1342.73,11782.37
+9748,Stephanie West,599-469-0493x84116,stephanie.west@yahoo.com,36,2025-02-20 04:44:56.965486,Mouse|Keyboard|Laptop|Phone,274.65,492.15
+8589,Jason Robinson,+1-615-836-1926x4418,jason.robinson@yahoo.com,30,2024-02-12 12:44:39.033146,Monitor|Laptop|Phone|Desk Lamp,1495.83,6286.73
+2023,April Hudson,001-291-698-7237,april.hudson@yahoo.com,48,2024-04-16 01:17:06.686021,Keyboard,1076.01,9285.09
+4110,Jennifer Porter,885.632.6707x8374,jennifer.porter@yahoo.com,21,2024-09-18 07:05:58.990290,Laptop|Desk Lamp,1709.84,14392.27
+4155,Thomas Villegas,001-821-478-9192x196,thomas.villegas@gmail.com,62,2025-10-08 04:22:34.778035,Laptop,1529.74,5868.17
+5485,James Chandler,001-519-989-3004x82323,james.chandler@yahoo.com,58,2022-02-24 09:31:04.203643,Monitor|Mouse|Keyboard|Laptop,751.11,1564.28
+4925,Karen Bennett,431.307.3100x105,karen.bennett@gmail.com,22,2022-08-03 10:22:35.959459,Monitor|Desk Lamp,206.84,1283.89
+5196,Lauren Hanna,959.727.8868x023,lauren.hanna@hotmail.com,62,2022-12-27 01:51:51.983680,Phone|Desk Lamp,1095.32,4348.17
+5904,Danielle Green,+1-464-759-8118x61359,danielle.green@hotmail.com,30,2024-10-05 04:59:52.605787,Monitor|Keyboard|Phone|Mouse,480.57,2427.73
+2917,Michael Steele,470-956-7795,michael.steele@yahoo.com,31,2022-12-20 16:20:20.703196,Desk Lamp|Laptop|Mouse,740.43,3227.69
+5034,Cory Mann,001-630-964-0199,cory.mann@yahoo.com,37,2022-09-22 20:11:11.133305,Laptop|Desk Lamp,1746.93,5414.63
+4606,Amanda Smith,287-998-3952x3694,amanda.smith@hotmail.com,51,2021-07-03 15:22:10.943367,Mouse|Phone|Desk Lamp|Keyboard,279.66,1643.81
+9087,Christian Perry,001-805-898-7396,christian.perry@yahoo.com,53,2024-09-14 22:03:30.275061,Mouse,1506.86,11489.08
+1415,Michelle Gonzales,669-226-7074x4748,michelle.gonzales@hotmail.com,20,2023-05-06 12:23:10.287282,Mouse|Desk Lamp,1936.19,4674.97
+6715,James Lopez,001-426-570-6167x905,james.lopez@gmail.com,46,2023-12-06 15:54:44.924055,Keyboard|Phone|Laptop,1656.47,6330.3
+6335,Brenda Carroll,505-578-9850x2998,brenda.carroll@yahoo.com,44,2025-06-21 15:57:18.312656,Phone|Keyboard|Desk Lamp,1507.15,14045.85
+4240,Wesley Leon,770-654-3693x9299,wesley.leon@gmail.com,36,2025-04-12 02:21:31.997740,Phone,1571.87,13643.17
+8633,Jason Valdez,001-779-853-0703x5279,jason.valdez@gmail.com,39,2023-02-07 07:47:12.145747,Desk Lamp|Mouse|Laptop|Monitor,25.0,76.34
+8640,Timothy Edwards,542-390-6140,timothy.edwards@yahoo.com,62,2025-09-09 05:31:00.983015,Mouse|Monitor|Keyboard,1670.35,7780.86
+1904,Margaret Duncan,(844)994-1645x6995,margaret.duncan@yahoo.com,22,2023-08-21 21:04:11.493512,Desk Lamp,524.91,3079.72
+7126,Amanda Saunders,001-495-645-6427x47315,amanda.saunders@gmail.com,37,2026-02-09 17:40:43.255893,Mouse,546.8,2456.85
+5295,Justin Smith,391.369.2050x3515,justin.smith@gmail.com,58,2022-08-30 07:11:28.718056,Laptop,1809.17,9294.45
+8433,Joann Cooke,+1-480-556-3025,joann.cooke@hotmail.com,56,2023-09-14 09:47:20.522656,Mouse|Monitor|Keyboard|Phone,1225.49,10220.28
+7320,Erin Vega,390.526.5672,erin.vega@yahoo.com,42,2023-03-07 12:45:10.441263,Keyboard|Mouse|Desk Lamp,1498.07,14129.02
+4797,James Green,001-840-967-9736x279,james.green@yahoo.com,21,2024-06-01 00:39:45.520757,Monitor,1421.02,2768.79
+2083,Kimberly Stark,631-461-0442x85323,kimberly.stark@gmail.com,63,2023-12-28 21:48:40.986033,Phone|Monitor|Mouse,1538.62,7758.79
+2925,Charles Robles,001-748-216-2755x1265,charles.robles@gmail.com,40,2025-05-31 15:02:07.248270,Mouse|Phone,1601.73,9420.75
+7898,Jonathan Coleman,509-842-8498,jonathan.coleman@gmail.com,50,2024-01-07 22:30:31.135489,Mouse|Keyboard|Phone|Desk Lamp,1649.89,12217.01
+3029,Alexa Clark,+1-562-241-1628x7569,alexa.clark@yahoo.com,21,2025-09-25 10:28:58.119120,Desk Lamp,1380.87,10848.95
+7314,Jane Ross,(289)250-9996,jane.ross@yahoo.com,57,2024-06-15 09:51:35.857985,Laptop|Mouse|Phone|Desk Lamp,1840.27,12842.38
+2087,Madeline Jackson,001-271-315-3323x405,madeline.jackson@gmail.com,47,2024-07-15 02:29:45.956637,Keyboard,1326.7,9731.74
+9616,Jessica Nunez,001-225-933-8126x99192,jessica.nunez@gmail.com,62,2021-07-21 04:40:50.056080,Desk Lamp|Laptop,1618.32,4916.84
+7094,John Butler,984-650-8183x581,john.butler@yahoo.com,61,2025-05-21 15:04:01.499590,Keyboard|Laptop|Phone,1521.53,11339.66
+8681,Elizabeth Cox,001-633-548-3004x7238,elizabeth.cox@gmail.com,24,2021-04-26 12:35:54.295684,Laptop,1454.19,7910.75
+3448,Tamara Ayala,+1-524-665-9366x254,tamara.ayala@yahoo.com,23,2023-05-28 14:50:07.083470,Phone|Laptop,254.05,2460.6
+8490,Sarah Juarez,872.627.3289,sarah.juarez@gmail.com,40,2025-07-09 03:06:01.035502,Laptop|Mouse|Desk Lamp|Phone,1016.59,1714.52
+5978,Adam Nguyen,(382)494-6357,adam.nguyen@hotmail.com,60,2025-09-27 09:12:54.608796,Laptop|Monitor|Mouse|Phone,920.69,2696.08
+3816,Jennifer Anderson,416-867-6844,jennifer.anderson@gmail.com,52,2022-09-15 06:36:58.968460,Monitor|Laptop|Mouse|Keyboard,1208.72,6005.22
+1780,Brittany Johnson,+1-276-418-8758x92145,brittany.johnson@gmail.com,43,2023-09-15 10:42:31.533653,Mouse|Monitor,1205.93,3354.02
+2170,Gary Perez,790-360-0471x576,gary.perez@gmail.com,29,2022-01-19 08:29:34.829550,Mouse|Desk Lamp,1097.64,6139.22
+3844,Bryan Flores,340.943.7177,bryan.flores@hotmail.com,28,2022-06-12 11:22:29.254427,Monitor|Mouse|Laptop,1930.01,18445.57
+2010,Michelle Martinez,255.887.3501x67396,michelle.martinez@hotmail.com,23,2023-01-16 21:13:56.805440,Phone|Keyboard|Mouse|Desk Lamp,1690.87,14310.87
+7788,Samuel Walker,264-561-4134,samuel.walker@hotmail.com,25,2021-08-03 12:35:25.729751,Keyboard,1480.74,10736.99
+9858,Matthew Anderson,412.354.2396x0244,matthew.anderson@hotmail.com,26,2023-06-21 00:15:44.068147,Desk Lamp|Phone|Laptop,1376.46,2626.83
+1682,Emily Barrera,(261)851-3987x2162,emily.barrera@yahoo.com,22,2024-01-16 13:23:47.616405,Desk Lamp|Monitor|Mouse,643.04,2164.87
+6812,Barry Kerr,774-541-7741x278,barry.kerr@gmail.com,37,2022-01-26 21:49:58.306081,Monitor|Laptop,743.53,6436.88
+6652,Eric Taylor,(523)356-4139,eric.taylor@yahoo.com,37,2025-03-16 11:10:26.095285,Keyboard|Phone|Desk Lamp|Laptop,1730.93,10412.28
+1813,Monica Boyd,373.884.0136,monica.boyd@yahoo.com,44,2025-02-09 23:58:57.676848,Laptop|Monitor|Mouse|Keyboard,60.13,475.4
+9479,Jade Shaw,001-302-401-2448x9918,jade.shaw@hotmail.com,21,2022-11-04 10:09:14.301931,Keyboard|Mouse|Laptop,1624.92,14621.22
+2683,Sue Nelson,771.775.7427x824,sue.nelson@gmail.com,29,2023-10-29 17:28:18.290596,Monitor|Desk Lamp|Laptop,105.01,872.65
+4500,Jack Brown,699.984.1512x3079,jack.brown@gmail.com,65,2025-05-22 15:00:43.882853,Mouse|Laptop|Phone|Monitor,553.66,3488.97
+4594,Eric King,+1-492-543-4894x0679,eric.king@yahoo.com,20,2024-10-28 12:21:46.796183,Keyboard,397.93,3955.44
+2342,David Harvey,7156341424,david.harvey@gmail.com,43,2025-11-29 05:22:26.533552,Desk Lamp|Phone|Keyboard,1300.06,8694.56
+7408,Thomas Clark,(848)892-0177x68624,thomas.clark@yahoo.com,41,2021-12-25 10:02:18.151100,Desk Lamp|Mouse|Monitor|Phone,833.31,7061.34
+2726,James Frank,001-261-255-3454x95464,james.frank@yahoo.com,58,2024-08-11 23:55:49.020560,Phone|Laptop,646.43,4258.5
+1211,Dylan Kelly,597-892-1351,dylan.kelly@yahoo.com,30,2021-10-14 16:51:40.584725,Desk Lamp|Laptop,1115.55,3218.86
+8764,Ryan Roberts,(705)617-8999x468,ryan.roberts@gmail.com,32,2022-06-29 08:38:54.985200,Mouse|Monitor|Phone,54.74,226.07
+7481,Jonathan Rice,281.986.0566x978,jonathan.rice@yahoo.com,55,2025-11-28 21:37:28.396372,Desk Lamp|Laptop|Mouse|Phone,1932.41,3137.27
+8398,Heather Lopez,(776)992-9424x115,heather.lopez@gmail.com,63,2024-05-03 01:38:36.793747,Laptop|Keyboard|Mouse,767.83,7677.68
+4388,Laura Velazquez,+1-500-653-9242x0414,laura.velazquez@hotmail.com,44,2021-08-30 16:28:50.579758,Monitor|Laptop|Mouse,521.01,873.69
+1489,Jill Coleman,500-808-2985x1337,jill.coleman@hotmail.com,19,2025-01-21 06:30:22.639310,Keyboard,1981.46,9402.61
+4401,Douglas Romero,754-749-7805x3945,douglas.romero@yahoo.com,30,2023-02-19 20:56:58.362519,Mouse|Phone,243.18,2160.14
+8931,Christina Ruiz,001-955-225-7564x36173,christina.ruiz@hotmail.com,65,2023-11-27 21:27:48.343889,Mouse|Monitor|Desk Lamp,1814.54,11448.71
+2785,Cheryl Salinas,907.815.3466x6165,cheryl.salinas@hotmail.com,22,2025-09-03 14:45:53.190876,Monitor|Phone,941.6,5075.25
+5316,Emily Crawford,813.307.6703x33297,emily.crawford@gmail.com,39,2022-11-06 13:37:27.539675,Mouse|Laptop|Phone,1274.52,4992.8
+1141,Joel Davis,9407653986,joel.davis@hotmail.com,31,2025-05-04 15:16:59.784400,Monitor,1818.47,8841.45
+6578,Victor Cantu,001-518-271-2900x044,victor.cantu@hotmail.com,24,2024-05-03 13:06:53.518352,Laptop|Mouse|Keyboard|Desk Lamp,75.51,677.83
+8033,Manuel Fields,420-477-3124x03748,manuel.fields@hotmail.com,63,2023-06-26 17:22:24.816252,Monitor,233.88,2318.86
+2138,James Nixon,001-699-840-8095x2372,james.nixon@gmail.com,38,2025-11-18 08:49:25.565748,Laptop,1383.36,5590.34
+6484,Kathleen Perez,3002654920,kathleen.perez@yahoo.com,49,2023-01-22 08:36:12.535290,Keyboard|Phone|Desk Lamp,1091.14,9905.67
+2824,Brian Herrera,(998)392-2338,brian.herrera@gmail.com,54,2025-04-07 19:52:44.986295,Monitor|Mouse|Keyboard|Phone,939.5,2067.46
+7149,Mark Johnson,927-860-1622x61877,mark.johnson@gmail.com,62,2024-11-09 00:41:21.150159,Keyboard,913.2,3934.16
+3084,Heather Cortez,815.761.6926x11057,heather.cortez@hotmail.com,44,2024-12-16 04:21:22.027399,Phone|Mouse|Keyboard,864.39,2702.79
+4405,Ashley Hawkins,+1-624-576-6012,ashley.hawkins@hotmail.com,42,2021-11-11 18:25:29.481218,Desk Lamp,259.78,607.95
+6460,Randall Blake,577-682-0291,randall.blake@gmail.com,20,2025-12-07 00:36:26.150851,Desk Lamp|Monitor|Mouse|Laptop,38.65,237.56
+1678,Thomas Richardson,001-645-858-9247x8584,thomas.richardson@hotmail.com,49,2024-04-18 02:17:10.626155,Desk Lamp,609.88,1357.04
+3698,Kyle Beck,4499993761,kyle.beck@yahoo.com,21,2022-09-17 08:14:03.814414,Keyboard|Mouse|Laptop,215.15,1610.03
+1137,Gregory Mcguire,3914710115,gregory.mcguire@hotmail.com,36,2022-04-26 01:41:35.672049,Keyboard|Phone|Desk Lamp,1904.74,3960.64
+4567,Sharon Aguirre,8392964310,sharon.aguirre@yahoo.com,45,2022-03-27 05:25:08.255515,Desk Lamp|Laptop|Keyboard,1742.94,10746.2
+6122,Michael Stout,883-717-1828x38544,michael.stout@yahoo.com,30,2023-12-06 05:48:09.769978,Monitor|Desk Lamp|Keyboard,1912.55,3871.71
+7834,Lauren Beltran,(794)634-5626x446,lauren.beltran@yahoo.com,43,2022-03-12 05:48:47.520370,Desk Lamp|Phone|Keyboard|Mouse,481.21,4523.71
+4651,Timothy Sullivan,8439019932,timothy.sullivan@gmail.com,44,2022-12-27 18:42:23.045311,Laptop,536.63,3448.84
+7577,Christopher Taylor,(599)760-7512x15072,christopher.taylor@yahoo.com,44,2026-02-03 15:12:54.360021,Mouse|Desk Lamp|Phone,418.01,3722.9
+5909,Amber Irwin,618.309.9006,amber.irwin@hotmail.com,37,2025-02-06 17:34:21.278129,Desk Lamp,954.97,2508.97
+4171,Melissa Harris,818-887-9674x58407,melissa.harris@hotmail.com,29,2026-02-20 16:45:11.576697,Desk Lamp|Monitor|Keyboard,544.83,4760.45
+2127,Michael Howard,458.892.1084x6948,michael.howard@yahoo.com,28,2026-02-05 12:22:14.333632,Desk Lamp|Phone,927.54,1682.41
+5685,Zachary Moore,439-334-9107x10093,zachary.moore@gmail.com,22,2022-07-17 10:44:29.893759,Monitor|Mouse|Laptop|Keyboard,1438.43,3407.84
+4665,Tracey Harrington,+1-389-500-9672x144,tracey.harrington@yahoo.com,50,2022-10-18 07:36:06.084230,Laptop|Mouse|Desk Lamp|Keyboard,548.95,4136.19
+1739,Samantha Allen,598-356-4594,samantha.allen@yahoo.com,29,2025-04-18 18:40:22.336108,Keyboard|Phone|Monitor,1761.35,15668.45
+3671,Kelly Rivera,(590)340-9537,kelly.rivera@gmail.com,53,2025-10-18 02:35:22.351179,Laptop|Desk Lamp,424.61,1574.62
+1425,Joshua Woods,001-436-287-0926x135,joshua.woods@yahoo.com,48,2023-10-17 15:51:46.734368,Laptop|Mouse,1480.88,9312.64
+4166,John Miranda,877.643.0020x91041,john.miranda@hotmail.com,37,2022-08-07 15:38:47.478722,Phone|Monitor,98.42,423.93
+7677,Larry Cross,(540)731-7742,larry.cross@yahoo.com,60,2022-11-05 18:12:43.226653,Mouse|Desk Lamp,73.41,371.79
+5027,Nathan Harris,(629)709-0436x49117,nathan.harris@gmail.com,23,2021-10-19 16:33:57.699467,Phone,1459.4,4968.55
+8546,Nicole Hernandez,6582446127,nicole.hernandez@yahoo.com,34,2023-10-16 01:29:12.739329,Keyboard|Monitor,612.01,4694.25
+3453,Jeremy Hunter,001-661-772-2087,jeremy.hunter@gmail.com,53,2023-02-27 20:56:27.418547,Monitor|Mouse|Keyboard|Phone,131.58,888.3
+1187,Christina Fox,001-715-398-9658,christina.fox@yahoo.com,35,2024-09-12 01:55:23.304089,Desk Lamp|Keyboard,1425.79,3086.33
+4976,Katherine Howard,910.961.0487x6182,katherine.howard@gmail.com,48,2025-06-15 19:29:01.454353,Desk Lamp|Keyboard|Mouse|Phone,1262.86,11796.22
+6562,Robert Rich,600.885.4004,robert.rich@yahoo.com,54,2023-10-07 00:38:59.669666,Desk Lamp|Mouse|Laptop,516.28,2773.12
+9604,Marvin Jensen,+1-834-613-1993x4657,marvin.jensen@hotmail.com,63,2025-01-07 17:45:21.197349,Laptop|Mouse,70.68,140.55
+7020,Jeffrey Adams,543-578-9517,jeffrey.adams@gmail.com,49,2023-08-27 08:20:30.611729,Desk Lamp|Phone|Mouse|Monitor,1405.99,12148.7
+9668,Robert Morris,745.778.1030x1541,robert.morris@gmail.com,20,2022-04-18 18:41:10.117636,Keyboard|Desk Lamp|Laptop|Mouse,1256.12,2178.55
+8366,Miranda Reed,355.491.1233,miranda.reed@hotmail.com,49,2024-06-10 09:19:43.645386,Laptop|Keyboard|Desk Lamp|Phone,1770.68,10839.25
+9595,Ashley Dillon,862.281.5083,ashley.dillon@hotmail.com,50,2021-04-19 10:47:26.702767,Mouse,1316.15,6409.14
+3020,Jessica Hernandez,3749358917,jessica.hernandez@hotmail.com,61,2024-04-19 19:53:04.688702,Phone|Desk Lamp|Monitor|Mouse,56.07,225.82
+4113,Michael Blackburn,(656)541-6456,michael.blackburn@gmail.com,53,2024-07-26 06:25:51.639195,Mouse|Laptop|Monitor,32.09,69.7
+7120,Michael Davis,+1-484-823-6059x408,michael.davis@hotmail.com,24,2022-07-22 17:03:19.962566,Laptop|Desk Lamp|Phone,701.58,6054.95
+6745,Peter Clark,498-484-6996x82258,peter.clark@gmail.com,58,2022-11-13 04:07:04.492647,Monitor|Mouse|Desk Lamp,1228.48,5640.69
+9544,Scott Smith,(971)558-8908x97022,scott.smith@yahoo.com,64,2023-12-31 20:33:23.517415,Desk Lamp|Monitor|Laptop|Keyboard,921.46,4814.21
+1476,Crystal Bailey,+1-449-879-8164x9329,crystal.bailey@yahoo.com,53,2025-11-27 19:24:47.696298,Monitor|Laptop|Mouse|Desk Lamp,1191.78,9661.46
+6150,Brian Davis,894-551-5590x73545,brian.davis@gmail.com,26,2023-09-20 08:14:26.439799,Mouse|Laptop,1575.84,3462.69
+2158,Barbara Harris,604.300.3874x372,barbara.harris@hotmail.com,50,2024-08-14 05:55:03.642989,Laptop,954.1,5268.38
+3289,Christopher Harris,7737720369,christopher.harris@hotmail.com,25,2021-12-10 09:57:35.551007,Monitor|Phone,1016.42,7256.56
+4680,Joshua Fernandez,+1-639-976-0856,joshua.fernandez@yahoo.com,22,2023-08-30 07:07:50.971854,Laptop|Mouse|Monitor|Keyboard,1040.03,3312.38
+1814,Brianna Smith,+1-981-289-0002x950,brianna.smith@gmail.com,48,2023-11-01 17:37:38.664090,Mouse|Laptop,1375.52,3959.73
+4849,Brooke Oneal,+1-272-385-5789x8055,brooke.oneal@hotmail.com,54,2026-03-25 23:33:30.857210,Desk Lamp,490.43,2835.52
+3231,Leslie Davis,448-485-5968,leslie.davis@gmail.com,18,2021-11-14 18:41:33.564068,Monitor|Mouse|Keyboard|Laptop,609.25,5143.59
+8973,Kathryn Adams,605-338-7018x14040,kathryn.adams@hotmail.com,37,2025-05-07 04:55:22.212235,Phone|Mouse|Keyboard,1572.24,12877.67
+2214,Diane Coleman,(607)687-0909x50015,diane.coleman@hotmail.com,23,2024-12-13 20:57:29.841416,Mouse|Phone|Keyboard,362.66,3546.43
+7394,Richard Park,(782)667-8080x003,richard.park@yahoo.com,59,2022-08-28 04:42:48.846145,Desk Lamp|Phone,746.64,1882.17
+8484,Thomas Jones,687.322.6858x52744,thomas.jones@gmail.com,36,2025-12-23 10:55:19.429244,Mouse|Keyboard,872.63,7014.28
+3533,Matthew Quinn,+1-360-713-2249x57277,matthew.quinn@yahoo.com,47,2021-07-11 01:27:17.018820,Keyboard,1238.6,8200.84
+1325,Anthony Williams,679-744-7478x53803,anthony.williams@yahoo.com,42,2024-07-24 02:31:38.681213,Mouse,1752.98,9442.97
+7213,Margaret White,845.908.5055,margaret.white@gmail.com,41,2023-08-29 03:42:48.010152,Mouse|Laptop|Desk Lamp,1975.62,11863.84
+6264,Michael Ochoa,2626532215,michael.ochoa@yahoo.com,29,2021-11-11 01:41:51.226385,Phone|Laptop|Mouse,38.62,145.07
+2159,Kathleen Jordan,+1-256-503-3380x65478,kathleen.jordan@hotmail.com,25,2021-05-14 17:46:05.199466,Desk Lamp|Phone,1032.15,7898.17
+3607,Emily Anderson,364.382.5128,emily.anderson@gmail.com,21,2024-02-05 16:53:24.070431,Desk Lamp|Laptop|Keyboard|Phone,119.04,235.76
+3575,Jesse Hill,247.363.0059x42303,jesse.hill@gmail.com,38,2025-03-27 06:50:20.473974,Mouse,671.29,5200.15
+7512,James Olson,001-353-217-6046x46839,james.olson@hotmail.com,53,2023-01-29 20:15:19.934170,Keyboard|Laptop|Mouse|Desk Lamp,1512.22,11187.12
+6646,Rachel Dawson,+1-392-520-6419x779,rachel.dawson@gmail.com,58,2021-09-16 22:19:30.626134,Phone|Laptop|Desk Lamp,1828.6,16756.77
+1768,Thomas Cherry,(563)680-0168x2444,thomas.cherry@hotmail.com,38,2026-01-20 22:34:32.628276,Keyboard|Laptop|Monitor,1161.19,4914.82
+1849,Craig Walker,350-934-6543x801,craig.walker@yahoo.com,64,2023-04-28 15:17:41.736256,Laptop|Monitor|Phone|Keyboard,1539.9,11386.2
+7812,Brittany Bailey,(397)576-8914x8462,brittany.bailey@hotmail.com,44,2023-05-01 01:38:47.871276,Laptop|Phone|Keyboard|Monitor,998.73,7437.97
+6602,Stephen Fitzgerald,442-489-6926x678,stephen.fitzgerald@gmail.com,40,2025-06-09 22:05:20.076339,Desk Lamp|Phone,1397.63,8252.81
+8718,Juan Holmes,230-284-3212,juan.holmes@hotmail.com,43,2024-04-15 10:43:04.033090,Mouse,269.94,947.81
+4985,Raymond Williams,540-981-0942,raymond.williams@gmail.com,62,2022-01-24 00:31:00.225832,Monitor,1297.67,11279.17
+5360,Jerry Christensen,(992)370-4895x9355,jerry.christensen@gmail.com,57,2023-07-23 13:53:37.166718,Monitor|Keyboard|Phone|Laptop,1267.58,5991.71
+3186,Jamie Stewart,263.627.9039,jamie.stewart@gmail.com,57,2023-09-08 21:14:37.518853,Mouse|Monitor,754.82,4348.05
+2014,Rose Ramos,(225)881-8838x6913,rose.ramos@hotmail.com,59,2024-07-10 07:58:14.933453,Monitor,984.31,7644.55
+2205,April Williams,+1-960-972-9921,april.williams@hotmail.com,35,2022-08-31 15:15:18.686375,Mouse|Laptop,794.59,3237.45
+4019,Elizabeth Bell,948-547-5528x08165,elizabeth.bell@yahoo.com,24,2024-11-02 06:16:43.111434,Laptop,1605.35,8155.18
+9756,Laura Clark,294.504.7213x732,laura.clark@yahoo.com,57,2022-10-24 23:50:20.664388,Keyboard|Phone|Laptop,1595.0,8786.33
+6242,Lindsey Owens,389-371-5563,lindsey.owens@hotmail.com,29,2023-04-06 08:44:13.107561,Mouse|Keyboard|Phone,1583.76,14204.9
+9720,Julian Shannon,001-512-397-9661x2801,julian.shannon@hotmail.com,40,2021-05-03 16:13:00.084199,Keyboard|Mouse|Phone,609.11,5276.31
+2608,Damon Mcdonald,665-913-0443x397,damon.mcdonald@gmail.com,25,2023-08-27 19:08:42.993580,Mouse,1479.43,13401.58
+1626,Elizabeth Jones,+1-425-734-5882x7492,elizabeth.jones@hotmail.com,22,2023-01-11 22:33:55.997769,Laptop|Desk Lamp|Phone,49.39,266.83
+6762,Kenneth Lowery,5395534301,kenneth.lowery@gmail.com,62,2023-05-28 03:06:29.047153,Keyboard,101.26,948.04
+1372,Devon Vega,525.853.8717x28810,devon.vega@yahoo.com,31,2023-11-12 18:35:22.032045,Desk Lamp|Laptop,950.99,5892.24
+1943,Allen Jimenez,613-970-4364x758,allen.jimenez@yahoo.com,57,2021-07-19 10:39:59.268838,Desk Lamp,1044.37,10285.52
+1506,James Jones,9474077761,james.jones@gmail.com,22,2023-06-17 03:12:15.359757,Desk Lamp|Keyboard|Phone,352.92,2183.1
+4745,Hannah Sullivan,719-209-8121x8090,hannah.sullivan@hotmail.com,51,2023-02-09 18:53:23.492324,Keyboard,1551.84,6117.14
+1334,Jordan Lee,736.587.8884x078,jordan.lee@gmail.com,64,2022-05-06 18:12:20.694043,Mouse|Phone,709.25,2925.38
+3562,Janet Rodriguez,768.836.4202x6953,janet.rodriguez@hotmail.com,43,2026-03-23 05:09:13.315152,Monitor,1358.04,10071.01
+8644,Andrew Mckinney,+1-881-504-0907x13830,andrew.mckinney@hotmail.com,24,2024-12-30 20:38:32.110749,Laptop|Phone|Desk Lamp,276.47,1301.71
+1392,Charles Simmons,001-706-241-9344,charles.simmons@hotmail.com,29,2024-08-22 20:56:18.142611,Laptop|Desk Lamp|Mouse,767.39,7509.89
+1528,Amber Long,495-991-6172x79098,amber.long@hotmail.com,56,2022-09-12 00:58:59.824092,Keyboard|Laptop|Monitor,571.48,1608.81
+2793,Sean Robinson,+1-487-427-0440x5775,sean.robinson@hotmail.com,45,2023-05-31 04:43:30.422790,Desk Lamp|Monitor|Laptop,607.83,5358.63
+5660,David Anderson,+1-560-605-2982x81856,david.anderson@hotmail.com,36,2024-10-13 16:28:31.512728,Keyboard|Laptop|Monitor|Desk Lamp,1334.02,11731.01
+6000,Timothy Gutierrez,001-631-771-3530x10076,timothy.gutierrez@yahoo.com,40,2024-08-30 02:11:51.605028,Mouse|Desk Lamp|Keyboard,1572.81,12489.74
+5870,Patrick White,776.622.9453x051,patrick.white@yahoo.com,19,2024-05-14 11:00:57.696254,Keyboard|Laptop|Mouse,676.58,4613.97
+8019,Craig Schneider,(769)509-9396x1560,craig.schneider@hotmail.com,47,2025-07-11 23:58:11.061163,Laptop|Desk Lamp|Phone|Monitor,1660.14,13011.12
+7128,Morgan Cervantes,001-808-622-1513x46287,morgan.cervantes@gmail.com,24,2025-05-05 09:18:21.136476,Laptop|Mouse|Desk Lamp|Monitor,1501.34,14495.45
+7978,Michael Chung,001-942-930-7346x33150,michael.chung@hotmail.com,24,2025-10-01 00:45:41.870599,Phone|Monitor,199.26,984.37
+6935,Jenna Taylor,(425)847-2003x8116,jenna.taylor@gmail.com,46,2024-02-06 05:38:05.538847,Mouse|Laptop|Phone,316.93,2607.82
+7159,Raymond Barnes,886-554-8662,raymond.barnes@yahoo.com,40,2024-05-01 19:50:42.880032,Laptop,88.11,518.23
+5345,Jamie Sherman,(685)851-0573x8415,jamie.sherman@gmail.com,27,2025-02-04 07:38:02.998484,Monitor|Laptop,1772.68,16512.11
+6893,Sean Gallegos,808.898.5667x0561,sean.gallegos@hotmail.com,34,2022-10-15 15:33:57.640463,Mouse,1240.63,12175.63
+1699,Gabrielle Moore,(558)562-9211x135,gabrielle.moore@yahoo.com,22,2022-02-03 14:39:08.326113,Monitor|Mouse,972.01,6818.1
+6247,Ashley Sullivan,660.465.9041x311,ashley.sullivan@hotmail.com,54,2021-04-23 02:18:15.848040,Desk Lamp,196.27,1001.81
+6571,Amy Harding,+1-276-347-6547,amy.harding@yahoo.com,50,2021-08-01 23:32:08.589535,Phone,382.79,3089.5
+8952,Laurie Jackson,651-805-6502,laurie.jackson@hotmail.com,47,2023-07-17 05:12:44.620196,Mouse|Laptop|Monitor,1898.18,11590.65
+2019,William Foster,+1-303-621-2448x40439,william.foster@hotmail.com,37,2024-04-20 20:03:22.552371,Keyboard|Laptop|Desk Lamp,325.62,2026.92
+5578,Andrew Peterson,+1-999-866-1966x273,andrew.peterson@yahoo.com,40,2023-05-09 06:57:53.518339,Keyboard|Desk Lamp|Mouse|Monitor,829.75,5740.6
+6833,Bethany Burns,393-244-3941,bethany.burns@hotmail.com,31,2024-10-26 08:16:26.876075,Laptop|Mouse,662.77,5993.02
+9722,Eric Figueroa,420.780.0523,eric.figueroa@yahoo.com,32,2022-09-09 11:37:58.869430,Monitor|Mouse,1406.33,7272.15
+5267,Alexandra Reed,001-824-399-8229x2512,alexandra.reed@gmail.com,34,2025-02-24 00:04:35.452694,Desk Lamp|Laptop,1340.32,8793.33
+9256,Steven Livingston,431.312.4030,steven.livingston@gmail.com,51,2023-11-21 10:26:31.064001,Laptop|Phone|Desk Lamp|Mouse,1012.92,4510.02
+3645,Anthony Jones,(557)913-7416,anthony.jones@hotmail.com,44,2025-11-16 09:06:13.605237,Mouse|Desk Lamp,1234.73,8388.61
+3944,Joshua Crawford,001-538-994-6683x264,joshua.crawford@hotmail.com,51,2024-09-15 11:55:36.624135,Monitor|Desk Lamp,1499.94,3491.52
+4643,Rebecca Leonard,+1-236-528-6732x22612,rebecca.leonard@hotmail.com,47,2025-10-24 00:04:11.453614,Phone,525.02,2127.36
+3484,Dawn Chen,645.374.2057,dawn.chen@hotmail.com,29,2024-09-06 00:18:45.830063,Mouse|Desk Lamp,53.3,93.39
+4944,Emily Gonzalez,(989)373-6805x9685,emily.gonzalez@hotmail.com,29,2025-11-02 04:44:14.482810,Monitor|Keyboard|Mouse,568.43,1417.28
+6260,Richard Thomas,359-561-8008x25046,richard.thomas@gmail.com,52,2024-11-09 07:29:17.778376,Keyboard|Phone,1461.95,13900.77
+9418,Michael Wong,651-796-8991x494,michael.wong@gmail.com,54,2025-01-05 09:15:05.934445,Laptop,166.52,1007.17
+4935,Melissa May,596-966-9022x7238,melissa.may@gmail.com,37,2022-08-05 03:34:11.964064,Mouse,1719.52,4640.37
+5160,Suzanne Jones,977.801.1010,suzanne.jones@gmail.com,28,2023-03-10 22:40:48.658648,Mouse|Keyboard|Monitor|Phone,1559.32,12301.1
+7330,Loretta Evans,+1-896-782-4297x7945,loretta.evans@hotmail.com,63,2026-02-01 06:00:42.199801,Phone|Monitor|Desk Lamp|Mouse,783.45,4977.53
+7934,William Sellers,614.880.3402,william.sellers@hotmail.com,45,2026-01-31 04:04:36.251158,Laptop|Monitor,1294.18,11039.94
+3669,James Le,(725)864-9279x2332,james.le@gmail.com,62,2024-01-30 01:54:19.333546,Phone|Mouse,860.27,4302.81
+6276,Eric Reyes,+1-386-621-0237,eric.reyes@hotmail.com,53,2022-11-05 19:58:00.369288,Phone|Monitor|Laptop,383.43,1490.23
+7790,Mark Terrell,001-704-222-7713x2349,mark.terrell@hotmail.com,44,2024-08-01 17:01:16.838487,Monitor|Mouse|Desk Lamp,1326.7,5299.71
+7054,Rachel Moore,397-407-3221x9048,rachel.moore@yahoo.com,23,2021-08-16 13:58:15.593811,Desk Lamp|Phone|Monitor|Laptop,1558.04,8193.81
+9642,Yvonne Roberts,779.328.1374,yvonne.roberts@hotmail.com,58,2023-05-21 04:59:15.840641,Monitor,1008.06,6204.27
+1465,John Stanley,321-759-8671x1571,john.stanley@hotmail.com,18,2025-12-03 22:56:31.507934,Laptop,1723.6,12110.69
+9036,Heather Rodgers,395-805-9412x6101,heather.rodgers@gmail.com,63,2025-01-04 03:24:47.056466,Monitor|Mouse|Phone|Laptop,1788.31,16691.2
+4214,Garrett King,6382226812,garrett.king@gmail.com,20,2023-10-18 20:20:24.417904,Monitor|Phone|Desk Lamp,156.51,413.44
+9137,Ryan Cruz,001-833-499-6180x095,ryan.cruz@gmail.com,49,2024-09-27 17:19:39.606612,Phone,971.86,9238.8
+7058,Victoria Best,705-645-7771x30362,victoria.best@yahoo.com,36,2022-06-08 05:14:56.175588,Keyboard|Phone|Monitor,1111.18,3256.55
+9297,Ann Leonard,+1-282-742-0078x045,ann.leonard@yahoo.com,27,2023-07-07 06:56:30.833233,Keyboard|Laptop|Desk Lamp,1610.44,4502.25
+6938,Kenneth Roberts,(558)797-1870,kenneth.roberts@hotmail.com,57,2022-01-05 13:01:34.017477,Laptop|Monitor,1141.26,9640.55
+2359,Lucas Brady,(844)980-0675x212,lucas.brady@yahoo.com,24,2022-09-16 13:22:26.426095,Mouse,1424.57,7889.18
+7209,Dawn Villa,253-953-9548,dawn.villa@hotmail.com,30,2022-09-14 13:13:07.950760,Desk Lamp,670.42,3912.86
+4869,Rachel Richardson,001-884-954-8829x5334,rachel.richardson@yahoo.com,27,2021-10-11 06:55:55.958570,Keyboard,1648.6,8556.41
+2471,Tammy Ruiz,+1-479-344-9890x541,tammy.ruiz@yahoo.com,55,2024-03-24 14:28:25.517464,Laptop,932.1,6920.56
+2396,Julia Stewart,+1-688-304-4651x9568,julia.stewart@hotmail.com,59,2023-10-01 22:09:02.346582,Laptop|Desk Lamp|Monitor,1877.13,16701.41
+2491,Travis House,001-398-920-1749x85192,travis.house@gmail.com,35,2024-12-30 08:30:44.574363,Laptop|Desk Lamp|Monitor,370.01,1124.6
+2871,Charles Jenkins,+1-362-940-4936x85648,charles.jenkins@gmail.com,30,2022-09-10 10:33:54.355272,Mouse|Desk Lamp,1000.03,3709.33
+8260,Todd Johnson,789.223.0506x6675,todd.johnson@yahoo.com,43,2024-02-23 12:55:32.561304,Keyboard,299.18,497.5
+5203,David Powell,001-338-628-8376x4430,david.powell@hotmail.com,18,2023-06-20 22:06:34.078495,Mouse|Laptop,512.62,1918.34
+6286,Jessica Hernandez,001-538-726-0308,jessica.hernandez@hotmail.com,57,2023-03-31 04:32:42.881598,Monitor|Mouse,399.95,2475.09
+3941,Claudia Malone,(225)212-3401,claudia.malone@hotmail.com,65,2024-02-07 16:02:35.512400,Phone|Mouse|Keyboard,1970.55,19052.44
+4382,Caleb Baker,001-552-580-1039x73727,caleb.baker@gmail.com,47,2021-04-21 11:12:50.316362,Monitor|Laptop|Phone,1050.02,2728.87
+1146,Jodi Lopez,716-929-7673,jodi.lopez@yahoo.com,51,2023-11-15 07:02:12.513921,Keyboard|Phone|Monitor|Laptop,1294.56,12308.93
+2812,Gabriel Flowers,365.244.2394x440,gabriel.flowers@yahoo.com,62,2023-03-15 13:55:31.287677,Phone|Monitor|Laptop,1184.36,8847.71
+3539,Jill Freeman,001-523-515-3710,jill.freeman@yahoo.com,64,2023-08-09 07:46:39.454103,Monitor|Desk Lamp,88.36,826.88
+2253,Rachel Craig,(938)605-9222,rachel.craig@gmail.com,26,2024-09-20 18:54:39.839911,Phone|Desk Lamp|Keyboard|Mouse,1097.92,6034.27
+6769,Timothy Dunn,(352)679-1388,timothy.dunn@gmail.com,60,2024-04-04 13:19:16.030464,Desk Lamp|Laptop,1679.98,3310.22
+1588,Henry Jones,001-308-495-3104x39155,henry.jones@hotmail.com,35,2022-02-24 00:53:55.125678,Monitor|Keyboard|Laptop,1932.16,10664.38
+7843,Thomas Rosales,(467)908-4056x33454,thomas.rosales@hotmail.com,51,2022-06-26 17:52:29.418451,Laptop|Phone,1221.85,6811.59
+8927,Jared Harris,651.213.2903x15730,jared.harris@yahoo.com,61,2022-12-23 19:42:22.952488,Mouse|Monitor|Phone,316.91,2614.71
+7984,Kevin Davis,(475)516-7537x128,kevin.davis@yahoo.com,63,2024-06-04 15:41:49.291028,Desk Lamp|Laptop|Keyboard|Monitor,1544.29,11982.67
+1340,Steven Cortez,(863)430-1134,steven.cortez@yahoo.com,22,2023-10-10 14:58:46.812050,Monitor|Mouse|Desk Lamp|Phone,789.22,4893.78
+2482,Donald Carter,001-740-615-7044x9792,donald.carter@yahoo.com,63,2021-12-21 17:28:24.305215,Phone|Laptop|Mouse|Desk Lamp,162.66,246.29
+2753,Dean Turner,001-254-525-5858,dean.turner@hotmail.com,39,2024-10-30 10:36:17.188477,Keyboard|Desk Lamp,246.36,1254.61
+2210,Jason Wallace,882.601.6595,jason.wallace@gmail.com,53,2022-05-12 13:31:14.324562,Laptop|Phone,630.57,1741.44
+2762,Joshua Craig,(327)238-3846x67200,joshua.craig@gmail.com,27,2025-09-01 13:15:21.565362,Laptop|Mouse|Phone,1413.93,4945.17
+8061,Lindsey Miller,001-353-788-5080x71315,lindsey.miller@hotmail.com,20,2021-07-29 09:42:19.259712,Monitor|Desk Lamp|Laptop|Keyboard,855.73,4758.53
+3900,Harry Swanson,774.950.7339,harry.swanson@gmail.com,32,2023-05-02 04:40:01.475324,Phone|Keyboard,74.42,176.5
+6246,David James,759-290-7918,david.james@hotmail.com,52,2024-10-01 23:31:22.299887,Phone|Desk Lamp,1269.28,3627.07
+2227,Angie Silva,+1-655-215-1298x6942,angie.silva@yahoo.com,61,2026-01-18 00:52:59.165306,Phone|Mouse|Laptop,232.98,956.63
+7547,Debbie Davis,737-488-1559,debbie.davis@gmail.com,27,2022-02-18 16:54:32.673378,Desk Lamp|Laptop|Phone|Keyboard,1138.4,11216.22
+5761,Kimberly Cox,(562)922-8311x76213,kimberly.cox@hotmail.com,34,2025-07-28 05:55:19.112861,Monitor|Laptop|Mouse,1638.58,10474.83
+5309,Thomas Lewis,001-544-755-6439,thomas.lewis@yahoo.com,45,2024-09-21 02:23:45.090843,Desk Lamp|Laptop,717.48,4468.56
+2618,Katelyn Weber,(903)809-3363x493,katelyn.weber@yahoo.com,20,2021-07-08 18:00:43.143559,Laptop|Phone|Mouse,796.18,6773.73
+3297,Cathy Robinson,403-371-0362,cathy.robinson@gmail.com,55,2022-08-09 12:19:51.413533,Laptop|Monitor|Phone,1706.38,14622.2
+9447,Derrick Nelson,(646)667-4507x2248,derrick.nelson@hotmail.com,63,2024-11-20 07:35:37.146333,Phone|Monitor|Mouse|Laptop,1470.06,14175.99
+8495,Allison Mueller,842-515-0023x5338,allison.mueller@yahoo.com,23,2023-07-16 03:07:30.511212,Phone|Monitor|Desk Lamp,713.83,4296.53
+1987,Henry Spencer,+1-853-835-8952x80420,henry.spencer@yahoo.com,33,2023-12-18 13:40:10.233087,Mouse|Laptop|Monitor,555.4,1720.95
+1731,Robert Duran,493-602-4402,robert.duran@hotmail.com,54,2026-03-25 01:32:40.805345,Phone|Keyboard|Laptop,1790.71,4223.21
+7003,Dustin Reyes,910-210-7796,dustin.reyes@yahoo.com,50,2025-04-13 13:35:12.145051,Laptop|Monitor|Mouse,793.19,4966.37
+9907,Jacob Pitts,922.799.6754x28596,jacob.pitts@hotmail.com,31,2023-03-09 17:06:21.057005,Desk Lamp,156.83,1404.43
+1332,Lisa Sanders,333-531-6554x515,lisa.sanders@gmail.com,43,2023-03-22 05:17:44.826100,Mouse|Monitor,201.37,1842.6
+7501,Renee Higgins,001-575-834-7530x17787,renee.higgins@hotmail.com,39,2025-10-27 08:19:36.514416,Keyboard|Desk Lamp|Monitor,1178.8,3122.87
+5522,Nicole Benjamin,001-555-932-6666x16825,nicole.benjamin@yahoo.com,30,2025-11-10 22:03:28.115923,Keyboard|Phone,1823.25,12768.26
+4486,Christopher Carroll,292-764-0092x8712,christopher.carroll@yahoo.com,28,2024-05-22 00:58:05.292051,Keyboard|Mouse,1015.93,8337.56
+6190,Jerry Shannon,8708745504,jerry.shannon@gmail.com,32,2022-02-04 00:41:31.555001,Phone|Mouse|Laptop|Desk Lamp,1565.04,12704.43
+6026,Lauren Garcia,3596934521,lauren.garcia@yahoo.com,59,2021-07-09 00:40:06.515495,Keyboard|Desk Lamp|Mouse,1769.78,3190.18
+9672,Kimberly Gonzales,(349)437-5177x54982,kimberly.gonzales@gmail.com,30,2022-10-04 06:34:18.776327,Keyboard|Phone|Monitor,1227.85,8593.23
+1292,Justin Perez,001-402-899-3892x458,justin.perez@gmail.com,30,2023-01-02 13:59:43.949741,Laptop|Keyboard|Desk Lamp,1585.31,7565.64
+4458,Brendan Solis,+1-762-963-1822x295,brendan.solis@gmail.com,21,2024-10-29 04:45:13.323526,Desk Lamp,189.21,698.51
+6141,Jacob Marshall,+1-376-463-8516,jacob.marshall@hotmail.com,40,2022-10-27 14:53:38.365192,Mouse|Keyboard|Monitor|Laptop,1429.88,6982.06
+1086,Edward Cline,2502254873,edward.cline@yahoo.com,18,2024-07-29 07:34:24.229485,Laptop|Desk Lamp,1447.92,8557.12
+6519,Christopher Green,(333)948-6006x599,christopher.green@hotmail.com,52,2025-06-14 16:10:45.056752,Keyboard|Laptop|Phone,785.26,1812.22
+6334,Clifford Hill,(314)287-7246,clifford.hill@gmail.com,28,2022-05-10 10:11:36.736623,Laptop|Desk Lamp,94.52,811.78
+4288,Doris Johnson,313-375-4095,doris.johnson@hotmail.com,27,2022-01-04 02:28:30.228307,Monitor|Mouse|Keyboard,81.65,395.79
+3284,Travis Moore,705-261-9594,travis.moore@gmail.com,28,2023-08-13 14:56:18.519668,Laptop|Desk Lamp,720.01,7136.73
+7728,Timothy Smith,001-910-452-5961x792,timothy.smith@yahoo.com,34,2023-12-15 16:33:28.003155,Monitor,1223.6,6251.55
+1302,Steven Griffin,886.512.7958x10971,steven.griffin@yahoo.com,42,2023-10-31 21:07:51.758979,Keyboard,1836.37,14019.83
+7754,Amanda Parker,+1-434-415-1025x286,amanda.parker@hotmail.com,39,2025-06-03 05:47:54.769032,Phone,995.46,6925.31
+8347,David Summers,+1-435-689-7834x276,david.summers@gmail.com,50,2023-06-16 09:01:17.684923,Laptop|Desk Lamp|Phone|Keyboard,621.07,2111.75
+3341,Robert Gallegos,001-895-951-0053x8735,robert.gallegos@gmail.com,22,2022-09-08 21:37:41.086741,Keyboard|Phone,32.97,257.74
+7526,Tyler Brock,7167364546,tyler.brock@hotmail.com,39,2021-11-17 23:42:34.946292,Phone|Monitor|Keyboard|Mouse,607.06,3219.61
+6799,Mark Walker,695-439-0568x71108,mark.walker@gmail.com,40,2025-04-17 07:31:55.467837,Laptop,1000.46,2140.04
+1181,Kimberly Werner,(242)628-5172x82429,kimberly.werner@hotmail.com,48,2025-06-03 14:28:32.850736,Laptop|Mouse|Monitor|Keyboard,1454.83,2288.45
+4761,Michael Martin,+1-267-541-9507x01660,michael.martin@gmail.com,46,2021-04-15 09:57:01.375205,Laptop|Keyboard|Mouse,552.13,1132.56
+6100,Matthew Hernandez,824.726.2554x94636,matthew.hernandez@hotmail.com,37,2025-05-25 13:20:42.162513,Phone,1402.17,5395.12
+5615,Dakota Craig,001-630-849-1218x65108,dakota.craig@hotmail.com,43,2025-05-30 17:05:19.799948,Mouse|Laptop|Keyboard,581.65,1540.16
+3457,Tracy Mays,8244336664,tracy.mays@gmail.com,56,2022-08-09 21:52:01.785471,Laptop|Keyboard|Phone,1047.17,9152.16
+3092,Vanessa Potter,337.471.1031x60027,vanessa.potter@hotmail.com,25,2023-08-02 11:37:24.637855,Mouse,379.09,2685.04
+9880,Beth Cox,+1-418-346-2408,beth.cox@yahoo.com,63,2024-04-06 16:21:21.271297,Keyboard|Phone|Desk Lamp|Mouse,98.85,230.55
+1673,Melissa Wright,778.750.9553x27720,melissa.wright@hotmail.com,40,2022-04-26 00:05:46.852570,Desk Lamp|Monitor,255.53,1468.64
+7647,Robert Bradley,+1-825-556-0321,robert.bradley@hotmail.com,20,2025-09-28 22:02:36.510970,Desk Lamp|Laptop|Phone|Keyboard,1440.68,13268.13
+5049,Shelly Anderson,+1-945-467-4409x743,shelly.anderson@hotmail.com,36,2022-11-19 03:38:18.683996,Desk Lamp|Laptop|Keyboard|Phone,1716.49,4152.07
+8307,Patricia Mercer,(420)218-5288,patricia.mercer@gmail.com,50,2021-10-02 07:54:37.513188,Laptop|Monitor|Desk Lamp|Phone,260.34,700.39
+2064,Emily Wallace,369-724-4823x212,emily.wallace@hotmail.com,61,2021-09-01 04:03:13.213358,Keyboard,1410.74,9374.13
+4046,Barbara Myers,449-614-3818x446,barbara.myers@gmail.com,26,2023-12-22 18:09:31.879162,Mouse,116.04,1031.7
+2949,Jennifer Garcia,345.704.8378x54172,jennifer.garcia@yahoo.com,50,2021-10-30 02:48:50.285826,Laptop|Mouse|Desk Lamp,1885.52,10981.84
+9008,Lisa Hoover,904-227-1425,lisa.hoover@yahoo.com,29,2025-01-21 00:55:09.923444,Mouse|Monitor,209.19,981.91
+8138,Courtney Nash,833.293.2991,courtney.nash@yahoo.com,63,2024-10-06 07:40:28.392770,Mouse|Phone|Desk Lamp,144.77,353.37
+1521,Amber Murphy,+1-696-784-0551,amber.murphy@hotmail.com,33,2025-09-08 02:43:02.625723,Laptop|Keyboard|Mouse,287.67,2860.5
+7792,Gary Price,459-510-9649x7505,gary.price@gmail.com,30,2025-06-18 07:57:02.014489,Desk Lamp,1663.88,14768.31
+7602,Jose Rose,001-892-474-9427x137,jose.rose@yahoo.com,62,2025-09-25 19:37:04.575355,Mouse,1679.61,9741.61
+2863,Joseph Lowe,(671)602-0739x94525,joseph.lowe@hotmail.com,46,2021-11-13 12:16:25.575832,Laptop|Desk Lamp|Mouse|Monitor,1901.77,6794.28
+7065,Karen Smith,+1-430-974-2295,karen.smith@hotmail.com,49,2022-12-17 20:39:36.625428,Laptop|Phone|Desk Lamp,952.68,6472.44
+9166,Robert Guerrero,(956)252-3594x2553,robert.guerrero@yahoo.com,61,2021-11-27 02:56:37.692230,Laptop|Phone,706.78,2139.96
+8769,Shannon Cox,4752864770,shannon.cox@gmail.com,30,2025-04-20 02:25:09.697758,Desk Lamp|Phone,908.1,7594.1
+8859,Robert Johnson,+1-444-239-1112,robert.johnson@gmail.com,51,2025-09-28 20:28:38.183360,Monitor,1492.76,6854.76
+4784,Alexandra Smith,(982)995-1670,alexandra.smith@hotmail.com,20,2025-12-10 13:10:24.292437,Laptop,699.39,2401.67
+3265,Spencer Young,+1-331-428-8367x7431,spencer.young@gmail.com,63,2022-02-06 08:58:53.156081,Desk Lamp|Phone,1567.66,11466.07
+6421,Rachel Nichols,667.789.4675,rachel.nichols@hotmail.com,26,2024-05-25 17:20:41.700582,Desk Lamp|Laptop|Monitor|Phone,516.14,3476.83
+2199,Heather Long,447-396-7795,heather.long@hotmail.com,20,2023-11-25 09:00:48.461340,Monitor,444.69,1579.05
+3972,Barbara White,+1-691-385-9018,barbara.white@gmail.com,63,2025-07-03 02:31:22.615131,Monitor|Mouse|Laptop,740.82,6642.6
+8502,Julie Osborn,869-356-3017x966,julie.osborn@yahoo.com,57,2025-11-01 02:34:52.360896,Monitor|Laptop|Desk Lamp,766.18,3707.52
+3228,Gregory Espinoza,001-715-869-5863x3348,gregory.espinoza@yahoo.com,53,2026-02-07 09:41:32.310604,Mouse|Laptop|Phone|Desk Lamp,1991.32,17011.5
+4387,Melissa Dyer,549.899.9093x1672,melissa.dyer@hotmail.com,63,2024-06-02 15:41:22.038001,Mouse|Keyboard|Laptop,1742.53,14770.57
+3630,Brian Hansen,980.994.5825x4047,brian.hansen@gmail.com,55,2025-01-31 17:27:23.960329,Mouse|Desk Lamp|Laptop,906.27,2530.62
+7084,Jerry Anderson,564.829.7396x439,jerry.anderson@hotmail.com,63,2024-08-05 10:16:06.089689,Monitor|Desk Lamp,1902.24,10007.02
+2502,Judith Farrell,+1-777-556-1762,judith.farrell@gmail.com,55,2022-02-13 20:57:32.817253,Mouse|Monitor|Phone|Laptop,476.47,3433.24
+9788,Joel Kim,001-513-759-4132x3207,joel.kim@gmail.com,41,2023-04-05 22:42:28.340147,Keyboard|Desk Lamp,1441.67,8947.78
+8856,Amanda Phelps,623-758-2756x799,amanda.phelps@yahoo.com,22,2025-12-23 07:51:05.148288,Phone|Laptop|Desk Lamp|Mouse,808.46,5085.58
+4830,David Stein,+1-914-436-1953x1433,david.stein@gmail.com,22,2022-10-01 23:03:56.095501,Mouse,1236.32,4558.72
+2958,Christopher Calderon,361-610-1469,christopher.calderon@yahoo.com,34,2023-04-19 15:43:26.205387,Mouse|Desk Lamp,1680.71,8983.07
+6311,John Sullivan,385-344-9117x652,john.sullivan@yahoo.com,19,2022-12-05 18:59:35.003467,Mouse,1003.32,5852.2
+2276,Jean Rivera,+1-797-300-5088x7778,jean.rivera@hotmail.com,26,2025-02-16 04:29:16.999007,Monitor|Keyboard|Mouse|Phone,1350.45,2586.83
+1108,Joann Yates,001-252-990-6844x928,joann.yates@hotmail.com,50,2025-12-01 07:12:58.059556,Monitor,996.84,5536.54
+5550,Christopher Edwards,430.986.4437,christopher.edwards@hotmail.com,34,2026-01-05 08:38:42.377885,Mouse|Desk Lamp,1947.75,11602.76
+7221,Jessica Sharp,+1-575-430-7786,jessica.sharp@yahoo.com,42,2023-06-25 02:42:05.445436,Desk Lamp,734.27,2997.21
+1862,Laura Robinson,693.353.0268x19350,laura.robinson@hotmail.com,40,2021-08-05 18:52:42.902880,Desk Lamp|Laptop,1780.22,15284.36
+6850,Mark Young,(273)664-9445x88599,mark.young@hotmail.com,45,2026-01-02 09:23:01.626956,Laptop|Monitor|Desk Lamp|Keyboard,1145.74,7676.05
+5886,Kristina Perry,495-786-9227x1188,kristina.perry@gmail.com,34,2025-05-18 20:36:54.955138,Laptop|Monitor|Desk Lamp,1515.31,8982.46
+3271,Michael Murray,001-422-812-3523,michael.murray@gmail.com,22,2025-09-11 04:55:49.534992,Mouse,1249.36,3747.25
+6306,Jeremy Santos,001-716-585-6462,jeremy.santos@hotmail.com,47,2021-09-29 07:09:39.130437,Phone|Keyboard|Desk Lamp,858.17,2592.86
+1711,Michael Vega,001-922-235-5693,michael.vega@yahoo.com,39,2025-05-05 16:52:04.436233,Keyboard|Desk Lamp|Monitor,132.91,283.09
+4760,Joseph Olsen,(387)922-8630,joseph.olsen@gmail.com,53,2025-11-30 13:55:18.163373,Mouse|Monitor|Phone,1894.33,7597.58
+5991,Lisa Butler,(885)899-5504,lisa.butler@gmail.com,58,2022-10-16 09:50:33.928025,Desk Lamp|Phone|Keyboard,599.51,4777.77
+7412,Scott Randall,(776)335-0049x9198,scott.randall@hotmail.com,31,2026-02-21 08:16:56.243659,Phone|Keyboard|Desk Lamp|Monitor,1992.24,17342.23
+6469,Joshua Clark,300-705-1478x519,joshua.clark@yahoo.com,41,2023-06-03 10:15:52.845590,Keyboard|Phone|Desk Lamp,1317.59,7051.02
+3793,Curtis Newman,814-329-1725x6853,curtis.newman@gmail.com,24,2023-10-15 03:05:58.155671,Desk Lamp,467.08,3790.08
+6078,Charles Evans,001-215-794-2698x2651,charles.evans@yahoo.com,59,2022-07-23 11:08:36.531593,Monitor,1005.07,2820.16
+7215,Shelby Bruce,579.572.5903x7007,shelby.bruce@hotmail.com,27,2025-11-05 08:37:32.323593,Phone|Desk Lamp|Laptop,1832.85,15722.51
+2282,Jodi Murphy,712-820-4829x6012,jodi.murphy@gmail.com,32,2024-04-14 21:34:33.191566,Phone,1599.17,5932.55
+9044,Willie Silva,561.475.8791,willie.silva@gmail.com,22,2025-07-05 14:28:31.976680,Keyboard|Laptop|Monitor,1866.52,12430.12
+8088,Jerome Walker,(570)897-7957x08707,jerome.walker@hotmail.com,44,2023-06-07 09:25:04.627562,Monitor,306.44,1166.32
+3978,Gary Henry,612.733.0995,gary.henry@hotmail.com,25,2021-08-24 14:56:20.644528,Desk Lamp|Monitor|Phone,1061.23,4249.71
+2623,Melvin Perez,(831)601-8850x838,melvin.perez@gmail.com,40,2022-06-05 19:07:08.559680,Keyboard|Mouse,1337.93,4659.48
+6784,Christopher Richardson,4373689884,christopher.richardson@gmail.com,47,2022-01-15 10:14:03.906303,Laptop,1791.14,14826.46
+9961,Robert Johnson,315.525.9978x2715,robert.johnson@yahoo.com,19,2025-05-11 19:02:59.007145,Desk Lamp|Phone|Mouse,738.98,5394.06
+4039,Donna Brown,(881)308-2178,donna.brown@yahoo.com,29,2022-12-22 11:31:22.435611,Laptop|Keyboard,405.05,3784.98
+6368,Dave Rivera,755.499.3654x01275,dave.rivera@yahoo.com,31,2024-12-07 02:19:07.799393,Desk Lamp|Monitor,1814.75,9496.87
+5832,Michelle Watts,904.550.0211,michelle.watts@yahoo.com,38,2021-06-24 01:39:07.728306,Mouse|Phone|Keyboard,498.38,1979.63
+8451,Bobby Alexander,+1-447-811-5355,bobby.alexander@yahoo.com,25,2024-11-12 23:17:51.865960,Phone|Keyboard|Monitor|Desk Lamp,1410.9,11100.97
+3857,Alicia Perez,628-489-4110,alicia.perez@yahoo.com,24,2024-06-19 22:51:09.827744,Keyboard|Mouse|Desk Lamp,169.37,400.91
+6807,Dennis Blake,(873)697-3246x913,dennis.blake@hotmail.com,43,2024-08-12 21:39:07.826206,Laptop,1374.71,5352.18
+2556,Nicole Jones,3883034388,nicole.jones@hotmail.com,54,2023-05-03 13:20:55.446097,Keyboard|Laptop|Mouse|Desk Lamp,898.84,8696.7
+1349,Danielle King,001-852-866-6486x466,danielle.king@hotmail.com,31,2022-11-11 10:46:47.008255,Monitor|Keyboard|Phone,927.7,1842.8
+6687,Jonathan Long,960-890-9687x1515,jonathan.long@hotmail.com,41,2025-03-29 07:10:11.364847,Laptop,1191.29,6111.79
+7202,Ruben Bowers,001-392-898-7499x92309,ruben.bowers@gmail.com,54,2023-02-11 16:39:29.201300,Keyboard|Phone,1396.47,3715.86
+8441,Christopher Chase,473.455.4536,christopher.chase@gmail.com,58,2025-10-01 04:54:20.258407,Mouse,1318.26,12469.87
+9019,Audrey Smith,(982)212-4432x38305,audrey.smith@gmail.com,56,2022-10-14 22:23:24.783100,Mouse|Desk Lamp|Phone,1369.56,10768.91
+4022,Loretta Morris,+1-990-595-5289x826,loretta.morris@yahoo.com,41,2023-11-27 16:41:38.181180,Monitor,633.67,1792.56
+8103,Nathaniel Fields,001-206-533-8307,nathaniel.fields@hotmail.com,39,2024-01-10 19:13:14.264166,Keyboard|Phone,1212.43,3204.28
+8326,Edwin Smith,264.340.8519x83287,edwin.smith@gmail.com,65,2025-07-07 06:13:33.665453,Laptop|Phone|Mouse|Desk Lamp,386.98,1169.1
+4911,Summer Jennings,368-236-9685x7200,summer.jennings@gmail.com,58,2026-03-24 16:27:10.214703,Mouse|Desk Lamp,1612.76,4547.03
+7626,Kelsey Palmer,825.576.9616x660,kelsey.palmer@gmail.com,29,2025-07-28 08:16:15.427343,Desk Lamp|Keyboard|Laptop,1909.6,9724.09
+3068,Jean Johnson,+1-251-911-1413,jean.johnson@gmail.com,65,2022-05-23 20:56:19.335656,Phone|Monitor|Mouse,1046.29,7888.86
+6184,Christian Johnson,+1-570-280-2052x518,christian.johnson@yahoo.com,25,2021-04-25 11:17:37.298712,Keyboard|Monitor|Phone,1458.49,5332.55
+7712,Barbara Wallace,+1-457-786-0764x6784,barbara.wallace@yahoo.com,57,2023-02-24 03:36:21.400823,Phone,994.63,7571.47
+2310,Hannah Lewis,9299957471,hannah.lewis@yahoo.com,23,2026-02-12 09:48:07.218204,Keyboard,1992.13,5691.22
+1084,Dylan Johnson,+1-634-641-9245,dylan.johnson@gmail.com,54,2025-12-13 02:33:47.096045,Phone|Keyboard|Laptop|Desk Lamp,562.92,3276.62
+8493,Jocelyn Mitchell,(317)872-7901x47629,jocelyn.mitchell@gmail.com,47,2022-05-05 16:01:59.076120,Monitor|Desk Lamp,876.35,3196.92
+8807,David Mclaughlin,001-691-688-0987x9713,david.mclaughlin@gmail.com,40,2022-08-07 10:04:52.369190,Laptop|Phone|Mouse,1937.26,18197.78
+2492,Ryan Thomas,+1-345-241-4983,ryan.thomas@gmail.com,28,2023-03-21 16:28:08.768975,Keyboard|Mouse|Laptop|Desk Lamp,1591.85,14524.9
+1715,Kimberly Evans,001-477-281-0982x023,kimberly.evans@gmail.com,20,2023-01-05 00:15:11.603607,Phone|Laptop,1363.34,2188.61
+6378,Dennis Barrett,474.203.7286,dennis.barrett@yahoo.com,61,2024-01-06 14:13:55.688086,Monitor|Keyboard|Mouse|Desk Lamp,1109.13,7726.64
+9879,Zachary Sampson,(528)930-0881,zachary.sampson@hotmail.com,43,2025-05-05 01:32:31.175012,Monitor|Desk Lamp|Phone|Laptop,1757.48,13396.81
+8355,Elizabeth Foster,(369)609-3044x73976,elizabeth.foster@hotmail.com,64,2022-02-23 10:55:22.402936,Phone|Monitor|Desk Lamp|Keyboard,1826.82,14938.71
+2972,Lauren Sanchez,(658)450-5380x46655,lauren.sanchez@yahoo.com,49,2022-10-26 09:36:22.228865,Phone,1722.59,5015.83
+7627,Alexander Ramirez,001-609-752-2529x54377,alexander.ramirez@yahoo.com,26,2024-05-20 08:13:29.898222,Phone|Keyboard|Monitor,1326.45,13190.63
+3546,Samuel Jones,001-444-288-1802x756,samuel.jones@gmail.com,64,2025-10-06 07:10:46.586484,Phone|Keyboard,1880.86,12319.81
+7196,Shari Daugherty,409-510-6661x2913,shari.daugherty@hotmail.com,48,2025-11-30 00:56:36.838056,Keyboard|Laptop|Monitor,1031.51,8777.99
+2032,Cheryl Acevedo,+1-824-464-9626x08653,cheryl.acevedo@hotmail.com,65,2024-11-05 01:17:21.210013,Monitor|Mouse|Keyboard|Phone,261.77,1632.56
+8704,Angela Moore,001-225-969-4721,angela.moore@hotmail.com,27,2021-12-15 04:30:24.481839,Phone|Monitor|Keyboard|Mouse,1116.38,8967.12
+3296,Jenna Vargas,917.979.2711,jenna.vargas@yahoo.com,50,2023-04-23 12:22:19.300092,Laptop|Keyboard|Monitor|Phone,866.11,8056.24
+9967,Scott Rodriguez,405-231-7137x952,scott.rodriguez@hotmail.com,54,2024-05-18 21:03:14.989026,Laptop,1533.4,14746.15
+1316,Walter Gonzales,(785)624-9726x447,walter.gonzales@hotmail.com,18,2022-10-25 22:43:33.736198,Mouse|Phone|Laptop,486.15,4374.32
+5107,Janet Hensley,(615)945-6309x773,janet.hensley@yahoo.com,57,2026-01-26 17:26:17.258399,Monitor|Keyboard,331.13,930.14
+7068,Gregg Smith,429-726-3620x1513,gregg.smith@yahoo.com,41,2024-05-03 02:57:36.813999,Monitor|Keyboard|Desk Lamp|Phone,1850.79,12845.52
+6321,Kevin Hopkins,795.413.0297x65035,kevin.hopkins@hotmail.com,34,2024-05-24 12:49:40.205951,Laptop,518.24,2267.21
+3685,Michelle Payne,+1-920-987-0881x478,michelle.payne@gmail.com,61,2023-11-11 02:16:29.651374,Keyboard|Desk Lamp|Mouse|Monitor,1470.11,8226.14
+1544,Angela Huang,447-755-0271,angela.huang@yahoo.com,60,2022-11-19 20:42:48.019401,Laptop,323.27,1869.39
+1797,Stephanie Stone,368-273-8131,stephanie.stone@yahoo.com,46,2025-07-03 13:27:48.618785,Desk Lamp,1434.94,10116.97
+9653,Robert Stark,+1-914-393-4968x4174,robert.stark@hotmail.com,18,2025-10-13 05:06:39.492013,Keyboard|Desk Lamp|Mouse,702.88,1605.95
+1496,Curtis Cortez,482-640-3538,curtis.cortez@gmail.com,36,2023-02-25 18:55:52.069620,Phone|Monitor|Keyboard|Laptop,884.87,4984.96
+4989,Thomas Cervantes,(629)756-5321x70939,thomas.cervantes@hotmail.com,24,2024-07-11 22:31:07.803601,Phone|Monitor,440.81,3709.69
+2561,Brenda Thornton,274.378.5996x4376,brenda.thornton@yahoo.com,42,2025-11-08 20:39:32.105446,Keyboard|Mouse|Phone,13.11,118.88
+7748,Tina Knight,463-423-5875,tina.knight@hotmail.com,29,2025-12-30 05:45:57.124340,Laptop|Keyboard|Mouse|Desk Lamp,765.78,5781.43
+1387,Jackie Allen,497.962.7227x231,jackie.allen@yahoo.com,58,2025-02-11 07:31:57.062833,Phone|Mouse,1425.46,12467.43
+9550,James Turner,893-960-7014,james.turner@hotmail.com,58,2026-03-04 11:33:53.647679,Laptop|Keyboard|Phone,1477.06,12872.2
+2431,Sara Thompson,(734)899-2685x4301,sara.thompson@yahoo.com,31,2024-11-09 02:36:38.543432,Laptop|Desk Lamp,1729.76,16882.39
+5827,Chad Rivera,001-553-860-3382x7082,chad.rivera@yahoo.com,61,2024-05-29 16:09:17.017605,Keyboard,688.96,5338.78
+6581,Sean Gibson,(753)217-3065x02040,sean.gibson@gmail.com,61,2023-10-01 23:38:26.355380,Phone|Keyboard,1080.83,5018.65
+9277,Jonathan Soto,+1-991-846-7994x355,jonathan.soto@gmail.com,53,2023-01-07 13:14:45.147887,Desk Lamp|Keyboard|Laptop,1531.17,9420.19
+4013,Joel Ryan,(685)432-7719,joel.ryan@hotmail.com,33,2021-08-02 03:26:47.401879,Mouse|Monitor|Desk Lamp,198.72,648.91
+5192,Gary Vargas,+1-822-968-9422x6997,gary.vargas@gmail.com,24,2022-11-11 13:21:46.291173,Phone|Desk Lamp|Keyboard,1755.04,7053.15
+7746,Tiffany Little,462.950.2706,tiffany.little@gmail.com,40,2022-05-26 14:16:54.201390,Laptop|Keyboard|Mouse|Monitor,1122.02,4266.16
+5751,Cheryl Brown,2126509968,cheryl.brown@gmail.com,20,2021-11-20 16:58:24.867783,Mouse|Monitor|Phone|Desk Lamp,1588.94,6444.51
+7805,James Weaver,+1-691-972-7815x07878,james.weaver@hotmail.com,37,2022-06-15 02:33:31.191653,Monitor|Desk Lamp,1252.31,10317.48
+2890,Jennifer Martinez,001-919-267-2116,jennifer.martinez@hotmail.com,65,2022-05-19 10:18:29.913436,Keyboard|Laptop|Monitor|Desk Lamp,435.05,1160.9
+1485,Mark Lee,(466)891-2548x8959,mark.lee@gmail.com,31,2022-12-03 08:41:48.253447,Phone|Laptop,1400.18,7212.0
+1758,Justin Moody,976.818.9412,justin.moody@gmail.com,30,2022-08-14 16:39:30.277455,Laptop,1462.82,12868.43
+2180,Teresa Rodriguez,(613)646-8223,teresa.rodriguez@yahoo.com,34,2022-07-09 03:07:33.590904,Desk Lamp|Keyboard|Phone|Laptop,836.8,7957.03
+2804,Christopher Thornton,001-713-822-1748x3265,christopher.thornton@yahoo.com,64,2024-03-16 14:17:51.803254,Desk Lamp|Keyboard|Phone,1606.44,15980.99
+6987,Nicole White,976.826.7855x4412,nicole.white@yahoo.com,35,2022-03-05 01:36:47.889599,Laptop,1140.94,3199.37
+2379,Sandra Thompson,+1-465-726-3417x1068,sandra.thompson@yahoo.com,32,2021-05-17 00:58:46.589537,Laptop|Desk Lamp|Mouse,1609.52,15886.38
+9184,Elizabeth Brown,396-894-3569x1861,elizabeth.brown@yahoo.com,51,2021-12-17 22:50:11.445683,Mouse,306.56,2108.96
+8341,Morgan Love,+1-707-381-4720,morgan.love@yahoo.com,28,2024-12-20 22:47:52.534204,Desk Lamp,1263.44,11173.84
+9408,Melissa Smith,+1-503-755-9192x272,melissa.smith@yahoo.com,44,2024-02-17 22:03:38.462749,Keyboard,74.85,449.78
+4752,Candace Thompson,637.337.5537x04000,candace.thompson@gmail.com,54,2026-01-23 12:42:14.200269,Monitor,1359.7,7644.42
+3049,Matthew Ward,3352363161,matthew.ward@yahoo.com,28,2022-01-27 06:35:46.985497,Keyboard,945.61,2280.5
+2426,Joseph Thomas,802.763.7034x778,joseph.thomas@yahoo.com,58,2022-09-30 18:50:37.273373,Monitor|Desk Lamp|Keyboard,365.15,3137.62
+3626,Brenda Dickerson,694.278.7182x5184,brenda.dickerson@yahoo.com,61,2025-01-16 19:26:26.319336,Desk Lamp|Mouse|Keyboard|Monitor,1930.36,6243.55
+5493,Alyssa Ho,(417)998-6085x318,alyssa.ho@yahoo.com,27,2024-12-04 20:01:21.166455,Laptop|Keyboard|Mouse,1745.05,13748.35
+6408,Ricardo Vincent,001-353-888-4907x19382,ricardo.vincent@gmail.com,53,2022-02-13 21:18:08.243426,Monitor|Mouse,44.66,375.71
+1011,Joseph Peters,+1-769-887-9777,joseph.peters@yahoo.com,47,2023-09-04 15:46:01.665926,Phone|Desk Lamp|Keyboard,1087.91,7957.19
+3230,Angela Murray,339.892.3076,angela.murray@hotmail.com,21,2023-02-05 07:38:40.001483,Desk Lamp|Mouse|Laptop|Keyboard,484.32,1782.1
+7965,Michael Ramirez,001-224-356-9198,michael.ramirez@hotmail.com,56,2025-02-16 10:56:45.041894,Mouse,1917.62,14957.35
+9285,Lauren Caldwell,001-730-729-4582x952,lauren.caldwell@hotmail.com,55,2026-02-04 14:20:41.178857,Phone,1784.9,10752.35
+5845,Micheal Garcia,408.858.1964x426,micheal.garcia@hotmail.com,49,2024-07-19 05:50:35.496316,Mouse|Keyboard,822.26,2880.49
+2416,Samantha Cochran,001-404-930-9902x07174,samantha.cochran@hotmail.com,39,2024-07-12 17:37:01.412575,Monitor|Phone,551.76,2662.8
+6240,Tyrone Atkins,7597510990,tyrone.atkins@gmail.com,38,2024-09-10 08:59:04.674475,Keyboard|Phone|Monitor|Mouse,1825.94,9128.76
+5059,Brandon Kelley,(455)723-6277,brandon.kelley@hotmail.com,49,2024-07-19 03:05:41.685019,Keyboard|Monitor|Phone,349.23,2471.87
+3736,Ernest Edwards,(360)809-6122x3777,ernest.edwards@yahoo.com,29,2024-06-18 09:42:15.891304,Desk Lamp|Laptop|Keyboard|Mouse,956.52,7479.99
+4597,Lauren Black,+1-244-306-6316x9967,lauren.black@yahoo.com,27,2024-12-14 18:40:54.582728,Monitor|Keyboard|Mouse,1342.24,9762.58
+1339,James Guerra,(776)839-7904x5873,james.guerra@yahoo.com,55,2022-08-27 05:19:11.288974,Desk Lamp,1736.25,5209.04
+8590,Mary Smith,001-601-936-0428,mary.smith@yahoo.com,62,2023-06-27 13:32:35.221752,Desk Lamp,1587.87,4079.47
+3895,Steven Higgins,978.429.6762x2470,steven.higgins@gmail.com,57,2022-10-31 07:30:49.990707,Keyboard,1787.57,12356.77
+2525,Jeremy Johnson,+1-305-354-1700x58113,jeremy.johnson@hotmail.com,51,2023-12-02 03:52:25.487453,Keyboard|Desk Lamp|Mouse,70.56,519.55
+4456,Gary Robinson,2109234334,gary.robinson@yahoo.com,34,2022-11-05 04:48:16.030057,Laptop|Mouse,1634.47,8210.89
+3141,Robyn Andrews,001-614-304-4918,robyn.andrews@hotmail.com,26,2025-07-02 19:59:10.182776,Desk Lamp|Phone,313.88,924.02
+1296,Pamela Burgess,(815)448-7879,pamela.burgess@hotmail.com,20,2024-04-06 01:46:56.100623,Monitor|Mouse,1514.5,3668.97
+7578,Daniel Hawkins,001-494-231-0488x9902,daniel.hawkins@hotmail.com,35,2024-10-20 22:48:47.121531,Monitor|Keyboard|Mouse,1639.0,3188.83
+9641,Valerie Haynes,+1-950-413-1653,valerie.haynes@hotmail.com,57,2024-06-23 03:23:05.871669,Desk Lamp|Mouse|Keyboard|Phone,991.94,6267.02
+3460,Donna Jones,5767548199,donna.jones@gmail.com,38,2024-08-15 03:06:36.675161,Keyboard|Laptop,1520.56,2738.13
+5037,Courtney Weaver,001-583-945-1884x526,courtney.weaver@gmail.com,20,2023-07-19 19:24:14.968340,Phone|Keyboard|Mouse|Monitor,439.79,3176.11
+2452,Kevin Cox,+1-613-212-6782,kevin.cox@hotmail.com,31,2023-03-27 14:56:47.158865,Monitor|Phone|Laptop,1761.25,13441.54
+8624,Albert Coleman,333.414.7139,albert.coleman@gmail.com,18,2025-01-08 03:26:49.901801,Phone|Keyboard|Mouse|Desk Lamp,128.8,1108.63
+3424,Molly Campbell,(775)445-7966,molly.campbell@yahoo.com,63,2022-03-10 04:27:00.967213,Laptop,76.45,369.58
+1710,Nicholas Kim,360-642-5900x1922,nicholas.kim@hotmail.com,53,2023-10-05 03:59:03.238857,Laptop,801.88,1423.36
+1459,Ryan Dodson,(620)344-2973,ryan.dodson@gmail.com,47,2022-06-20 08:07:25.109171,Desk Lamp|Mouse|Phone|Monitor,34.09,97.59
+9886,Mary Armstrong,+1-441-374-2536x40884,mary.armstrong@hotmail.com,30,2024-03-29 20:35:17.811878,Desk Lamp|Mouse,1758.39,6955.52
+3459,Emily Cochran,+1-614-842-9737x4377,emily.cochran@yahoo.com,44,2025-04-19 19:48:08.834362,Mouse|Monitor|Keyboard|Phone,1797.85,10966.46
+7295,Kim Wallace,339.947.1398,kim.wallace@gmail.com,65,2024-05-06 23:44:44.338801,Mouse|Laptop,318.86,1349.17
+8612,Nicholas Estrada,594.662.8952x01635,nicholas.estrada@yahoo.com,27,2024-12-05 17:55:52.568190,Phone|Keyboard|Monitor,1592.22,14329.07
+1681,Jeremy Cummings,001-539-435-2747,jeremy.cummings@yahoo.com,61,2022-08-01 09:12:28.279405,Laptop,1045.44,5172.1
+8662,Lauren Randolph,671-893-6812x367,lauren.randolph@yahoo.com,39,2024-08-25 17:36:47.896196,Laptop|Desk Lamp|Keyboard,1682.11,4620.13
+6834,Andrew Ferguson,550-316-1008x719,andrew.ferguson@gmail.com,47,2024-04-04 02:31:58.843414,Phone|Monitor|Keyboard|Laptop,1904.91,10094.5
+2269,Brenda Smith,(887)675-9246x1350,brenda.smith@hotmail.com,37,2024-12-17 12:29:50.819110,Monitor|Desk Lamp|Keyboard|Laptop,258.03,953.66
+4579,Corey Hood,(375)657-1917x5228,corey.hood@gmail.com,32,2025-03-26 02:14:07.893638,Monitor|Laptop,11.74,67.84
+4647,Kenneth Larson,+1-552-784-4282x4571,kenneth.larson@yahoo.com,27,2023-08-18 18:07:12.103288,Monitor,1925.1,9264.26
+9792,Taylor Dawson,(607)587-8647,taylor.dawson@gmail.com,36,2022-12-16 05:39:58.462075,Mouse|Desk Lamp|Keyboard|Monitor,1285.09,5086.0
+4316,Melissa Perry,9492197501,melissa.perry@hotmail.com,24,2024-11-21 10:02:17.170702,Laptop|Keyboard,1538.86,11397.28
+7013,Jodi Sims,692.609.0670x409,jodi.sims@gmail.com,30,2024-12-02 10:47:22.381543,Mouse|Phone|Laptop|Monitor,803.52,7277.18
+2619,Michele Gilbert,5548464286,michele.gilbert@hotmail.com,61,2025-09-02 03:32:29.897428,Desk Lamp|Laptop|Phone,1661.8,15342.51
+9315,Justin Harris,918-489-9250,justin.harris@yahoo.com,52,2025-01-19 21:24:11.288916,Mouse,386.46,2084.46
+4649,Christopher Coleman,+1-851-280-8135,christopher.coleman@hotmail.com,49,2021-06-15 03:49:59.870719,Monitor,1800.21,9293.3
+6946,Vincent Cole,+1-695-246-7538,vincent.cole@yahoo.com,20,2025-03-29 19:02:21.667715,Laptop,318.63,957.44
+4422,Amanda Sandoval,341-563-8152x50742,amanda.sandoval@gmail.com,54,2023-10-16 03:02:16.088764,Phone|Laptop|Keyboard|Monitor,119.55,467.07
+1171,John Jackson,239.924.6024x9307,john.jackson@gmail.com,43,2022-08-15 13:54:36.818200,Monitor|Phone,517.63,949.8
+3635,Jennifer Anderson,2993260988,jennifer.anderson@gmail.com,31,2025-11-16 20:45:33.906976,Keyboard|Mouse|Laptop|Phone,1953.72,12968.15
+8568,Daniel Brown,(331)335-0030,daniel.brown@hotmail.com,22,2022-04-26 10:39:45.154680,Mouse|Desk Lamp|Monitor|Keyboard,1149.29,8636.47
+4885,Amanda Kirk,(513)890-1259,amanda.kirk@gmail.com,30,2026-03-15 06:18:05.893874,Monitor,664.65,5829.49
+7449,Elizabeth Tucker,(915)899-6178,elizabeth.tucker@yahoo.com,36,2024-05-02 14:22:56.199700,Keyboard,98.08,911.61
+9507,Jennifer King,(597)592-4087,jennifer.king@gmail.com,54,2022-03-23 02:43:05.310061,Desk Lamp,1715.6,9306.44
+4086,Paul Sanders,001-657-460-8564x5901,paul.sanders@yahoo.com,29,2021-10-05 23:13:02.499698,Phone|Monitor|Desk Lamp|Mouse,733.52,6509.04
+2094,Marie Holmes,+1-304-378-5405,marie.holmes@gmail.com,61,2022-07-02 09:45:40.354119,Monitor|Laptop|Mouse|Desk Lamp,350.46,1004.45
+4372,Brandon Mercado,660-735-3415x1285,brandon.mercado@hotmail.com,50,2022-12-24 12:30:11.413944,Mouse,531.29,849.89
+3837,Daniel Ingram,(568)625-4249,daniel.ingram@gmail.com,19,2026-01-15 17:04:40.106709,Monitor|Desk Lamp|Phone,94.48,639.48
+8004,Nathan Martinez,660.260.3526x055,nathan.martinez@gmail.com,51,2021-10-09 08:23:16.411505,Desk Lamp|Keyboard|Phone,1010.48,1980.35
+8766,Terrence Davis,+1-495-213-4060,terrence.davis@yahoo.com,37,2022-11-18 13:14:50.914387,Phone,935.41,1489.65
+4868,Paul Stephenson,001-516-206-1797,paul.stephenson@gmail.com,25,2021-10-30 21:25:45.946609,Desk Lamp|Laptop|Phone|Monitor,370.83,3344.6
+3858,Cynthia Young,+1-672-834-1790x9131,cynthia.young@gmail.com,22,2023-03-30 02:58:10.982505,Phone|Monitor|Mouse|Keyboard,1432.76,10918.49
+9176,Monica Patel,742.456.7612,monica.patel@hotmail.com,52,2025-09-29 15:46:30.706681,Laptop,913.55,4131.45
+4981,Jennifer Porter,001-874-884-9758,jennifer.porter@gmail.com,59,2025-05-20 04:19:06.459646,Mouse|Monitor|Desk Lamp,1833.94,7958.76
+5187,Kayla Bautista,(656)333-1844,kayla.bautista@hotmail.com,47,2026-01-21 21:10:31.914945,Keyboard|Phone|Laptop,187.97,761.17
+4294,Troy Reed,(484)802-9652x65473,troy.reed@gmail.com,22,2024-04-16 05:07:14.886258,Laptop|Phone|Desk Lamp,951.34,7662.2
+4252,Samantha Hanson,320.753.3404,samantha.hanson@gmail.com,52,2021-07-28 08:09:40.786998,Keyboard|Mouse|Laptop,1146.61,10181.42
+2003,Stephanie Molina,984-861-3007,stephanie.molina@hotmail.com,44,2022-08-18 21:44:23.587574,Keyboard|Monitor|Mouse,88.6,796.1
+4783,Matthew Arias,001-925-522-2782x854,matthew.arias@hotmail.com,25,2024-02-20 14:55:13.097954,Laptop,1268.33,3112.94
+1092,John Nguyen,+1-493-425-6479,john.nguyen@yahoo.com,52,2025-06-09 18:00:08.340308,Monitor|Mouse|Laptop,1098.74,6389.21
+9928,Bethany Wallace,+1-724-269-1120x09525,bethany.wallace@yahoo.com,19,2023-06-17 05:01:58.140102,Keyboard,84.61,655.79
+9644,Glen Gutierrez,5599535203,glen.gutierrez@hotmail.com,18,2025-10-09 20:41:45.721191,Mouse,1896.75,7103.44
+5476,Matthew Callahan,855-871-5317x8930,matthew.callahan@gmail.com,53,2024-09-28 09:38:23.946279,Phone|Keyboard|Laptop,1688.32,3102.65
+8866,Cheryl Woods,+1-733-837-2321x898,cheryl.woods@gmail.com,56,2023-03-25 23:00:43.169944,Monitor|Mouse,827.59,1618.98
+1821,Deborah Rowland,001-913-223-4963,deborah.rowland@yahoo.com,40,2021-12-22 08:09:31.219526,Monitor|Laptop|Phone,509.42,2019.42
+5139,Michael Cobb,731-560-3922x6169,michael.cobb@gmail.com,60,2023-05-19 23:59:37.458693,Keyboard|Phone,339.73,2786.15
+5167,Stacy Martin,(828)936-6123x17587,stacy.martin@yahoo.com,34,2025-06-29 03:47:52.850035,Monitor|Keyboard|Desk Lamp|Phone,1405.79,9320.47
+8364,Allen Clark,946.401.7690,allen.clark@yahoo.com,45,2024-07-11 12:08:39.979497,Laptop,475.34,1220.93
+7920,Joshua Davis,(744)707-2310x938,joshua.davis@hotmail.com,30,2022-05-18 10:01:16.304718,Keyboard|Monitor|Phone,555.28,3825.17
+4286,Rachel Taylor,+1-851-721-8806x98121,rachel.taylor@yahoo.com,30,2021-10-18 20:20:59.632694,Keyboard|Monitor|Mouse|Desk Lamp,548.72,1827.2
+8579,Cynthia Montgomery,(980)946-1793x035,cynthia.montgomery@gmail.com,42,2023-12-18 06:20:24.029985,Desk Lamp|Phone|Monitor,1518.62,9640.8
+3489,Justin Rodriguez,+1-468-221-9207,justin.rodriguez@gmail.com,26,2025-06-30 06:27:46.734315,Mouse,554.29,5075.89
+7316,Robert Johnson,(380)802-3531x53778,robert.johnson@yahoo.com,49,2022-03-31 09:23:20.533954,Desk Lamp|Phone,1599.3,6427.77
+5177,Ryan Mora,345-903-4534x916,ryan.mora@hotmail.com,65,2023-10-20 01:26:32.427358,Keyboard,1617.33,15941.9
+8462,David Cruz,001-739-371-1820,david.cruz@hotmail.com,40,2023-07-25 22:13:44.869671,Monitor|Laptop,1333.13,11588.69
+7195,Aaron Jones,+1-523-856-2220x78120,aaron.jones@hotmail.com,48,2023-09-22 01:54:25.447351,Mouse|Monitor|Keyboard|Laptop,495.79,4942.72
+7201,Jenna Conner,+1-592-422-2836,jenna.conner@gmail.com,39,2024-05-16 03:11:02.833669,Keyboard,437.23,1179.75
+4192,Adam Ford,(331)847-7080,adam.ford@gmail.com,57,2021-05-27 18:10:17.667278,Phone|Monitor|Laptop|Mouse,273.96,661.94
+9761,Cody Thompson,+1-794-949-7385x824,cody.thompson@hotmail.com,33,2021-10-08 22:58:16.767619,Phone|Mouse|Laptop,1647.31,7524.07
+5662,Nicole Garcia,001-338-711-5100x0362,nicole.garcia@yahoo.com,48,2024-01-02 12:25:02.117826,Monitor,748.59,2544.48
+7031,Teresa Sanders,(290)861-4673x0326,teresa.sanders@hotmail.com,52,2024-08-18 11:15:14.970899,Mouse,879.41,5977.97
+1452,Patricia Hall,001-364-298-4341,patricia.hall@yahoo.com,39,2024-06-08 10:51:16.803290,Keyboard|Phone|Desk Lamp|Monitor,1456.58,7839.1
+6886,Kathy Rubio,+1-780-846-7485x31934,kathy.rubio@yahoo.com,30,2025-06-21 20:09:37.490987,Desk Lamp,505.58,3786.71
+5923,Michael Garza,703.756.0549x3138,michael.garza@hotmail.com,53,2022-04-19 06:15:57.741706,Monitor|Mouse|Desk Lamp,415.24,3633.48
+7681,Patrick Carr,(253)838-1511x4092,patrick.carr@gmail.com,20,2023-06-11 12:50:26.037927,Keyboard|Desk Lamp,1449.01,14471.21
+9765,Robert Williams,001-245-675-1810,robert.williams@gmail.com,57,2022-09-05 18:30:39.306910,Laptop|Mouse,639.13,1700.14
+3319,Michael Nelson,4606605852,michael.nelson@yahoo.com,36,2021-10-26 05:55:02.912462,Monitor|Phone,639.01,3297.78
+6907,Anthony Hansen,736.882.7550,anthony.hansen@yahoo.com,52,2022-10-07 10:17:10.830662,Laptop|Keyboard|Phone|Mouse,334.34,2811.37
+5602,Hannah Rodriguez,244.549.0091,hannah.rodriguez@gmail.com,24,2025-03-21 00:01:04.856887,Laptop|Keyboard,1662.97,15103.12
+5286,Louis Hernandez,001-659-433-4988,louis.hernandez@hotmail.com,26,2021-08-24 09:32:35.332384,Mouse|Monitor|Phone|Desk Lamp,516.03,4446.27
+2841,Jake Peters,(201)890-3980x584,jake.peters@gmail.com,31,2024-07-04 17:35:40.670956,Phone|Mouse|Laptop,430.23,2766.98
+6212,Diana Cobb,304-698-4113x2290,diana.cobb@yahoo.com,32,2021-04-22 19:44:14.864564,Keyboard|Desk Lamp|Phone,1161.17,2931.42
+5887,Thomas Frederick,+1-617-215-5167x186,thomas.frederick@gmail.com,47,2022-05-01 06:07:40.797250,Monitor|Keyboard|Desk Lamp,524.82,1921.36
+3603,Michael Waters,(281)713-9363x798,michael.waters@gmail.com,25,2021-04-14 01:05:27.809287,Mouse|Laptop|Monitor|Phone,616.86,1355.24
+4917,Christina Green,(654)278-2997x0949,christina.green@yahoo.com,55,2022-11-19 07:09:29.057612,Desk Lamp|Keyboard|Laptop|Mouse,1332.11,7686.44
+6782,James Smith,283-430-8355x8072,james.smith@yahoo.com,47,2023-06-24 13:52:32.367756,Mouse,575.54,2145.72
+2586,Frederick Cox,001-221-273-0369x4364,frederick.cox@yahoo.com,26,2021-07-05 16:01:53.188593,Desk Lamp|Keyboard,519.18,2528.64
+6274,Jesus Manning,001-573-929-4888x2556,jesus.manning@hotmail.com,42,2023-06-27 02:45:15.049314,Phone|Mouse,643.53,1741.49
+9064,Amanda Miles,2817638375,amanda.miles@yahoo.com,42,2022-05-05 03:17:28.914217,Mouse|Desk Lamp|Keyboard|Monitor,1437.58,12663.81
+8593,Sonya Martin,894-427-8047,sonya.martin@hotmail.com,35,2024-11-28 10:32:27.255950,Laptop|Mouse|Monitor|Desk Lamp,1958.9,15535.73
+5765,Peter Rich,(953)854-9647,peter.rich@yahoo.com,63,2025-10-20 08:54:46.585710,Desk Lamp,1486.63,9286.86
+8107,Daniel Bond,5625848965,daniel.bond@hotmail.com,65,2021-12-02 16:05:12.833445,Phone|Keyboard|Monitor|Desk Lamp,918.28,6294.06
+4919,Eric Harvey,001-676-917-8456x6172,eric.harvey@hotmail.com,35,2021-11-04 22:33:05.095808,Keyboard|Desk Lamp|Mouse,1587.29,9601.29
+3263,Rhonda Bradley,(516)884-0809x95713,rhonda.bradley@gmail.com,62,2025-02-25 09:39:48.081200,Keyboard|Phone,1484.86,12216.79
+1022,Jessica Cummings,001-815-767-7546x853,jessica.cummings@yahoo.com,65,2023-11-14 14:11:31.504504,Keyboard|Desk Lamp|Mouse|Laptop,181.85,1448.27
+4990,Jacob Fleming,767-617-4562x853,jacob.fleming@hotmail.com,44,2021-08-20 21:32:32.039074,Mouse|Keyboard|Laptop|Desk Lamp,428.15,1432.1
+8452,Juan Lopez,679.702.4139x935,juan.lopez@hotmail.com,43,2023-04-13 15:16:57.934813,Desk Lamp,626.94,5837.19
+7705,Robert Miller,794-916-7028,robert.miller@gmail.com,31,2021-10-04 17:08:34.985542,Monitor|Keyboard|Laptop|Phone,482.98,2258.53
+5144,Sandra Elliott,8242657760,sandra.elliott@hotmail.com,30,2022-07-08 11:20:29.296291,Phone|Desk Lamp,1736.77,3595.06
+3366,Tammy Acosta,(518)626-6334,tammy.acosta@gmail.com,64,2022-03-31 21:05:28.021062,Monitor|Phone,1382.64,9575.9
+7492,James Perry,+1-737-828-3891x948,james.perry@yahoo.com,40,2024-09-21 08:24:03.471319,Keyboard|Desk Lamp|Phone,138.48,1352.91
+5543,Kurt Colon,001-682-384-9072x97695,kurt.colon@yahoo.com,38,2024-10-24 18:56:39.803291,Desk Lamp|Keyboard|Monitor|Phone,904.15,4937.75
+4231,Kimberly Figueroa,939-799-4848x257,kimberly.figueroa@gmail.com,52,2024-11-02 06:46:59.126974,Keyboard|Mouse|Phone,1952.38,7836.94
+5239,Joann Johnson,767-296-1313x010,joann.johnson@gmail.com,25,2021-12-29 04:35:10.719116,Laptop|Desk Lamp|Keyboard,446.84,4182.13
+6226,Thomas Powers,001-606-961-6236,thomas.powers@yahoo.com,52,2021-07-06 09:19:57.180917,Mouse|Phone|Desk Lamp,498.46,4131.75
+8062,Sara Jackson,+1-862-944-8716,sara.jackson@yahoo.com,40,2024-12-25 07:16:54.099893,Desk Lamp|Monitor|Phone,79.59,678.49
+9496,Samuel Robinson,(961)740-4028,samuel.robinson@gmail.com,54,2026-03-26 02:31:53.176399,Laptop|Phone|Desk Lamp,413.22,3632.98
+4081,Sandra Martin,2335343222,sandra.martin@gmail.com,20,2021-11-25 15:44:56.424820,Laptop|Desk Lamp,1135.15,10536.15
+9988,Lauren Martinez,699-318-0502x55668,lauren.martinez@hotmail.com,42,2024-08-13 01:37:49.784194,Mouse,293.61,933.17
+3929,Jeffrey Bauer,5392584637,jeffrey.bauer@gmail.com,28,2023-06-12 07:43:52.052065,Keyboard|Desk Lamp,1651.21,6054.35
+8402,Amanda Wilson,279-265-5174x401,amanda.wilson@hotmail.com,35,2023-06-04 21:48:23.812984,Monitor|Laptop|Phone,504.02,4629.48
+4767,Deborah Hill,8668189679,deborah.hill@gmail.com,49,2021-08-05 07:46:35.246152,Desk Lamp|Mouse|Phone,1235.78,6517.87
+2093,Carol Washington,357-925-1140x982,carol.washington@yahoo.com,57,2025-01-24 02:29:01.650494,Laptop|Desk Lamp|Keyboard,453.41,4378.1
+2684,Sherry Jones,5349883766,sherry.jones@yahoo.com,27,2021-10-28 03:21:13.545136,Mouse,31.8,233.26
+2456,Gary Jordan,216-531-5864x1133,gary.jordan@gmail.com,44,2021-10-03 17:51:42.774186,Phone|Keyboard,238.29,654.97
+6972,Yolanda Lopez,+1-818-353-9509,yolanda.lopez@gmail.com,49,2023-07-12 14:31:02.156991,Laptop|Monitor|Desk Lamp|Mouse,257.28,1417.79
+7966,Rodney Holt,(743)394-8002,rodney.holt@yahoo.com,23,2023-05-01 20:52:22.673069,Laptop|Monitor|Keyboard|Mouse,1229.65,11540.17
+3759,Jessica Stevens,+1-390-712-6130,jessica.stevens@hotmail.com,35,2025-12-11 02:55:12.730730,Laptop|Phone|Mouse|Monitor,653.71,6104.2
+5855,Timothy Walker,4208110514,timothy.walker@gmail.com,41,2022-05-03 13:15:54.827362,Phone|Monitor|Desk Lamp,806.82,1635.69
+2254,Kyle Duarte,(675)993-6245x0164,kyle.duarte@gmail.com,49,2023-10-05 20:37:55.733102,Mouse,1965.52,8556.13
+1023,Monica Schwartz,+1-834-275-8099x63220,monica.schwartz@gmail.com,25,2025-01-11 01:38:12.264964,Laptop|Monitor|Desk Lamp,1216.21,11845.27
+4424,Stacy Butler,202.833.9159x17226,stacy.butler@gmail.com,40,2022-11-08 20:50:14.199637,Phone|Keyboard|Monitor|Desk Lamp,1610.8,14150.61
+4271,Jonathan Barnes,001-781-794-6378x5694,jonathan.barnes@gmail.com,21,2023-08-28 21:07:39.778145,Phone|Keyboard|Desk Lamp,1562.4,2576.25
+6718,Victoria Martinez,767.993.1099x9934,victoria.martinez@yahoo.com,21,2021-07-26 13:59:44.799421,Mouse|Laptop|Keyboard|Desk Lamp,708.93,3158.09
+2107,Joshua Navarro,(963)943-9481x888,joshua.navarro@gmail.com,54,2025-04-08 19:34:55.551900,Keyboard,1185.69,8386.39
+9129,Sherry Krause,548-505-9709,sherry.krause@gmail.com,23,2021-09-11 06:48:35.772392,Keyboard|Phone|Laptop|Mouse,582.63,4828.59
+1244,Kristy Hancock,480-306-0885x8225,kristy.hancock@gmail.com,43,2022-01-25 19:06:02.618825,Laptop|Phone,1008.32,4708.8
+2795,Cheyenne Jones,829.766.8272x56092,cheyenne.jones@gmail.com,58,2025-03-28 11:42:28.569476,Keyboard,1267.76,4028.8
+8821,James Smith,(796)230-4084x623,james.smith@gmail.com,65,2021-08-03 22:19:47.420756,Mouse|Phone|Monitor|Keyboard,1529.65,8429.09
+1675,Brittany Lane,+1-809-801-1245x2633,brittany.lane@hotmail.com,63,2026-03-18 19:48:04.959232,Mouse,126.48,1131.21
+1986,Mitchell Hudson,(215)937-0738x80553,mitchell.hudson@yahoo.com,20,2024-09-19 01:52:36.409901,Monitor,374.49,1432.41
+7380,Karen Phillips,576.314.4715,karen.phillips@gmail.com,52,2022-02-09 13:51:12.850527,Keyboard|Laptop|Phone|Monitor,1329.74,12179.01
+2082,Eric Valdez,918-358-6211,eric.valdez@hotmail.com,56,2024-03-27 12:45:22.196197,Keyboard|Mouse|Desk Lamp|Phone,738.82,3391.02
+8169,John Craig,692.296.9864x297,john.craig@hotmail.com,43,2024-04-06 11:12:39.611968,Laptop,569.66,1276.25
+5654,Justin Davis,+1-735-268-8518x1991,justin.davis@yahoo.com,24,2023-04-27 09:49:19.849620,Phone|Keyboard|Desk Lamp|Mouse,320.83,2701.05
+7718,Eric Hoover,001-336-300-6485x990,eric.hoover@yahoo.com,33,2021-06-09 10:48:05.204051,Laptop|Desk Lamp|Mouse,1063.17,6379.96
+8907,Jose Smith,(343)734-5058,jose.smith@hotmail.com,41,2026-03-03 14:16:42.547283,Keyboard,1129.18,6130.0
+5581,William Hinton,001-704-855-4476x920,william.hinton@yahoo.com,34,2022-11-10 03:21:47.515678,Phone|Keyboard|Monitor,1702.46,3181.76
+8960,William Terrell,348-257-7640x46628,william.terrell@yahoo.com,65,2026-02-28 10:29:13.435912,Laptop|Keyboard|Phone,1881.48,18483.69
+2657,Katherine Reyes,001-704-609-0394x1807,katherine.reyes@hotmail.com,37,2024-07-28 19:40:10.240142,Monitor|Phone|Desk Lamp,237.88,1104.18
+8535,David Jimenez,+1-499-274-2467x0157,david.jimenez@yahoo.com,46,2023-12-12 04:31:02.608236,Phone|Keyboard|Laptop,1361.43,7349.22
+9771,Laura Harris,001-696-739-5572x0376,laura.harris@gmail.com,36,2022-08-20 00:53:41.377928,Desk Lamp|Laptop|Monitor,1785.77,14062.36
+2738,Kelli Koch,001-550-981-4107x5130,kelli.koch@hotmail.com,49,2025-08-22 11:18:54.864925,Monitor|Mouse|Desk Lamp,535.63,3446.55
+5728,Marcus Willis,001-494-822-5146x358,marcus.willis@yahoo.com,30,2021-08-31 04:20:03.058745,Keyboard|Phone|Monitor,1830.07,16750.11
+1182,Eugene Morrison,713-715-8106x617,eugene.morrison@yahoo.com,48,2024-02-21 21:03:20.098810,Mouse|Monitor|Phone|Laptop,1709.6,8575.62
+6017,Joshua Carpenter,408-793-6318x39324,joshua.carpenter@yahoo.com,43,2025-02-08 00:43:58.537666,Keyboard|Laptop|Monitor,609.13,5812.89
+4274,Tammy Rhodes,(687)516-0431,tammy.rhodes@yahoo.com,36,2022-03-01 00:20:53.282103,Monitor|Phone,626.12,2892.67
+2505,Mark White,251.675.9709,mark.white@gmail.com,18,2024-10-22 07:45:56.738263,Desk Lamp|Keyboard,1410.88,7324.19
+1131,Sarah Jones,262.273.0179,sarah.jones@gmail.com,35,2024-06-30 16:04:36.848070,Phone|Keyboard,1799.32,3488.75
+1273,Melanie Smith,001-515-464-6346,melanie.smith@yahoo.com,49,2026-02-28 06:04:30.269415,Keyboard|Desk Lamp|Mouse,70.72,366.78
+5709,Joseph Coleman,+1-941-795-7808,joseph.coleman@hotmail.com,56,2022-08-10 04:06:26.639813,Monitor|Keyboard|Desk Lamp|Phone,1218.23,8620.56
+6463,Paige Baldwin,(977)241-7341x055,paige.baldwin@yahoo.com,54,2024-03-22 07:45:11.747082,Mouse|Monitor,777.9,7660.03
+8870,Emily Carter,804.772.7433x93739,emily.carter@hotmail.com,24,2024-02-10 06:34:08.355616,Keyboard|Mouse|Monitor|Desk Lamp,714.57,2461.85
+9752,Jeffrey Sanchez,(704)301-1824,jeffrey.sanchez@yahoo.com,59,2022-05-21 14:10:31.160452,Mouse|Desk Lamp,187.61,806.37
+2771,John Martin,687-613-4694x4437,john.martin@gmail.com,35,2025-10-11 17:19:09.496002,Laptop|Phone|Keyboard,1358.16,5011.13
+9425,Amber Bowen,(222)410-8833,amber.bowen@yahoo.com,33,2021-05-27 15:57:28.900956,Phone|Monitor|Keyboard,1337.33,8599.96
+2963,Lauren Ramos,+1-443-980-2220x6479,lauren.ramos@yahoo.com,57,2022-09-25 21:06:46.016793,Monitor|Mouse|Keyboard,1349.72,12094.65
+7073,Nancy Jones,001-808-413-7571x9986,nancy.jones@yahoo.com,60,2024-10-23 20:35:40.147264,Keyboard|Mouse|Monitor|Laptop,371.81,2470.07
+7543,Christopher Hart,878-543-8529,christopher.hart@gmail.com,56,2024-06-09 11:25:14.580323,Mouse,1850.83,6968.59
+1879,Tracey Barber,001-848-664-1396,tracey.barber@yahoo.com,62,2024-03-14 21:28:26.348968,Mouse|Desk Lamp|Phone|Laptop,36.41,322.6
+2072,Sean Jackson,902.269.7423,sean.jackson@hotmail.com,41,2025-09-15 12:34:06.207141,Phone|Monitor,1353.2,11573.58
+8394,Laura Hanson,372.865.9196x12166,laura.hanson@yahoo.com,25,2021-05-31 15:00:08.707752,Desk Lamp|Laptop|Phone|Keyboard,1006.63,3374.72
+5664,David Odonnell,001-945-416-7172x8321,david.odonnell@hotmail.com,45,2026-01-14 08:05:24.477158,Desk Lamp|Phone|Keyboard|Mouse,421.56,2606.48
+9468,Charles Peterson,(697)927-8536,charles.peterson@hotmail.com,51,2023-05-29 03:00:27.064147,Laptop,1357.44,12775.92
+1112,Walter Rose,(819)772-3383x40815,walter.rose@gmail.com,42,2021-11-05 06:30:02.595307,Desk Lamp|Mouse,855.02,4067.62
+8528,Jeffrey Rivera,216.480.7289x7039,jeffrey.rivera@gmail.com,46,2022-08-13 04:32:36.810779,Desk Lamp|Laptop|Keyboard|Monitor,1252.06,6663.24
+7429,Valerie Morris,+1-273-645-1017x875,valerie.morris@hotmail.com,34,2023-09-20 23:42:38.022595,Desk Lamp|Phone,1739.9,5742.28
+7641,Susan Rodriguez,402.500.1636x88546,susan.rodriguez@gmail.com,33,2022-04-09 14:40:14.499362,Desk Lamp,1394.13,9263.85
+3504,Michael Miller,+1-336-486-3917x117,michael.miller@gmail.com,34,2025-07-03 16:23:33.056355,Desk Lamp|Keyboard|Mouse,507.16,1701.56
+8335,Heather Carson,330-312-6246x71572,heather.carson@hotmail.com,58,2022-05-25 18:58:17.075732,Keyboard|Phone,424.61,1430.08
+2694,Pamela Foster,353-541-9035x151,pamela.foster@hotmail.com,46,2024-01-29 16:07:00.475944,Desk Lamp|Keyboard|Monitor|Laptop,1329.36,6816.09
+4933,Allison Brown,713-259-3418x4807,allison.brown@hotmail.com,54,2023-05-01 05:31:35.493725,Monitor|Mouse|Desk Lamp,514.07,4064.42
+4633,Austin Davis,530.428.6958,austin.davis@yahoo.com,35,2023-02-07 02:39:04.229785,Monitor|Keyboard,1788.69,6411.05
+2341,Amy Hernandez,(218)509-5491x519,amy.hernandez@gmail.com,41,2024-09-16 18:22:18.231797,Monitor|Desk Lamp|Phone|Mouse,1339.43,7726.08
+8181,Cynthia Simmons,979-283-0147,cynthia.simmons@yahoo.com,63,2024-12-24 06:24:49.354568,Mouse|Desk Lamp|Monitor|Laptop,1542.37,3059.66
+3159,Jerry Donovan,723.240.5554x7738,jerry.donovan@gmail.com,35,2025-09-09 16:35:22.254648,Keyboard|Monitor,942.92,3802.79
+2752,Jeffrey Noble,771-393-3273x43436,jeffrey.noble@hotmail.com,18,2024-12-03 22:12:47.331081,Monitor|Mouse,898.2,1984.55
+3969,Charles Johnson,206-564-9628,charles.johnson@hotmail.com,63,2025-01-29 12:06:36.926906,Keyboard,120.49,304.86
+3965,Kenneth Hall,001-357-942-1641x765,kenneth.hall@yahoo.com,59,2021-09-26 03:24:36.614634,Laptop|Monitor,940.48,3522.12
+2702,David Houston,(998)737-6717,david.houston@yahoo.com,50,2026-03-04 14:58:20.537358,Monitor,1429.33,4727.78
+2155,Kenneth Hernandez,275.837.3379,kenneth.hernandez@hotmail.com,31,2021-05-03 08:50:10.474319,Desk Lamp|Phone|Keyboard,214.91,1499.19
+8125,Cheryl Smith,(702)504-3986x34757,cheryl.smith@hotmail.com,47,2022-03-18 16:58:13.984203,Desk Lamp|Monitor|Laptop|Mouse,333.24,1145.54
+1289,Tiffany Mendoza,544.555.8717x462,tiffany.mendoza@gmail.com,60,2022-05-23 16:29:22.178943,Desk Lamp|Mouse|Laptop|Keyboard,606.55,1525.72
+8481,Stacey Anderson,9949915138,stacey.anderson@hotmail.com,54,2023-05-12 11:29:18.970849,Mouse|Desk Lamp|Monitor,1693.66,4229.48
+8763,Manuel Shaw,734.677.8981,manuel.shaw@yahoo.com,52,2022-10-10 20:00:15.220910,Laptop,1365.4,2781.68
+6880,Stephanie Tate,+1-505-877-4781x06924,stephanie.tate@gmail.com,32,2022-03-17 18:03:10.282322,Mouse,1856.82,2940.32
+7164,Jorge Simpson,(252)726-3126x46061,jorge.simpson@gmail.com,36,2021-06-13 18:29:53.125233,Mouse|Monitor|Desk Lamp|Keyboard,478.57,4409.21
+6825,Anna Castillo,372.582.6707x48061,anna.castillo@yahoo.com,46,2025-02-15 07:10:28.103187,Desk Lamp|Mouse|Laptop,1381.9,10294.22
+9962,Ronald Wright,001-729-329-3243x49996,ronald.wright@gmail.com,27,2024-11-17 00:04:33.558387,Mouse,1016.24,2955.2
+9326,Joseph Brooks,(314)280-8550x323,joseph.brooks@hotmail.com,25,2025-01-08 01:04:59.043894,Mouse,700.64,6141.59
+5202,Jamie Parsons,+1-510-350-8606x9976,jamie.parsons@hotmail.com,34,2023-10-09 20:15:30.466287,Monitor|Laptop|Phone|Desk Lamp,1690.18,8058.37
+2131,Julia Mitchell,913.634.8267,julia.mitchell@hotmail.com,56,2024-03-12 23:12:04.891222,Desk Lamp,1607.75,2842.04
+1426,Valerie Cardenas,(559)767-9784x1781,valerie.cardenas@gmail.com,28,2023-10-27 03:44:01.749573,Laptop|Monitor|Keyboard,205.45,1689.9
+1362,Lori Brown,(389)941-4335x2066,lori.brown@gmail.com,34,2024-04-30 03:13:41.891644,Phone,551.84,5293.19
+8329,John Jacobs,235.617.1396x80607,john.jacobs@yahoo.com,26,2025-10-29 16:10:04.696614,Desk Lamp|Mouse|Monitor|Keyboard,1584.36,11751.17
+3623,Bruce Lee,001-280-928-4430x99507,bruce.lee@yahoo.com,40,2022-12-30 17:19:22.605766,Phone|Desk Lamp|Keyboard,1114.58,7343.43
+7277,Teresa Lopez,3129797196,teresa.lopez@yahoo.com,22,2022-07-14 02:18:15.579806,Mouse|Laptop|Phone,188.45,878.55
+6507,Ricky Grant,342.698.2909x1641,ricky.grant@gmail.com,37,2024-03-22 00:22:37.278291,Desk Lamp|Laptop|Monitor|Mouse,206.4,842.05
+2840,Isaac Smith,817.718.2983x9393,isaac.smith@gmail.com,52,2023-01-11 15:25:33.424086,Phone,640.98,6061.24
+1368,Maurice Long,792.523.4923,maurice.long@hotmail.com,45,2021-11-06 07:11:14.007012,Keyboard|Monitor|Desk Lamp,1637.29,15635.66
+8102,Elaine Bradley,001-669-568-4447x76848,elaine.bradley@hotmail.com,47,2025-05-10 23:20:43.626124,Laptop,943.94,4077.28
+2336,Cathy Williams,001-653-728-2439x635,cathy.williams@hotmail.com,35,2024-11-03 05:32:15.106663,Keyboard|Laptop|Monitor|Mouse,1093.14,8798.2
+9164,Kristi Johnson,(872)461-7245,kristi.johnson@hotmail.com,30,2024-08-25 01:00:34.709918,Phone|Mouse,944.31,3808.99
+8848,Joseph Harvey,889-377-7309x94793,joseph.harvey@gmail.com,29,2023-02-18 21:36:04.607627,Phone,1301.75,10587.97
+9156,Taylor Henderson,682-422-8994,taylor.henderson@hotmail.com,26,2026-01-19 16:02:06.465876,Phone,17.58,139.13
+3706,Bryan Bryant,001-888-298-0461x86156,bryan.bryant@yahoo.com,54,2022-04-23 05:06:26.834031,Phone,1768.66,5736.27
+3266,Jason Sherman,910-615-8527,jason.sherman@hotmail.com,41,2022-05-12 01:55:51.977973,Monitor,1032.0,5632.65
+5702,Tiffany Edwards,893.690.5681,tiffany.edwards@yahoo.com,43,2022-01-01 18:56:43.481733,Monitor|Keyboard|Phone,1888.37,13115.77
+9738,Daniel Harvey,883-689-9244x424,daniel.harvey@yahoo.com,31,2023-07-20 17:10:30.746088,Laptop|Monitor|Keyboard,1388.34,11724.41
+9607,Jennifer Adams,241-258-8008x6865,jennifer.adams@yahoo.com,31,2025-09-04 06:26:20.571306,Laptop|Phone,1451.95,12618.44
+8287,Stephen Wells,542.957.5275x7298,stephen.wells@hotmail.com,50,2025-03-16 19:00:19.728811,Laptop,978.03,4373.02
+6586,David Ferguson,283.895.6757x7852,david.ferguson@hotmail.com,64,2021-08-17 07:41:08.515614,Phone|Mouse|Keyboard|Laptop,1934.88,8273.79
+4922,Cynthia Cooper,(421)629-1505x56529,cynthia.cooper@yahoo.com,33,2023-04-09 18:57:11.179579,Mouse|Monitor,1000.11,8774.94
+1356,Derek Jones,+1-688-790-5199x1840,derek.jones@gmail.com,53,2025-05-23 14:43:00.377466,Monitor|Laptop,803.54,2148.88
+8076,Kristen Ellis,405-747-0123x4110,kristen.ellis@hotmail.com,22,2021-07-12 11:50:19.088385,Phone,778.53,6074.4
+1912,Jessica Booth,+1-438-672-0512x924,jessica.booth@gmail.com,37,2021-06-16 12:43:37.744246,Mouse,1748.16,13371.88
+7530,Brian Hamilton,414.438.4498,brian.hamilton@hotmail.com,39,2022-04-18 21:25:23.034178,Desk Lamp|Mouse|Monitor|Keyboard,1618.26,9075.13
+7842,Kyle Blackwell,767.323.1148x94077,kyle.blackwell@hotmail.com,58,2021-12-22 23:01:29.554950,Laptop,193.38,1193.49
+9513,Stephanie Townsend,001-685-347-9010x383,stephanie.townsend@hotmail.com,54,2023-08-04 16:24:56.781649,Keyboard|Laptop,887.74,6254.92
+1364,Dana Richards,001-396-595-7214x89727,dana.richards@yahoo.com,24,2024-10-06 13:51:50.737336,Monitor|Phone,943.8,4093.23
+2279,Angela Higgins,(340)615-6289x4516,angela.higgins@gmail.com,57,2023-06-27 21:04:37.918063,Monitor,1622.34,5898.29
+1530,Amy Wallace,737-201-9222x919,amy.wallace@yahoo.com,63,2022-11-01 01:23:18.026134,Desk Lamp|Mouse,959.29,8078.47
+4392,Maria Simpson,(263)780-4330x3888,maria.simpson@hotmail.com,23,2024-11-14 16:46:39.239151,Mouse|Desk Lamp|Keyboard,967.03,2142.66
+2346,Jack Gonzalez,+1-931-861-7137x01092,jack.gonzalez@yahoo.com,40,2024-06-02 10:47:29.331708,Phone|Desk Lamp|Monitor,1003.51,5502.44
+4023,Sarah Ortiz,726.611.5711x797,sarah.ortiz@hotmail.com,24,2023-04-22 15:16:00.701110,Monitor|Desk Lamp|Phone|Laptop,786.66,7517.74
+6290,Sharon Smith,210.553.5931,sharon.smith@hotmail.com,30,2024-05-12 05:30:50.448193,Mouse,678.21,6466.24
+4168,Briana Nelson,(421)490-2705x436,briana.nelson@gmail.com,50,2021-10-28 17:11:09.885192,Mouse|Desk Lamp|Phone,570.78,3678.23
+4433,Roy Jordan,293.557.8808,roy.jordan@yahoo.com,19,2024-04-21 13:54:26.376339,Laptop|Keyboard|Mouse|Phone,1409.01,2225.9
+9944,Brittany Long,328-257-1857,brittany.long@gmail.com,23,2021-09-21 04:52:24.040881,Phone|Mouse|Monitor,126.7,792.0
+3600,Christina Nelson,980-391-1199x5345,christina.nelson@yahoo.com,57,2025-06-21 12:40:38.412351,Desk Lamp|Mouse,132.39,843.85
+7350,Haley Hansen,689.918.8179x9866,haley.hansen@yahoo.com,32,2026-02-23 21:44:40.003341,Phone,120.21,297.2
+5405,Benjamin Martin,2445838922,benjamin.martin@yahoo.com,60,2021-07-03 07:20:25.128985,Desk Lamp|Keyboard|Laptop,864.61,3150.67
+5217,David Nichols,369.553.7376,david.nichols@yahoo.com,54,2023-05-08 09:58:53.233209,Laptop|Mouse|Desk Lamp|Keyboard,1866.36,14024.32
+3705,Mario Mcdonald,+1-985-652-6802x398,mario.mcdonald@gmail.com,34,2023-10-28 03:02:32.709486,Desk Lamp|Mouse,500.27,2421.38
+5773,Gary Lewis,+1-659-799-4605,gary.lewis@gmail.com,32,2021-12-05 06:10:26.364016,Mouse|Keyboard|Monitor|Desk Lamp,21.98,173.07
+8346,Valerie Bowers,943.368.5713x328,valerie.bowers@gmail.com,52,2022-02-01 14:50:12.608417,Laptop|Mouse|Monitor|Phone,1092.76,8794.03
+6601,Brenda Butler,001-602-536-7661x9536,brenda.butler@hotmail.com,41,2022-03-27 15:01:50.455149,Monitor|Phone,529.85,2986.25
+4770,Douglas Gonzalez,+1-681-724-2382x6559,douglas.gonzalez@hotmail.com,34,2021-04-15 03:52:36.553988,Desk Lamp,1102.29,6198.72
+3071,Tiffany Hall,(776)703-8596,tiffany.hall@yahoo.com,30,2021-04-15 22:12:02.520200,Phone|Desk Lamp|Laptop|Monitor,688.49,4724.9
+6740,Kyle Strickland,782.796.2503,kyle.strickland@hotmail.com,65,2022-12-19 17:49:38.143693,Keyboard|Monitor|Phone|Laptop,1896.5,18869.06
+5219,James Beck,694.338.3181,james.beck@yahoo.com,18,2024-08-25 01:17:00.133700,Keyboard|Laptop|Desk Lamp|Phone,1109.58,9055.13
+5888,Michael Dean,871-506-8739x0951,michael.dean@hotmail.com,32,2022-06-21 00:45:30.030310,Desk Lamp|Keyboard,62.88,99.62
+5674,Christopher Kidd,(383)785-9709,christopher.kidd@yahoo.com,54,2023-09-06 00:13:23.975185,Phone,203.6,896.85
+5652,Caleb Hunt,+1-722-855-1037x313,caleb.hunt@hotmail.com,50,2021-05-12 01:19:20.131631,Monitor|Laptop|Keyboard|Mouse,514.12,2530.07
+6888,Jennifer Sanders,+1-467-560-2297,jennifer.sanders@gmail.com,59,2026-01-22 20:55:58.947522,Mouse|Keyboard,664.71,4389.28
+5318,Karen Stafford,471.775.6266x8341,karen.stafford@hotmail.com,32,2024-07-07 00:27:23.382277,Monitor|Desk Lamp,1640.81,14018.5
+4108,Marcus Green,319-857-5053x7893,marcus.green@yahoo.com,21,2023-03-27 05:26:59.160517,Desk Lamp|Keyboard|Laptop,1597.78,3996.5
+8253,Tyler Payne,+1-721-786-7948,tyler.payne@hotmail.com,41,2023-04-26 14:24:45.015009,Mouse,184.32,1813.44
+8446,Michelle Walker,001-493-713-0508,michelle.walker@yahoo.com,54,2025-12-31 20:42:42.601325,Laptop|Mouse|Phone|Monitor,823.47,3824.29
+4201,Dawn Atkinson,298-231-2274x0175,dawn.atkinson@yahoo.com,47,2022-10-20 21:57:50.745974,Desk Lamp|Mouse|Phone|Keyboard,529.43,1681.57
+3927,Brenda Smith,767-222-9716x952,brenda.smith@yahoo.com,58,2023-11-25 05:16:50.777356,Keyboard|Phone|Monitor,1228.61,6385.07
+1490,Wendy Lopez,001-570-315-3985,wendy.lopez@gmail.com,44,2023-08-17 23:08:32.090926,Mouse|Laptop|Monitor|Phone,1241.68,9409.86
+5227,Caitlin Kent,613-202-2608x7064,caitlin.kent@hotmail.com,23,2024-08-06 23:17:00.507722,Keyboard|Laptop|Monitor|Phone,627.43,1913.12
+8936,Theresa Blanchard,001-547-288-7006x88494,theresa.blanchard@hotmail.com,60,2024-11-08 05:53:10.115506,Laptop|Keyboard,1396.65,7937.64
+5593,Nicole Russell,(383)774-2203x06362,nicole.russell@yahoo.com,30,2022-01-20 10:33:10.159593,Keyboard,1366.78,6053.24
+6490,Desiree Cook,+1-652-307-4512x03132,desiree.cook@gmail.com,34,2025-06-29 22:12:46.840416,Laptop|Phone|Keyboard|Mouse,1750.41,4151.76
+8034,Jamie Moore,517-634-7683x058,jamie.moore@yahoo.com,54,2022-06-26 13:52:13.756357,Laptop|Mouse,566.08,4705.36
+7958,Lisa Calderon,8884259905,lisa.calderon@hotmail.com,40,2023-04-13 11:09:12.665984,Laptop|Mouse,863.17,5061.85
+5932,Pamela Young,001-404-311-0426x8460,pamela.young@hotmail.com,56,2024-08-18 14:24:07.933838,Laptop|Desk Lamp|Mouse|Phone,821.34,8141.66
+5453,Kevin Williams,001-950-359-0968x53204,kevin.williams@gmail.com,43,2023-09-08 02:25:50.820605,Desk Lamp|Keyboard|Laptop,903.37,2461.39
+4563,Patricia Jones,+1-777-487-3349x73893,patricia.jones@yahoo.com,21,2022-11-03 22:11:06.594304,Monitor,286.85,1914.61
+8455,Heather Smith,238.328.6525,heather.smith@yahoo.com,25,2022-09-05 08:44:17.774652,Laptop|Keyboard|Phone|Desk Lamp,98.97,840.8
+1185,Brittney Orozco,6979261086,brittney.orozco@hotmail.com,44,2023-03-13 02:31:04.383415,Laptop|Desk Lamp|Keyboard|Monitor,147.63,857.77
+3855,Alicia Lopez,001-899-457-1846,alicia.lopez@gmail.com,51,2021-06-07 21:41:56.799796,Phone|Laptop,1926.89,7318.03
+7652,Aaron Colon,442-682-3468x96895,aaron.colon@yahoo.com,20,2022-01-27 00:26:03.057973,Phone|Keyboard,977.29,1540.7
+6145,Connie Mckinney,850-418-1566,connie.mckinney@gmail.com,61,2026-01-20 09:54:44.753843,Laptop|Mouse|Desk Lamp|Keyboard,572.66,5380.25
+5396,Kaitlin Pierce,+1-807-297-4815,kaitlin.pierce@yahoo.com,34,2024-08-29 16:03:42.198270,Mouse|Monitor|Phone|Keyboard,1463.6,7688.96
+4149,Jennifer Wright,733.870.3394,jennifer.wright@yahoo.com,26,2022-12-13 18:08:46.683775,Monitor|Laptop|Mouse,385.82,2912.63
+1664,Emily Juarez,001-916-553-2171x66234,emily.juarez@gmail.com,64,2023-02-05 14:15:26.861726,Laptop|Desk Lamp|Keyboard|Monitor,1288.85,2414.64
+1766,Joshua Estes,910.602.1095,joshua.estes@yahoo.com,54,2025-10-24 18:14:28.897267,Monitor,402.42,1424.39
+1145,Bruce Harris,442.607.2519x953,bruce.harris@hotmail.com,27,2025-03-04 23:59:40.438663,Laptop|Monitor|Keyboard,240.24,1514.87
+8650,William Small,001-870-715-7370x783,william.small@hotmail.com,29,2024-11-15 18:06:35.645042,Desk Lamp|Laptop|Keyboard,890.21,7246.87
+1784,Anna Thompson,657.749.9981,anna.thompson@hotmail.com,59,2022-01-16 15:32:04.836430,Laptop|Keyboard,1521.77,9122.15
+9029,Jeffrey Parrish,401.621.5150,jeffrey.parrish@gmail.com,59,2023-02-21 13:05:24.289831,Monitor|Mouse,903.8,4299.94
+6452,Angela Duran,+1-605-641-3079x0972,angela.duran@yahoo.com,61,2025-06-29 18:27:23.630488,Laptop,347.36,3396.21
+1992,Kenneth Miller,786-635-9901,kenneth.miller@hotmail.com,25,2026-02-14 09:10:09.048473,Mouse|Monitor|Desk Lamp|Laptop,258.07,1660.49
+2397,Joseph Austin,(576)379-9951x37387,joseph.austin@gmail.com,43,2022-12-08 11:33:41.295318,Desk Lamp|Mouse|Laptop|Keyboard,378.66,2701.12
+7254,James Luna,+1-990-643-7136x998,james.luna@hotmail.com,20,2025-07-03 10:55:43.961397,Monitor|Keyboard,623.99,6120.59
+7831,Micheal Phillips,001-767-255-2989,micheal.phillips@hotmail.com,52,2022-10-17 04:48:47.409431,Phone|Desk Lamp|Monitor|Laptop,819.44,2640.61
+4209,Jason Ray,(788)988-6266,jason.ray@hotmail.com,59,2024-10-04 23:19:35.642564,Mouse|Monitor|Keyboard|Desk Lamp,1577.12,12577.87
+5145,Abigail Moore,+1-542-567-4442x34181,abigail.moore@hotmail.com,40,2021-09-19 21:16:46.011267,Laptop|Mouse|Keyboard,552.5,3488.16
+7042,Victoria Hill,+1-221-509-8036x2957,victoria.hill@gmail.com,21,2023-12-25 14:31:50.643503,Keyboard|Phone|Monitor|Desk Lamp,1857.26,11036.6
+3332,Mary Price,001-297-524-8502,mary.price@yahoo.com,38,2023-10-26 16:51:05.798792,Phone|Laptop,1636.03,5840.53
+4731,Rachel Brown,+1-312-373-6601,rachel.brown@hotmail.com,35,2025-03-07 05:02:34.655249,Laptop|Keyboard,1783.47,13076.85
+8714,Denise Clark,604-588-6434,denise.clark@gmail.com,32,2023-10-15 19:16:24.005191,Mouse,982.81,1661.57
+3359,Audrey Ramirez,(212)768-8915x414,audrey.ramirez@hotmail.com,48,2024-08-31 22:11:47.248075,Keyboard|Laptop|Phone|Desk Lamp,596.03,5183.28
+4057,Michael Hernandez,001-845-664-4357x0890,michael.hernandez@yahoo.com,64,2022-01-01 10:51:45.916936,Desk Lamp,1114.61,2895.06
+9766,Catherine Harmon,2568656336,catherine.harmon@hotmail.com,20,2024-03-17 22:26:44.363419,Mouse,1952.53,18012.65
+1823,Linda Hart,5467435678,linda.hart@yahoo.com,53,2025-04-26 01:41:26.133758,Desk Lamp,169.67,1164.47
+1487,Kimberly Cowan,952.825.3985x489,kimberly.cowan@gmail.com,19,2022-05-24 14:11:02.205922,Desk Lamp|Mouse,342.99,2870.34
+2929,Michael Neal,722.258.6798x05427,michael.neal@gmail.com,47,2022-05-09 09:40:22.631673,Keyboard|Monitor|Mouse|Desk Lamp,594.85,3607.72
+1033,Katie Hartman,+1-706-241-0595,katie.hartman@gmail.com,54,2024-03-14 10:03:29.109561,Keyboard|Laptop,1863.18,7402.66
+8280,Yesenia Brock,(908)978-3518x377,yesenia.brock@gmail.com,54,2025-01-27 22:21:36.092162,Keyboard|Phone,1385.82,9581.91
+2386,Nathan Yang,648.566.2290x7814,nathan.yang@gmail.com,44,2022-03-03 13:42:08.486091,Laptop|Monitor|Keyboard,1980.54,11639.54
+5730,Angela Porter,+1-866-852-9680,angela.porter@hotmail.com,25,2025-05-14 14:10:04.452421,Monitor|Keyboard,1524.82,14337.44
+5687,Charles Watkins,972.687.5627,charles.watkins@yahoo.com,62,2024-04-24 08:49:58.879376,Laptop|Keyboard|Desk Lamp|Mouse,1672.52,12790.58
+3908,Olivia Butler,951.298.4510,olivia.butler@hotmail.com,51,2021-04-16 05:46:45.315842,Phone|Keyboard|Laptop|Desk Lamp,1365.25,13003.18
+1695,Michael Lambert,001-398-661-9196,michael.lambert@hotmail.com,33,2025-11-08 06:20:31.318886,Desk Lamp|Monitor,745.76,1352.62
+2249,Joseph Lee,(450)856-7519,joseph.lee@yahoo.com,46,2024-06-10 03:53:46.075104,Keyboard,706.59,1598.83
+8861,Mindy Benton,956-452-1206,mindy.benton@gmail.com,49,2024-08-21 00:03:58.440072,Mouse|Desk Lamp|Laptop|Monitor,90.43,408.37
+7539,Steven Medina,001-775-409-2989,steven.medina@hotmail.com,45,2021-06-10 06:54:37.467040,Phone|Desk Lamp|Laptop|Monitor,278.99,905.0
+6610,Chelsea Patrick,001-303-490-3949x390,chelsea.patrick@yahoo.com,63,2022-07-31 10:50:05.716736,Phone|Desk Lamp,390.02,1434.77
+3108,Nicole Grant,001-362-478-9943x61630,nicole.grant@gmail.com,20,2021-10-13 21:08:35.210544,Laptop,1787.94,17495.12
+5448,Robert Hill,+1-299-745-4723x60151,robert.hill@gmail.com,51,2023-02-14 19:36:18.077865,Laptop|Mouse|Monitor|Phone,377.85,3555.5
+4529,Richard Mccullough,+1-740-769-0487,richard.mccullough@hotmail.com,22,2024-10-01 04:12:04.729710,Keyboard,1667.85,16323.68
+1959,Katherine Horne,922-443-0465,katherine.horne@gmail.com,45,2022-09-27 01:01:37.762886,Keyboard,1699.75,4428.43
+7767,Donna Murray,313.231.9484x746,donna.murray@gmail.com,26,2024-12-16 12:22:17.256822,Monitor,1710.14,6129.59
+3928,John Hughes,+1-553-758-1129x74605,john.hughes@yahoo.com,24,2023-09-24 05:47:57.551121,Phone|Keyboard|Desk Lamp,1193.44,7927.4
+7986,Jennifer Taylor,5118281846,jennifer.taylor@yahoo.com,43,2021-11-02 19:07:21.010832,Keyboard|Monitor|Laptop,1410.68,7064.99
+5173,John Mccoy,(366)478-7205x42400,john.mccoy@yahoo.com,61,2025-10-10 16:49:55.210751,Phone|Keyboard|Monitor,1223.35,11211.02
+8210,Stephen Dixon,720.601.4980x527,stephen.dixon@hotmail.com,36,2021-07-03 03:12:40.552981,Desk Lamp,648.22,1522.03
+4502,Jennifer Perez,001-858-609-1771,jennifer.perez@hotmail.com,22,2024-04-15 19:47:57.772347,Laptop|Desk Lamp,1912.88,6492.48
+3287,Brian Ingram,+1-480-870-5919x819,brian.ingram@gmail.com,44,2021-05-15 15:43:20.155514,Mouse,1709.46,6598.41
+2946,Linda Aguilar,616-431-8557,linda.aguilar@hotmail.com,65,2021-05-16 09:11:24.961399,Mouse|Keyboard|Phone,1615.37,9477.68
+8480,Colin Rosales,259-254-1301,colin.rosales@hotmail.com,46,2022-05-15 22:10:05.122346,Monitor,49.48,110.23
+9846,April Lam,331-380-3764,april.lam@hotmail.com,24,2025-09-08 21:20:27.827446,Keyboard,1309.33,10105.84
+8432,Holly Scott,(942)586-0403,holly.scott@hotmail.com,22,2026-01-03 05:51:53.652163,Monitor|Keyboard|Laptop|Mouse,1765.76,12165.89
+4867,Nathan Bailey,+1-736-693-2498x790,nathan.bailey@gmail.com,46,2022-01-30 05:08:59.496665,Laptop,349.45,2202.6
+6570,Thomas Klein,846.337.2658x65913,thomas.klein@hotmail.com,33,2025-12-15 23:18:02.018212,Keyboard|Mouse|Phone,1916.67,9419.39
+5683,Virginia Mccann,(586)715-5531,virginia.mccann@yahoo.com,58,2025-10-26 23:56:54.617362,Phone,276.7,1614.09
+2997,Amber Morris,598-569-1806x39705,amber.morris@yahoo.com,31,2021-08-15 07:53:23.226267,Mouse|Keyboard|Laptop,367.94,784.04
+8263,David Curtis,(704)961-5553,david.curtis@yahoo.com,32,2024-12-14 11:44:16.814374,Laptop|Mouse|Desk Lamp|Phone,922.85,7127.21
+2156,Yesenia Brown,(493)208-7113x4763,yesenia.brown@gmail.com,40,2021-07-26 05:56:56.507753,Laptop|Desk Lamp|Mouse,1879.01,12835.9
+2086,Tina Jackson,399.750.8277x7317,tina.jackson@gmail.com,38,2025-10-20 22:33:31.880601,Laptop,85.09,709.71
+4089,Tyler Baker,+1-622-217-9736,tyler.baker@hotmail.com,53,2025-05-12 05:14:20.860398,Laptop|Phone|Monitor|Desk Lamp,956.19,7149.22
+4052,Miranda Deleon,207.761.7506,miranda.deleon@hotmail.com,18,2024-02-04 08:32:20.880343,Phone|Desk Lamp|Laptop|Mouse,435.1,865.15
+2754,Melinda Vaughn,(420)625-2477x412,melinda.vaughn@gmail.com,26,2022-06-21 16:44:37.251405,Phone|Desk Lamp|Laptop|Keyboard,1952.2,15749.39
+1153,Eric Landry,(557)688-2654x055,eric.landry@gmail.com,46,2023-04-25 00:11:49.405820,Monitor|Laptop|Keyboard,855.32,3630.06
+8806,Elizabeth Gentry,+1-426-676-3063,elizabeth.gentry@gmail.com,26,2023-11-18 22:14:43.783847,Desk Lamp,202.92,402.98
+2609,Lindsey Fisher,+1-887-215-5128x99778,lindsey.fisher@yahoo.com,24,2023-07-05 14:33:07.279485,Keyboard|Laptop|Desk Lamp,1373.58,4864.21
+9674,Barbara Wood,(508)719-7488,barbara.wood@hotmail.com,34,2023-06-20 20:42:36.186655,Mouse|Desk Lamp|Phone|Monitor,76.58,742.28
+6636,Katelyn Mccoy,664-979-4771x03267,katelyn.mccoy@gmail.com,22,2021-10-17 13:14:22.088922,Keyboard,1043.42,3988.36
+7555,Jacob Smith,+1-789-787-1519x38513,jacob.smith@gmail.com,33,2025-06-05 01:41:22.346082,Monitor,392.82,1252.26
+1982,Ashley Harris,(456)729-0167x000,ashley.harris@gmail.com,39,2021-11-12 18:16:20.734579,Desk Lamp|Laptop,362.71,2943.05
+9702,Jennifer Sanchez,438-232-7787,jennifer.sanchez@hotmail.com,23,2026-03-06 13:51:01.908422,Laptop|Phone|Monitor|Desk Lamp,740.85,5083.21
+2304,Patrick Chavez,617-239-4188x24529,patrick.chavez@hotmail.com,54,2024-09-23 04:47:32.204301,Desk Lamp|Mouse|Laptop|Monitor,591.29,3590.87
+4442,Shawn Park,001-419-626-3978x22852,shawn.park@yahoo.com,32,2022-10-23 12:53:47.434923,Desk Lamp|Monitor|Mouse,175.3,1018.85
+6365,Richard Tucker,+1-496-983-1485x42377,richard.tucker@gmail.com,40,2022-09-08 12:16:56.455923,Laptop|Keyboard,1259.54,7671.59
+1559,Pamela Wagner,(750)278-1799,pamela.wagner@gmail.com,20,2022-07-20 18:26:53.624460,Desk Lamp|Mouse|Phone,105.97,748.76
+6746,Devin Olson,238.293.2642,devin.olson@hotmail.com,62,2025-06-13 16:08:28.894329,Desk Lamp,1758.98,11938.5
+1052,Christy Simmons,(347)492-6792,christy.simmons@gmail.com,29,2025-05-05 09:45:46.442606,Monitor|Keyboard,1502.21,4290.04
+4727,Maurice Davis,001-988-415-4016x8218,maurice.davis@gmail.com,44,2024-03-01 08:39:40.641759,Phone,1963.16,15558.13
+4840,Michael Henry,(975)601-3798x50215,michael.henry@yahoo.com,46,2021-07-12 22:07:36.484467,Laptop|Desk Lamp|Mouse|Phone,1282.48,2506.16
+4774,Melissa Mendez,8677230906,melissa.mendez@hotmail.com,53,2025-04-19 17:20:46.421376,Monitor|Mouse,1649.58,12866.69
+6451,Sierra Roberts,001-548-399-4508,sierra.roberts@hotmail.com,25,2021-05-28 01:25:49.852786,Keyboard|Laptop,1279.88,11109.21
+6299,Andrew Singh,576.331.9038x31938,andrew.singh@gmail.com,26,2022-12-18 18:28:11.625794,Keyboard|Monitor,737.48,3562.2
+9845,Teresa Castillo,001-879-205-9892x0942,teresa.castillo@gmail.com,53,2022-09-19 16:08:42.093252,Phone,168.3,469.49
+1277,Melanie Taylor,001-626-905-5997,melanie.taylor@gmail.com,51,2023-04-17 09:48:35.941478,Keyboard|Laptop|Desk Lamp|Monitor,1991.14,9542.42
+7646,Gregory Adkins,001-863-403-9533,gregory.adkins@hotmail.com,57,2021-06-18 07:33:19.575231,Keyboard|Phone|Laptop,382.96,2082.14
+4634,Christie Smith,001-347-737-3423x022,christie.smith@hotmail.com,47,2024-08-29 14:18:49.756190,Monitor|Keyboard|Mouse|Desk Lamp,783.53,7441.39
+4708,Jacob Clark,+1-700-353-1549x88284,jacob.clark@gmail.com,28,2022-12-30 23:06:10.368869,Laptop,1669.64,8510.64
+2528,Jack Montes,001-209-528-5096x50888,jack.montes@yahoo.com,48,2024-12-20 00:34:23.408581,Keyboard|Monitor|Desk Lamp|Laptop,279.22,1639.31
+6589,Joseph Christensen,557.729.8026x7346,joseph.christensen@yahoo.com,31,2021-07-21 03:02:46.461822,Phone|Keyboard|Laptop,1723.34,7471.26
+8706,Jay Mcintyre,001-333-317-8965,jay.mcintyre@yahoo.com,27,2022-04-21 04:43:47.251991,Mouse|Keyboard|Laptop|Desk Lamp,52.36,413.74
+7229,David Curtis,+1-659-261-7083x874,david.curtis@yahoo.com,34,2022-04-21 23:22:45.126312,Desk Lamp|Keyboard,1731.42,16048.29
+6124,Zachary Hernandez,4697190756,zachary.hernandez@yahoo.com,64,2021-08-04 15:04:22.779981,Desk Lamp|Keyboard,610.28,1963.99
+4283,Anthony Williams,+1-906-888-4730x8137,anthony.williams@gmail.com,51,2025-01-06 16:03:48.905660,Phone|Desk Lamp,1587.25,6812.95
+4418,Shawn Fuentes,(661)489-2357x5147,shawn.fuentes@hotmail.com,46,2023-01-21 01:42:09.139322,Laptop|Mouse,656.81,5576.73
+5963,Bryce Alexander,219.380.8955,bryce.alexander@hotmail.com,64,2022-05-31 19:50:37.694683,Desk Lamp|Phone|Monitor|Laptop,1605.24,15771.3
+9699,April Nguyen,(494)457-7051x65235,april.nguyen@gmail.com,27,2023-12-04 06:22:59.131856,Monitor|Phone,275.18,591.06
+4129,Jacob Huffman,990-629-4317,jacob.huffman@hotmail.com,38,2023-01-12 17:43:09.267286,Mouse,922.4,3906.05
+9789,Michelle Pace,+1-913-885-6341x8765,michelle.pace@hotmail.com,26,2025-05-13 21:15:21.233298,Desk Lamp|Laptop,113.81,1137.05
+3324,Christine Martinez,632-323-6569x322,christine.martinez@yahoo.com,56,2023-01-01 00:21:27.097634,Monitor|Laptop|Keyboard,829.78,1721.66
+2202,Jennifer Christensen,(785)865-0822,jennifer.christensen@yahoo.com,31,2024-07-31 22:16:05.249245,Monitor|Laptop,1392.6,10380.22
+2186,Linda Koch,350-547-5351,linda.koch@yahoo.com,50,2021-09-06 07:03:37.101730,Monitor|Keyboard|Laptop|Mouse,949.85,2990.62
+7544,Kelly Evans,(411)444-7946,kelly.evans@gmail.com,34,2021-09-11 13:11:18.382973,Mouse,303.74,2587.0
+6998,Laurie Davis,+1-256-555-0724x61093,laurie.davis@gmail.com,63,2022-01-10 21:53:18.070422,Monitor|Mouse|Keyboard|Phone,1107.64,9364.49
+8674,Jessica Weaver,001-362-975-4891x20299,jessica.weaver@hotmail.com,26,2023-06-16 00:19:57.101474,Phone|Mouse|Laptop|Monitor,1129.64,3183.04
+8747,Jeffrey Smith,779-537-0654x59881,jeffrey.smith@yahoo.com,48,2022-08-15 08:58:22.218552,Laptop|Phone|Monitor,439.02,2846.6
+8993,Christopher Logan,001-952-872-0153x8207,christopher.logan@gmail.com,45,2024-11-29 20:19:44.628292,Phone|Laptop,118.64,737.02
+3134,Steven Valencia,230.745.7076,steven.valencia@gmail.com,50,2022-12-08 07:29:35.388880,Keyboard|Phone|Monitor,1422.43,10905.05
+2009,Tammy Waters,+1-885-280-2182x0879,tammy.waters@hotmail.com,50,2022-01-15 23:15:11.986144,Mouse,1136.59,8483.78
+2008,Jeffery Tran,(591)579-9453,jeffery.tran@hotmail.com,38,2021-09-26 11:54:42.980032,Laptop,1368.18,11456.04
+6435,Frederick Mason,504.862.0739x389,frederick.mason@hotmail.com,32,2021-11-15 17:09:45.634279,Phone,1316.33,12825.97
+4622,Mario Carroll,520-997-9446,mario.carroll@gmail.com,52,2024-04-15 12:34:43.107176,Monitor|Mouse|Laptop,290.5,1017.83
+9106,John Cohen,(581)798-2882x6690,john.cohen@yahoo.com,30,2025-06-24 11:50:07.428629,Phone,1335.06,10530.58
+7979,Kristen Richardson,353-970-9723,kristen.richardson@gmail.com,19,2024-06-01 01:20:36.261270,Laptop|Phone|Monitor|Mouse,116.76,676.12
+2106,Scott King,(298)402-7472x1593,scott.king@yahoo.com,38,2022-05-08 00:32:39.219418,Laptop|Monitor|Phone,586.19,4924.92
+6009,Catherine Ryan,960.791.5787,catherine.ryan@hotmail.com,24,2025-05-27 10:17:21.553827,Mouse|Desk Lamp|Laptop|Monitor,1959.03,11911.68
+5283,Sharon Smith,726-654-4104x137,sharon.smith@hotmail.com,34,2026-03-08 17:37:23.065639,Monitor|Laptop|Phone|Keyboard,109.56,273.04
+1135,Samantha Villegas,9083195998,samantha.villegas@gmail.com,27,2021-05-10 18:56:02.478894,Phone|Mouse,286.61,634.36
+7358,Alexis Bradshaw,+1-480-623-0419x75066,alexis.bradshaw@hotmail.com,19,2021-09-28 18:39:10.091022,Mouse|Desk Lamp,853.17,2899.9
+7537,Cynthia Gomez,(304)688-1780,cynthia.gomez@yahoo.com,53,2025-03-06 01:56:35.456259,Monitor|Desk Lamp,548.98,4071.39
+1360,Kenneth Fernandez,001-566-333-7213x55778,kenneth.fernandez@hotmail.com,61,2021-05-10 17:24:34.955008,Monitor|Mouse|Laptop,689.9,2628.4
+6980,Marie Haley,001-436-357-5157x26533,marie.haley@hotmail.com,50,2025-10-01 21:01:01.989359,Desk Lamp|Keyboard|Laptop,405.67,1114.48
+5595,Norma Dalton,950.856.0848,norma.dalton@yahoo.com,39,2021-06-20 01:44:06.291870,Mouse|Keyboard,242.84,832.76
+6795,Deborah Cox,886.763.1563x7415,deborah.cox@yahoo.com,63,2025-06-26 11:54:00.442124,Laptop|Keyboard,1291.11,9161.15
+2122,Annette Horton,9119345388,annette.horton@hotmail.com,35,2021-09-02 03:54:30.800852,Monitor|Mouse|Laptop,1949.59,13491.33
+9520,Toni Patel,(348)712-3151x29248,toni.patel@yahoo.com,62,2025-05-29 06:01:30.143511,Phone|Desk Lamp|Mouse|Monitor,352.54,551.72
+3210,Kaitlyn White,218.246.0471x9306,kaitlyn.white@hotmail.com,50,2023-06-04 20:29:39.324733,Desk Lamp,1331.14,8288.57
+1174,Frank Cole,397-458-9115x334,frank.cole@gmail.com,21,2022-12-28 16:00:13.793369,Laptop|Mouse,1003.92,3081.36
+2993,Keith Clark,(572)378-6963x493,keith.clark@gmail.com,34,2022-02-19 12:47:55.299267,Phone|Keyboard|Laptop|Desk Lamp,1679.73,12184.23
+7722,Scott Monroe,+1-354-649-2981x8587,scott.monroe@gmail.com,60,2026-02-15 15:47:08.047060,Desk Lamp|Phone|Keyboard,1411.0,6004.06
+3440,Paul Kirby,001-275-754-2102,paul.kirby@gmail.com,43,2025-05-17 12:51:14.098253,Monitor|Laptop,241.17,1031.83
+7034,Michele Mckee,(338)850-8884,michele.mckee@hotmail.com,62,2025-12-17 18:52:45.549223,Desk Lamp|Phone,1861.3,10415.05
+2209,Richard Lawrence,(525)801-7960x464,richard.lawrence@yahoo.com,31,2023-01-26 11:02:35.304857,Mouse|Laptop|Monitor,110.76,770.94
+6401,Amy Mcintosh,419-739-8786x832,amy.mcintosh@gmail.com,21,2023-09-13 21:48:27.269668,Keyboard|Mouse|Desk Lamp,1022.3,9830.01
+1842,Ashley West,867.773.2640x630,ashley.west@hotmail.com,26,2023-10-06 19:36:02.723748,Monitor|Mouse|Keyboard|Phone,1305.6,11792.39
+2339,David Whitney,(700)859-1448x7549,david.whitney@gmail.com,30,2022-06-20 22:10:38.883129,Monitor|Phone,434.47,3854.33
+7351,Emily Wallace,+1-928-807-6299x7575,emily.wallace@hotmail.com,25,2025-06-28 09:52:35.122758,Keyboard|Desk Lamp|Laptop|Monitor,523.74,1378.18
+4067,Johnny Jacobs,375-746-0715x844,johnny.jacobs@yahoo.com,45,2022-08-15 18:33:03.310842,Keyboard,960.08,2547.47
+1429,Justin Stephens,756-794-1743x239,justin.stephens@yahoo.com,63,2021-05-18 04:22:30.483309,Desk Lamp|Laptop,1215.57,11151.95
+5274,James Reeves,(755)372-0052x33569,james.reeves@hotmail.com,25,2025-01-26 03:18:22.150836,Desk Lamp|Mouse|Laptop|Phone,362.31,2954.88
+4588,Brian Myers,+1-841-207-8478x46292,brian.myers@gmail.com,43,2022-09-29 21:33:44.059256,Desk Lamp|Monitor|Laptop|Phone,1252.59,11166.87
+7030,Calvin Rivas,+1-313-616-0977x6906,calvin.rivas@gmail.com,39,2022-05-19 09:17:57.674006,Monitor|Keyboard|Phone,1471.23,11513.0
+5689,Megan Gonzales,+1-450-598-4628,megan.gonzales@gmail.com,22,2023-11-09 02:25:12.240230,Desk Lamp|Monitor,301.01,2111.88
+7770,Emily Johnson,+1-322-608-8965x6903,emily.johnson@hotmail.com,50,2024-11-15 07:06:57.264708,Desk Lamp|Keyboard|Mouse,1528.82,4228.49
+4014,Christina Flores,001-400-541-1964x09876,christina.flores@hotmail.com,29,2021-04-19 15:26:09.309817,Monitor|Laptop|Desk Lamp|Mouse,1276.74,10665.21
+9021,Ashley Shelton,239.385.2422,ashley.shelton@gmail.com,59,2024-09-12 19:04:29.752162,Monitor|Mouse|Keyboard|Laptop,105.85,430.15
+4626,Ronald Bryant,608-766-3845,ronald.bryant@hotmail.com,50,2023-07-10 17:49:00.513482,Mouse|Phone|Laptop|Monitor,1851.03,10128.25
+4333,Jennifer Giles,514-969-7970x9947,jennifer.giles@hotmail.com,18,2025-11-16 11:12:32.221543,Monitor|Phone|Desk Lamp|Keyboard,933.82,8323.17
+5411,Brian Morse,001-840-894-3507x9420,brian.morse@gmail.com,43,2023-07-28 22:09:51.990040,Mouse,1382.22,12169.21
+7850,Megan Stevens,790.453.4737,megan.stevens@gmail.com,57,2022-09-14 02:45:44.847244,Keyboard,426.71,1138.25
+8552,Johnny Stout,525-357-5344,johnny.stout@gmail.com,21,2023-11-13 19:43:56.654363,Monitor|Keyboard|Laptop,1847.12,4346.8
+2376,Thomas Gutierrez,821.430.1189x2882,thomas.gutierrez@gmail.com,31,2024-01-22 07:19:59.335705,Keyboard|Mouse,370.11,673.67
+9696,Caroline Mendoza,+1-308-600-5683x04278,caroline.mendoza@gmail.com,30,2022-08-13 22:03:45.973830,Keyboard|Mouse,1915.32,9873.22
+7807,Brandon Alexander,(707)434-6615x2078,brandon.alexander@hotmail.com,37,2025-11-20 19:16:13.717504,Desk Lamp|Laptop|Monitor,827.41,8253.96
+3166,Bryan Chavez,+1-833-725-8518x2013,bryan.chavez@yahoo.com,27,2024-01-11 23:37:05.660883,Laptop|Mouse|Keyboard|Monitor,1185.94,3557.48
+7662,Christina Lloyd,(977)938-5824x8978,christina.lloyd@hotmail.com,55,2021-09-21 19:14:03.914855,Monitor|Laptop,1429.91,10455.77
+8222,James James,(790)594-7383x59339,james.james@hotmail.com,40,2022-06-03 21:25:05.919916,Laptop|Keyboard,387.48,1758.53
+5981,Danielle Davis,+1-838-492-3129x4079,danielle.davis@gmail.com,20,2023-09-25 02:33:10.608719,Mouse|Desk Lamp|Keyboard,212.1,559.86
+4104,Sharon Jackson,616.569.9598x03412,sharon.jackson@gmail.com,60,2023-03-25 18:51:10.064559,Phone,1446.12,9702.47
+5458,Dustin Manning,776.498.9892x2685,dustin.manning@gmail.com,23,2021-05-11 12:54:56.058949,Keyboard|Laptop|Monitor,162.46,1253.85
+5656,Melanie Ferguson,+1-695-633-7997,melanie.ferguson@yahoo.com,42,2021-10-05 01:08:57.631703,Laptop|Desk Lamp|Mouse,1269.38,2600.59
+8544,Brooke Daniel,+1-305-917-4253x237,brooke.daniel@hotmail.com,36,2023-08-22 21:25:32.573620,Laptop|Desk Lamp|Mouse|Phone,1703.08,12559.79
+5731,Daniel Martinez,640-929-6039,daniel.martinez@yahoo.com,36,2022-06-23 04:42:26.581778,Mouse,939.53,5454.95
+1939,Emily Vasquez,555.420.2656,emily.vasquez@gmail.com,49,2024-07-29 18:54:33.448761,Mouse|Keyboard|Monitor,341.93,1577.39
+4025,James Sanchez,755.929.2838,james.sanchez@hotmail.com,38,2024-08-07 13:42:35.210731,Mouse,702.14,6434.4
+9573,Tiffany Chung,+1-255-593-1372x193,tiffany.chung@hotmail.com,56,2024-10-03 18:27:49.540454,Keyboard,462.34,1038.89
+1419,Angela Jackson,816-563-4478,angela.jackson@yahoo.com,50,2023-05-19 01:43:19.468884,Laptop|Phone|Monitor|Desk Lamp,1356.23,5665.42
+5507,Lisa West,354.884.7565x549,lisa.west@gmail.com,29,2022-03-27 19:40:37.902410,Laptop|Phone|Mouse,1711.91,7215.32
+7686,Gary Davis,493.707.3294x2312,gary.davis@yahoo.com,61,2025-10-02 14:40:21.868467,Mouse|Monitor|Phone,621.36,4825.36
+2603,Marcus Hunt,299-220-3434x958,marcus.hunt@hotmail.com,25,2023-10-29 01:12:50.680059,Mouse|Laptop,42.92,337.2
+7217,Derrick Obrien,694-353-1495,derrick.obrien@gmail.com,23,2022-10-16 18:44:51.921363,Keyboard|Laptop|Phone|Monitor,1178.79,6733.04
