@@ -7,4 +7,8 @@ RUN pip install --no-cache-dir --upgrade pip && \
     "typing_extensions>=4.10.0" \
     wandb \
     scikit-learn \
-    pandas
+    pandas \
+    numpy \
+    wandb \
+    apache-airflow \
+    faker

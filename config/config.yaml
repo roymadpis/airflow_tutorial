@@ -1,0 +1,11 @@
+# config.yaml
+dag_id: "pipeline_with_config"
+schedule_interval: "@daily"
+params:
+  datasets_dir: "/datasets"
+  customer_filename: "customers.csv"
+  output_path: "/data/processed/customers_cleaned.csv"
+  batch_size: 1000
+  retry_count: 3
+
+  number_of_customers: 100
