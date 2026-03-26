@@ -1,6 +1,6 @@
 import configparser
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 import os, sys
@@ -91,7 +91,6 @@ with DAG(
         }
     )
 
-
     predict_value_task = PythonOperator(
             task_id='predict_customer_value',
             python_callable=identify_marketing_targets,
@@ -106,7 +105,9 @@ with DAG(
                 'min_seniority': "{{ dag_run.conf.get('target_min_seniority', " + ANALYSIS['target_min_seniority'] + ") }}",
                 'experiment_id': "{{ dag_run.conf.get('experiment_id', 'manual_run') }}",
                 'wandb_project': WANDB['wandb_project']
-            }
+            },
+            retries = 2,
+            retry_delay = timedelta(seconds=60)
         )
 
     # predict_value_task = PythonOperator(
